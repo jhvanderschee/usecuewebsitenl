@@ -3,7 +3,9 @@ title: 'Security & Awareness 2017'
 ---
 
 
-Ik kreeg een mail van KPN genaamd: Security & Awareness 2017. Daar zou een spreker van Deloitte mij gratis kunnen vertellen hoe onveilig mijn bedrijfsnetwerk is. De eerste zin van de uitnodiging luidde:
+Ik kreeg een mail van KPN genaamd: Security & Awareness 2017. Daar zou een spreker van Deloitte mij gratis kunnen vertellen hoe onveilig mijn bedrijfsnetwerk is.
+
+De eerste zin van de uitnodiging luidde:
 
 *Beste relatie,
 <br>Beveiliging van IT-omgevingen en onze data is van het allergrootste belang en we hoeven alleen maar het nieuws te lezen om ons de urgentie hiervan te realiseren.*
@@ -15,8 +17,8 @@ Geen cijfers. Geen onderbouwing. Niets. Dat/dit is dus fearmongering:
 
 Dat mailde ik naar KPN. Die reageerde dat zei dat niet zo zagen en stuurde mij deze whitepapers toe, waarin te lezen valt:
 
-*"[...] dringen cybercriminelen niet &eacute;&eacute;n bedrijfsomgeving binnen maar
-<br>liggen er mogelijk meerdere omgevingen binnen handbereik. [...] Straks
+*"[…] dringen cybercriminelen niet &eacute;&eacute;n bedrijfsomgeving binnen maar
+<br>liggen er mogelijk meerdere omgevingen binnen handbereik. […] Straks
 <br>kan een cybercrimineel wellicht via een priv&eacute;netwerk binnendringen in
 <br>&eacute;&eacute;n van de verwachte 200 miljard devices."*
 
