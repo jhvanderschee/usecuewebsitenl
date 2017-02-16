@@ -26,4 +26,6 @@ Het woord 'handbereik', het niet noemen van aantallen (inbraken) of
 <br>risico's, het schetsen van een beangstigend mogelijk(!) toekomstbeeld...
 <br>als dit geen fearmongering is, wat dan wel!?
 
-Naast bovenstaande, staan er geen cijfers in het document waaruit zou blijken dat het niet om het aanwakkeren en uitvergroten van een bepaalde angst gaat. Er worden namelijk alleen maar allerlei incidenten uitgelicht, waarbij de reden van de hacks achterwege wordt gelaten. Hiermee vergroot KPN bewust het mysterie en de angst voor hacks. Daarnaast is het enige(!) getal dat ze noemen een heel groot en algemeen cijfer, dat komt uit een rapport van Deloitte. Juist, het bedrijf van die meneer die mij gratis zou vertellen waarom ik een probleem had. Nee, bedankt!
+Naast bovenstaande, staan er geen cijfers in het document waaruit zou blijken dat het niet om het aanwakkeren en uitvergroten van een bepaalde angst gaat. Er worden namelijk alleen maar allerlei incidenten uitgelicht, waarbij de reden van de hacks achterwege wordt gelaten. Hiermee vergroot KPN bewust het mysterie en de angst voor hacks. Daarnaast is het enige(!) getal dat ze noemen een heel groot en algemeen cijfer, dat komt uit een rapport van Deloitte. Juist, het bedrijf van die meneer die mij gratis zou vertellen waarom ik een probleem had. 
+
+Nee, bedankt!
