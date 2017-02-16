@@ -7,13 +7,13 @@ Ik kreeg een mail van KPN genaamd: Security & Awareness 2017. Daar zou een sprek
 
 De eerste zin van de uitnodiging luidde:
 
-**"*Beste relatie,
-<br>Beveiliging van IT-omgevingen en onze data is van het allergrootste belang en we hoeven alleen maar het nieuws te lezen om ons de urgentie hiervan te realiseren.*"**
+*"Beste relatie,
+<br>Beveiliging van IT-omgevingen en onze data is van het allergrootste belang en we hoeven alleen maar het nieuws te lezen om ons de urgentie hiervan te realiseren."*
 
 Geen cijfers. Geen onderbouwing. Niets. Dat/dit is dus fearmongering. We 'hoeven alleen maar het nieuws te lezen' om de uitwerking hiervan (op politiek vlak) te zien.
 
-**"*Fearmongering or scaremongering is the spreading of frightening and exaggerated rumors of an impending danger or the habit or tactic of purposely and needlessly arousing public fear about an issue. This can take the form of psychological manipulation that uses fear-based tactics (scare tactics) including exaggeration and usually repetition to influence the public in order to achieve a desired outcome. It is a
-<br>tactic used to scare or put fear into those viewing a campaign/advertisement and influence the outcome based on fear.*"**
+*"Fearmongering or scaremongering is the spreading of frightening and exaggerated rumors of an impending danger or the habit or tactic of purposely and needlessly arousing public fear about an issue. This can take the form of psychological manipulation that uses fear-based tactics (scare tactics) including exaggeration and usually repetition to influence the public in order to achieve a desired outcome. It is a
+<br>tactic used to scare or put fear into those viewing a campaign/advertisement and influence the outcome based on fear."*
 
 Dus ik mailde naar KPN dat ik dit fearmongering vond. Die reageerden vrijwel direct. Zij zagen dat niet zo en om dat kracht bij te zetten stuurde ze mij [deze whitepapers](/KPN Internedservices Whitepaper -security deel 1.pdf) toe, waarin te lezen valt:
 
