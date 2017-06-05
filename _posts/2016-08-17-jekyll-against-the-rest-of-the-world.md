@@ -1,16 +1,15 @@
 ---
-title: Jekyll against the rest of the world
+title: Jekyll tegen de rest van de wereld
 ---
 
+Vol vertrouwen nam ik plaats midden in de zaal. Mijn keuze om te kiezen voor 100% statisch was de juiste. Ik voelde me de rust zelve—niets kon mij raken.
 
-I’m stood in the center of a room, confident my choice to go all static had been a good one. It’s a serene scene—nothing can touch me.
+Om mij heen waren website eigenaren druk in de weer met WordPress beveiligingsupdates, terwijl ze op hetzelfde moment lekken probeerden te dichten die dubieuze gratis plug-ins in hun o-zo-belangrijke websites hadden achtergelaten.
 
-There are website owners running around wildly, chasing WordPress security vulnerabilities, while at the same time trying to plug holes, which the dubious free plug-ins they downloaded had ripped into their sites.
+Ik zag een man met zijn hoofd traag tegen het raam bonken. Het was geen medische aandoening. Hij immiteerde gewoon de snelheid waarmee zijn op PHP-gebaseerde, databasegestuurde website nieuwe verzoeken accepteerde.
 
-I see a man standing at the window, bashing his head against it in a slow rhythmic pace. It’s not a medical condition. He’s simply repeating the rate at which his PHP-based, database-driven publishing solution, accepts new requests.
+Vanuit mijn ooghoek zag ik een vrouw wild met haar armen zwaaien. Ze wilde de zaal in. Helaas voor haar liet niemand haar binnen—haar website was besmet met malware en bij ieder bezoek verscheen er een waarschuwing die bezoekers adviseerde zich zo snel mogelijk uit de voeten te maken.
 
-From the corner of my eye I can make out a woman who was frantically flailing her arms about. She was trying to get into the room. Unfortunately, no one would let her in; her website had been infected with malware and whenever someone tried to visit it, there was a warning, urging users to run away as fast as they could.
-
-Static publishing, oh blissful serenity. Why do I like you so much?
+Statische website generator, gelukzaligmakende rust. Waarom houd ik toch zo veel van je?
 
 [Read more...](http://tobyx.com/2015/jekyll-vs-world)
