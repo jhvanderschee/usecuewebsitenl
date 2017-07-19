@@ -3,7 +3,7 @@ title: "Luca's services."
 layout: portfolio
 image: /uploads/lucass.jpg
 color: '#46906b'
-address: 'http://whispering-wallaby.cloudvent.net'
+address: '//whispering-wallaby.cloudvent.net'
 order: 3
 ---
 
