@@ -3,7 +3,7 @@ title: felgen wie neu.
 layout: portfolio
 image: /uploads/fwn.jpg
 color: '#5b6669'
-address: 'http://www.felgen-wie-neu.com'
+address: '//swift-goldfish.cloudvent.net/'
 mobile: 450
 order: 4
 ---
