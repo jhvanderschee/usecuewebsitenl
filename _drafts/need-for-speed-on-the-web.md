@@ -1,3 +1,11 @@
 ---
 title: Need for speed on the web
 ---
+
+This is not a post about a web-version of the popular [racing game title](https://en.wikipedia.org/wiki/Need_for_Speed) 'Need for speed' by EA. This is about the speed at which websites load. Because... who does not like to go fast?
+
+We have heard it all before... Websites should aim to load in 3 seconds or less [sources: [Hubspot](https://research.hubspot.com/reports/does-your-website-make-the-grade), [Akamai](https://www.akamai.com/us/en/about/news/press/2009-press/akamai-reveals-2-seconds-as-the-new-threshold-of-acceptability-for-ecommerce-web-page-response-times.jsp) and Neilson]. If not, people will leave your website. We also know mobile traffic is growing in percentage and mobile traffic adds a [latency](https://www.techopedia.com/definition/8553/network-latency) increase of about 200ms [source: [Wikipedia](https://phabricator.wikimedia.org/phame/live/7/post/83/measuring_wikipedia_page_load_times/)]. So basically we only have 2.8 seconds to fully load your website. This is plenty, you would think. However, the avarage loading time of websites is about 3.7 seconds [source: [Hubspot](https://research.hubspot.com/reports/does-your-website-make-the-grade)], which means OVER 50% is failing to achieve this goal.
+
+Do you know that your next website is making the cut? You could order a website from Usecue BV to make sure you are not going to be needing a speed or SEO optimizer.
+
+We promise that websites we deliver have page sizes that are under 1.5MB. Additionally, we guarentee that your website loads in under a second on desktop. To prove this, we will provide an independent speed anlysis by Google ([Google Speed Insights](https://developers.google.com/speed/pagespeed/insights/)) and Yahoo ([Yslow](http://yslow.org/)) along with every website we deliver. Additionally we provide a SEO analysis by [Varvy](https://varvy.com/) and [SEO centro](http://seocentro.com), to show you your website is perfectly optimized for the Search Engine.
