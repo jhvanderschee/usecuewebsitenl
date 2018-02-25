@@ -36,4 +36,4 @@ It can be only 1 megabyte large and load in **0.6 seconds**. You just need the r
 
 ## Doing it yourself
 
-You can get some valuable advice from independent speed anlysis tools like [Google Speed Insights](https://developers.google.com/speed/pagespeed/insights/) and [Yslow](http://yslow.org/) and Google's [mobile speed tester for 3G](https://testmysite.withgoogle.com/intl/gb-int). They tell you exactly how to make your web page faster.
+You can get some valuable advice from independent speed anlysis tools like [Google Speed Insights](https://developers.google.com/speed/pagespeed/insights/) and [Yslow](http://yslow.org/) and Google's [mobile speed tester for 3G](https://testmysite.withgoogle.com/intl/gb-int). They will give you the numbers and tell you exactly how to make your web page faster.
