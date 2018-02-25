@@ -2,11 +2,11 @@
 title: Need for speed on the web
 ---
 
-This is not a post about a web-version of the popular racing game title '[Need for speed](https://en.wikipedia.org/wiki/Need_for_Speed)' by EA. I love that game and I have wasted too many hours racing through dark cities and endless highways, followed by a squadron of police cars. This article is about something else: The speed of the internet and specifically the speed at which websites load. Equally exciting, but far more important, as speed is a big factor in the success of your website. Allow me to explain why.
+This is not a post about a web-version of the popular racing game title '[Need for speed](https://en.wikipedia.org/wiki/Need_for_Speed)' by EA. I love that game and I have wasted too many hours racing through dark cities and endless highways, followed by a squadron of police cars. This article is about something else: The speed of the internet and specifically **the speed at which websites load**. Equally exciting, but far more important, as speed is a big factor in the success of your website. Allow me to explain why.
 
 ## Impatient visitors
 
-Research on e-commerce websites shows that 40 percent of consumers will wait no more than three seconds for a web page to render before abandoning the site. We also know mobile traffic is growing in percentage. Mobile traffic causes has an increased [latency](https://www.techopedia.com/definition/8553/network-latency) of about 200ms. So you only have 2.8 seconds to serve your website before you lose a significant amount of traffic. The avarage loading time of websites is about 3.7 seconds. This means that OVER 50% of the websites is failing to render within three seconds and that OVER 50% loses a lot of visitors.
+Research on e-commerce websites shows that 40 percent of consumers will wait no more than three seconds for a web page to render before abandoning the site. We also know mobile traffic is growing in percentage. Mobile traffic causes has an increased [latency](https://www.techopedia.com/definition/8553/network-latency) of about 200ms. So **you only have 2.8 seconds to serve your website** before you lose a significant amount of traffic. The avarage loading time of websites is about 3.7 seconds. This means that OVER 50% of the websites is failing to render within three seconds and that OVER 50% loses a lot of visitors.
 
 ## A better ranking
 
