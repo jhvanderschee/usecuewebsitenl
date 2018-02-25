@@ -20,7 +20,7 @@ Examples [show](https://blog.hubspot.com/marketing/page-load-time-conversion-rat
 
 ## Better UX
 
-Quicker navigation equals better UX. Slow websites makes visitors frustrated and angry. Regardless, the emotional damage is done, and that negative feeling is then [associated](https://velocitize.com/2017/03/27/how-site-speed-impacts-your-seo-and-ux/) with your brand.
+Slow websites makes visitors frustrated and angry. That negative feeling is [associated](https://velocitize.com/2017/03/27/how-site-speed-impacts-your-seo-and-ux/) with your brand. People will [remember](https://www.nngroup.com/articles/website-response-times/) a slow website. A quick websites, however, means a better experience, thus [more engagement](https://www.nngroup.com/articles/website-response-times/). Quicker page loads mean better UX. 
 
 ## Speed matters
 
