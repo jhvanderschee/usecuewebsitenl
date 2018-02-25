@@ -16,7 +16,7 @@ A slow website has another problem: It might not reach that first page or positi
 
 ## More conversion
 
-Examples [show](https://blog.hubspot.com/marketing/page-load-time-conversion-rates) that speedy websites have more conversion than slow websites. Visitors will be significantly more likely to fill out an order form, enter contact details or subscribe to an email newsletter on a [fast loading website](https://blog.radware.com/applicationdelivery/wpo/2014/04/web-page-speed-affect-conversions-infographic/). Making your website faster can easily result in a [20% conversion increase](http://www.webperformancetoday.com/2010/07/01/the-best-graphs-of-velocity/). 
+Examples [show](https://blog.hubspot.com/marketing/page-load-time-conversion-rates) that speedy websites have more conversion than slow websites. Visitors will be [significantly more likely](https://blog.radware.com/applicationdelivery/wpo/2014/04/web-page-speed-affect-conversions-infographic/) to fill out an order form, enter contact details or subscribe to an email newsletter on a fast loading website. Making your website faster can easily result in a [20% conversion increase](http://www.webperformancetoday.com/2010/07/01/the-best-graphs-of-velocity/). 
 
 ## Better UX
 
