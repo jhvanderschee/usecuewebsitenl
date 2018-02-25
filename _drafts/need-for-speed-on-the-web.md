@@ -2,7 +2,7 @@
 title: Need for speed on the web
 ---
 
-This is not a post about a web-version of the popular racing game title '[Need for speed](https://en.wikipedia.org/wiki/Need_for_Speed)' by EA. I love that game and I have wasted too many hours racing through dark cities and endless highways, followed by a squadron of police cars. This article is about something else: The speed of the internet and specifically **the speed at which your website loads**. 
+This is not a post about a web-version of the popular racing game title '[Need for Speed](https://en.wikipedia.org/wiki/Need_for_Speed)' by EA. I love that game and I have wasted too many hours racing through dark cities and endless highways, followed by a squadron of police cars. This article is about something else: The speed of the internet and specifically **the speed at which your website loads**. 
 
 Equally exciting, but far more important, as website speed is a big success factor, [speed matters](https://www.nngroup.com/articles/website-response-times/). More than 20 years after Neilson Norman Group posted an [article with the same title](https://www.nngroup.com/articles/the-need-for-speed/), this is still relevant. Allow me to explain why.
 
@@ -22,9 +22,11 @@ Every second costs you 7% conversion.
 
 Quicker navigation equals better UX.
 
-## Speed is needed for success
+## Speed matters
 
 Speed is a big factor in the success of your website. Your website will rank better, have more visitors, more conversion and a better experience. The value of your website is directly related to its speed.
+
+https://www.youtube.com/watch/OlbJKOWEPEM
 
 ## A real life example
 
