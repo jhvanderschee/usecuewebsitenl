@@ -32,5 +32,7 @@ It can be only 1 megabyte large and load in **0.6 seconds**. You just need the r
 
 You can get some valuable advice from independent speed anlysis tools like ([Google Speed Insights](https://developers.google.com/speed/pagespeed/insights/)) and ([Yslow](http://yslow.org/)). They tell you exactly how to make your web page faster.
 
+&nbsp;
+
 *The numbers in this article originate from research by [Hubspot](https://research.hubspot.com/reports/does-your-website-make-the-grade), [Akamai](https://www.akamai.com/us/en/about/news/press/2009-press/akamai-reveals-2-seconds-as-the-new-threshold-of-acceptability-for-ecommerce-web-page-response-times.jsp), [Wikipedia](https://phabricator.wikimedia.org/phame/live/7/post/83/measuring_wikipedia_page_load_times/), [Search Engine Land](https://searchengineland.com/google-says-page-speed-ranking-factor-use-mobile-page-speed-mobile-sites-upcoming-months-250874) and Neilson.*
 
