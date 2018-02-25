@@ -32,7 +32,7 @@ Let us look at at a responsive retina-ready onepager, with custom fonts, a lot o
 
 ![](/uploads/speedexample.jpg)
 
-It can be only 1 megabyte large and load in **0.6 seconds**, as reported by [GT Metrix](https://gtmetrix.com/). You just need the right [optimizations](https://gtmetrix.com/reports/pink-fjord.cloudvent.net/trXljyaE). If this relatively complex single page website can meet the requirements, EVERY page can.
+It can be only 1 megabyte large and load in [0.6 seconds](https://gtmetrix.com/reports/pink-fjord.cloudvent.net/trXljyaE), as reported by [GT Metrix](https://gtmetrix.com/). If this relatively complex single page website can meet the requirements, EVERY page can.
 
 ## Doing it yourself
 
