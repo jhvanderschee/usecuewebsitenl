@@ -24,7 +24,7 @@ Quicker navigation equals better UX.
 
 ## Speed matters
 
-Speed is a big factor in the success of your website. Your website will rank better, have more visitors, more conversion and a better experience. The value of your website is directly related to its speed. Speed really [matters](https://www.youtube.com/watch/OlbJKOWEPEM).
+As you can see, speed is a big factor in the success of your website. Your website will rank better, have more visitors, more conversion and a better experience. The value of your website is directly related to its speed. Speed really [matters](https://www.youtube.com/watch/OlbJKOWEPEM).
 
 ## A real life example
 
