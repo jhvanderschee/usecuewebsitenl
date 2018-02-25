@@ -10,7 +10,7 @@ Websites should aim to load in 3 seconds or less. Research on e-commerce website
 
 ## A better ranking
 
-But a slow website has another problem: It might not even show up in Google. Google penalizes slow websites. They do this since 2010. In 2013 they announced they were going to do this for mobile websites too. Since late 2017 they actually do this. Everybody wants to rank high in the most popular search engine of the world.
+But a slow website has another problem: It might not even show up in Google. Google penalizes slow websites. They do this since 2010. In 2013 they announced they were going to do this for mobile websites too. Since late 2017 they actually do this. This makes improving your websites speed an important search engine optimization. Fast websites simply rank higher.
 
 ## More conversion
 
