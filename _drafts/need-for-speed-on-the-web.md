@@ -2,7 +2,7 @@
 title: Need for speed on the web
 ---
 
-This is not a post about a web-version of the popular racing game title '[Need for speed](https://en.wikipedia.org/wiki/Need_for_Speed)' by EA. I love that game and I have wasted too many hours racing through dark cities and endless highways, followed by a squadron of police cars. This article is about something else: The speed of the internet and specifically **the speed at which websites load**. Equally exciting, but far more important, as speed is a big factor in the success of your website. Allow me to explain why.
+This is not a post about a web-version of the popular racing game title '[Need for speed](https://en.wikipedia.org/wiki/Need_for_Speed)' by EA. I love that game and I have wasted too many hours racing through dark cities and endless highways, followed by a squadron of police cars. This article is about something else: The speed of the internet and specifically **the speed at which your website loads**. Equally exciting, but far more important, as speed is a big factor in the success of your website. Allow me to explain why.
 
 ## Impatient visitors
 
