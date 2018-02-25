@@ -8,11 +8,11 @@ Equally exciting, but far more important, as website speed is a big success fact
 
 ## Impatient visitors
 
-Research on e-commerce websites shows that 40 percent of consumers will wait no more than three seconds for a web page to render before abandoning the site. We also know mobile traffic is growing in percentage. Mobile traffic causes has an increased [latency](https://www.techopedia.com/definition/8553/network-latency) of about 200ms, making your website even slower. The avarage loading time of websites is currently about 3.7 seconds. This means that OVER 50% of the websites is failing to render within three seconds and this number is expected to only increase with the rise of mobile traffic. These slow websites lose a lot of visitors while loading (Google can [calculate](https://testmysite.withgoogle.com/intl/nl-nl) how many).
+Research on e-commerce websites shows that 40 percent of consumers will wait no more than three seconds for a web page to render before abandoning the site. We also know mobile traffic is growing in percentage. Mobile traffic [causes](https://phabricator.wikimedia.org/phame/live/7/post/83/measuring_wikipedia_page_load_times/) has an increased [latency](https://www.techopedia.com/definition/8553/network-latency) of about 200ms, making your website even slower. The avarage loading time of websites is currently [about 3.7 seconds](https://research.hubspot.com/reports/does-your-website-make-the-grade). This means that OVER 50% of the websites is failing to render within three seconds and this number is expected to only increase with the rise of mobile traffic. These slow websites lose a lot of visitors while loading (Google can [calculate](https://testmysite.withgoogle.com/intl/nl-nl) how many).
 
 ## A better ranking
 
-A slow website has another problem: It might not reach that first page or position in Google. Google penalizes slow websites. They do this since 2010. In 2013 they announced they were going to do this for mobile websites too. Since late 2017 speed is an actual ranking factor in mobile search. This makes improving your websites speed an important search engine optimization. Google favors fast websites over slow ones.
+A slow website has another problem: It might not reach that first page or position in Google. Google [penalizes](https://yoast.com/site-speed-tools-suggestions/) slow websites. They do this since 2010. In 2013 they announced they were going to do this for mobile websites too. Since late 2017 speed is an actual ranking factor in mobile search. This makes improving your websites speed an important search engine optimization. Google favors fast websites over slow ones.
 
 ## More conversion
 
