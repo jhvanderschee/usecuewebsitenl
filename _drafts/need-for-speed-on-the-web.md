@@ -36,4 +36,4 @@ It can be only 1 megabyte large and load in [0.6 seconds](https://gtmetrix.com/r
 
 ## Doing it yourself
 
-You can get some valuable advice from independent speed anlysis tools like [GT Metrix](https://gtmetrix.com/) and Google's [mobile speed tester for 3G](https://testmysite.withgoogle.com/intl/gb-int). They will give you the numbers and tell you exactly how to make your web page faster.
+You can get some valuable advice from independent speed anlysis tools like [GT Metrix](https://gtmetrix.com/), [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/) and the [Google mobile speed tester for 3G](https://testmysite.withgoogle.com/intl/gb-int). They will give you the numbers and tell you exactly how to make your web page faster.
