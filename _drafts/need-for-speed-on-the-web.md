@@ -6,11 +6,11 @@ This is not a post about a web-version of the popular racing game title '[Need f
 
 ## Impatient visitors
 
-Research on e-commerce websites shows that 40 percent of consumers will wait no more than three seconds for a web page to render before abandoning the site. We also know mobile traffic is growing in percentage. Mobile traffic causes has an increased [latency](https://www.techopedia.com/definition/8553/network-latency) of about 200ms. So you only have 2.8 seconds to serve your website before you lose a significant amount of traffic. The avarage loading time of websites is about 3.7 seconds. This means that OVER 50% of the websites is failing to render within three seconds and that they are losing a lot of visitors.
+Research on e-commerce websites shows that 40 percent of consumers will wait no more than three seconds for a web page to render before abandoning the site. We also know mobile traffic is growing in percentage. Mobile traffic causes has an increased [latency](https://www.techopedia.com/definition/8553/network-latency) of about 200ms. So you only have 2.8 seconds to serve your website before you lose a significant amount of traffic. The avarage loading time of websites is about 3.7 seconds. This means that OVER 50% of the websites is failing to render within three seconds and that OVER 50% loses a lot of visitors.
 
 ## A better ranking
 
-A slow website has another problem: It might not even show up in Google. Google penalizes slow websites. They do this since 2010. In 2013 they announced they were going to do this for mobile websites too. Since late 2017 speed is an actual ranking factor in mobile search. This makes improving your websites speed an important search engine optimization. Google favors fast websites over slow ones.
+A slow website has another problem: It might not reach that first page in Google. Google penalizes slow websites. They do this since 2010. In 2013 they announced they were going to do this for mobile websites too. Since late 2017 speed is an actual ranking factor in mobile search. This makes improving your websites speed an important search engine optimization. Google favors fast websites over slow ones.
 
 ## More conversion
 
