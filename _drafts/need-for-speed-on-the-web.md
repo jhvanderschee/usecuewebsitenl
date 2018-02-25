@@ -8,7 +8,7 @@ Equally exciting, but far more important, as website speed is a big success fact
 
 ## Impatient visitors
 
-Research on e-commerce websites shows that 40 percent of consumers will wait no more than three seconds for a web page to render before abandoning the site. We also know mobile traffic is growing in percentage. Mobile traffic causes has an increased [latency](https://www.techopedia.com/definition/8553/network-latency) of about 200ms, making your website even slower. The avarage loading time of websites is currently about 3.7 seconds. This means that OVER 50% of the websites is failing to render within three seconds and this number is expected to only increase with the rise of mobile traffic. These slow websites lose a lot of visitors while loading.
+Research on e-commerce websites shows that 40 percent of consumers will wait no more than three seconds for a web page to render before abandoning the site. We also know mobile traffic is growing in percentage. Mobile traffic causes has an increased [latency](https://www.techopedia.com/definition/8553/network-latency) of about 200ms, making your website even slower. The avarage loading time of websites is currently about 3.7 seconds. This means that OVER 50% of the websites is failing to render within three seconds and this number is expected to only increase with the rise of mobile traffic. These slow websites lose a lot of visitors while loading (Google can [calculate](https://testmysite.withgoogle.com/intl/nl-nl) how many).
 
 ## A better ranking
 
@@ -16,7 +16,7 @@ A slow website has another problem: It might not reach that first page or positi
 
 ## More conversion
 
-Every second costs you 7% conversion.
+Examples [show](https://blog.hubspot.com/marketing/page-load-time-conversion-rates) that speedy websites have more conversion than slow websites. Visitors will be significantly more likely to fill out an order form, enter contact details or subscribe to an email newsletter on a [fast loading website](https://blog.radware.com/applicationdelivery/wpo/2014/04/web-page-speed-affect-conversions-infographic/). Making your website faster can easily result in a [20% conversion increase](http://www.webperformancetoday.com/2010/07/01/the-best-graphs-of-velocity/). 
 
 ## Better UX
 
