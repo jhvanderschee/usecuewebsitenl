@@ -28,7 +28,7 @@ As you can see, speed is a big factor in the success of your website. Your websi
 
 ## A real life example
 
-Let us look at at a responsive retina-ready onepager, with custom fonts, a lot of imagery and javascript, that looks like this:
+Let us look at at a responsive retina-ready one-page website, with custom fonts, a lot of imagery and javascript, that looks like this:
 
 ![](/uploads/speedexample.jpg)
 
