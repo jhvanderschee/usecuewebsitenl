@@ -32,7 +32,7 @@ Let us look at at a responsive retina-ready one-page website, with custom fonts,
 
 ![](/uploads/speedexample.jpg)
 
-It can be only 1 megabyte large and load in [0.6 seconds](https://gtmetrix.com/reports/pink-fjord.cloudvent.net/trXljyaE), as reported by [GT Metrix](https://gtmetrix.com/). If this relatively complex single page website can meet the requirements, EVERY page can.
+It can be only 1 megabyte large and load in [0.6 seconds](https://gtmetrix.com/reports/pink-fjord.cloudvent.net/trXljyaE), as reported by [GT Metrix](https://gtmetrix.com/). Note that this means it still requires 5 seconds on 3G, according to the [Google mobile speed tester for 3G](https://testmysite.withgoogle.com/intl/gb-int). Luckily, most people surf on 4G today. But it shows that websites are not easily speedy enough.
 
 ## Doing it yourself
 
