@@ -14,7 +14,11 @@ A slow website has another problem: It might not reach that first page or positi
 
 ## More conversion
 
+Every second costs you 7% conversion.
+
 ## Better UX
+
+Quicker navigation equals better UX.
 
 ## Speed is needed for success
 
@@ -22,7 +26,7 @@ Speed is a big factor in the success of your website. Your website will rank bet
 
 ## A real life example
 
-Let us look at a retina-ready onepager, with custom fonts, a lot of imagery and javascript, that looks like this:
+Let us look at at a responsive retina-ready onepager, with custom fonts, a lot of imagery and javascript, that looks like this:
 
 ![](/uploads/speedexample.jpg)
 
