@@ -6,7 +6,7 @@ This is not a post about a web-version of the popular racing game title '[Need f
 
 ## Impatient visitors
 
-Research on e-commerce websites shows that 40 percent of consumers will wait no more than three seconds for a web page to render before abandoning the site. We also know mobile traffic is growing in percentage. Mobile traffic causes has an increased [latency](https://www.techopedia.com/definition/8553/network-latency) of about 200ms, making the mobile version of your website by definition slower than the desktop version. The avarage loading time of websites is about 3.7 seconds. This means that OVER 50% of the websites is failing to render within three seconds. These slow websites lose a lot of visitors while loading.
+Research on e-commerce websites shows that 40 percent of consumers will wait no more than three seconds for a web page to render before abandoning the site. We also know mobile traffic is growing in percentage. Mobile traffic causes has an increased [latency](https://www.techopedia.com/definition/8553/network-latency) of about 200ms, making your website even slower. The avarage loading time of websites is currently about 3.7 seconds. This means that OVER 50% of the websites is failing to render within three seconds and this number is expected to increase over time. These slow websites lose a lot of visitors while loading.
 
 ## A better ranking
 
