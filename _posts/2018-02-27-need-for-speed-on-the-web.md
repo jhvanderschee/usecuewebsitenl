@@ -2,7 +2,7 @@
 title: Need for speed on the web
 ---
 
-Dit is geen post over een webversie van de populaire racespel '[Need for Speed](https://en.wikipedia.org/wiki/Need_for_Speed)' van EA, ondanks dat dit een fantastisch spel is en ik vele uren heb verspild aan het racen door donkere steden en over eindeloze snelwegen, gevolgd door een horde politiewagens. Dit artikel gaat over iets anders: de snelheid van het internet en specifiek de snelheid waarmee websites laden. 
+Dit is geen post over een webversie van de populaire racespel '[Need for Speed](https://en.wikipedia.org/wiki/Need_for_Speed)' van EA, ondanks dat dit een fantastisch spel is en ik vele uren heb verspild aan het racen door donkere steden en over eindeloze snelwegen, gevolgd door een horde politiewagens. Dit artikel gaat over iets anders: de snelheid van het internet en specifiek de snelheid waarmee websites laden.
 
 Minstens zo cool, maar veel belangrijker, want de snelheid van een website is een grote factor voor het succes ervan. Meer dan 20 jaar geleden publiceerde de Neilson Norman Group al een arikel met [ongeveer dezelfde titel](https://www.nngroup.com/articles/the-need-for-speed/) en eenzelfde strekking. Hoewel de online wereld in de afgelopen 20 jaar enorm veranderd is, is het onderwerp nog steeds relevant. Ik zal uitleggen waarom.
 
@@ -16,11 +16,11 @@ Trage websites hebben nog een probleem: Ze komen mogelijk niet eens op die eerst
 
 ## Verbeterde conversion
 
-Voorbeelden [tonen aan](https://blog.hubspot.com/marketing/page-load-time-conversion-rates) dat snelle websites een betere conversie hebben dan trage websites. Op een snelle website zullen [significant meer](https://blog.radware.com/applicationdelivery/wpo/2014/04/web-page-speed-affect-conversions-infographic/) bezoekers een bestelformulier invullen, contactgegevens achterlaten of zich inschrijven voor een nieuwsbrief. Je website sneller maken kan gemakkelijk een [20% conversietoename](http://www.webperformancetoday.com/2010/07/01/the-best-graphs-of-velocity/) veroorzaken. 
+Voorbeelden [tonen aan](https://blog.hubspot.com/marketing/page-load-time-conversion-rates) dat snelle websites een betere conversie hebben dan trage websites. Op een snelle website zullen [significant meer](https://blog.radware.com/applicationdelivery/wpo/2014/04/web-page-speed-affect-conversions-infographic/) bezoekers een bestelformulier invullen, contactgegevens achterlaten of zich inschrijven voor een nieuwsbrief. Je website sneller maken kan gemakkelijk een [20% conversietoename](http://www.webperformancetoday.com/2010/07/01/the-best-graphs-of-velocity/) veroorzaken.
 
 ## Verbeterde UX
 
-Trage websites maken bezoekers boos en gefrustreerd. Dat negatieve gevoel wordt vervolgens [geassocieerd](https://velocitize.com/2017/03/27/how-site-speed-impacts-your-seo-and-ux/) met je merk. Mensen [onthouden](https://www.nngroup.com/articles/website-response-times/) een trage website. Een snelle website, daarentegen, betekent een betere beleving en [meer interactie](https://www.nngroup.com/articles/website-response-times/). Snellere pagina's zorgen voor een betere UX. 
+Trage websites maken bezoekers boos en gefrustreerd. Dat negatieve gevoel wordt vervolgens [geassocieerd](https://velocitize.com/2017/03/27/how-site-speed-impacts-your-seo-and-ux/) met je merk. Mensen [onthouden](https://www.nngroup.com/articles/website-response-times/) een trage website. Een snelle website, daarentegen, betekent een betere beleving en [meer interactie](https://www.nngroup.com/articles/website-response-times/). Snellere pagina's zorgen voor een betere UX.
 
 ## Snelheid is belangrijk
 
