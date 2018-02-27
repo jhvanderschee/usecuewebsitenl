@@ -8,32 +8,32 @@ Minstens zo cool, maar veel belangrijker, want de snelheid van een website is ee
 
 ## Ongeduldige bezoekers
 
-Recent onderzoek naar e-commerce websites heeft aangetoond dat [40 percent](https://blog.kissmetrics.com/seo-for-ecommerce-websites/) van de consumenten een website verlaat wanneer deze niet binnen 3 seconden laadt. We weten ook dat het percentage mobiel verkeer consistent groeit. Mobiel verkeer [heeft](https://phabricator.wikimedia.org/phame/live/7/post/83/measuring_wikipedia_page_load_times/) een extra [latency](https://www.techopedia.com/definition/8553/network-latency) van ongeveer 200ms, waardoor websites trager worden. De gemiddelde laadtijd van websites is momenteel [3.7 seconds](https://research.hubspot.com/reports/does-your-website-make-the-grade). Dit betekent dat MEER DAN 50% niet binnen 3 seconden laadt (en dus bezoekers verliest). Dat aantal zal naar verwachting alleen maar toenemen als gevolg van de percentuele toename van mobiel verkeer. Meer dan 50% van de websites verliest dus een substantieel aantal bezoekers tijdens het laden.
+Onderzoek naar e-commerce websites heeft aangetoond dat [40 percent](https://blog.kissmetrics.com/seo-for-ecommerce-websites/) van de consumenten een website verlaat wanneer deze niet binnen 3 seconden laadt. We weten ook dat het percentage mobiel verkeer gestaag groeit. Mobiel verkeer [heeft](https://phabricator.wikimedia.org/phame/live/7/post/83/measuring_wikipedia_page_load_times/) een extra [latency](https://www.techopedia.com/definition/8553/network-latency) van ongeveer 200ms, waardoor websites trager worden. De gemiddelde laadtijd van websites is momenteel [3.7 seconds](https://research.hubspot.com/reports/does-your-website-make-the-grade). Dit betekent dat MEER DAN 50% niet binnen 3 seconden laadt (en dus bezoekers verliest). Dat aantal zal naar verwachting alleen maar toenemen als gevolg van de percentuele toename van mobiel verkeer. Meer dan 50% van de websites verliest dus een substantieel aantal bezoekers tijdens het laden.
 
 ## Een betere ranking
 
-Trage websites hebben nog een ander probleem: It might not reach that first page or position in Google. Google [penalizes](https://yoast.com/site-speed-tools-suggestions/) slow websites. They do this [since 2010](https://searchengineland.com/google-says-page-speed-ranking-factor-use-mobile-page-speed-mobile-sites-upcoming-months-250874). From [July 2018](https://searchengineland.com/google-speed-update-page-speed-will-become-ranking-factor-mobile-search-289904) speed will actually be a ranking factor in mobile search too. This makes improving your websites speed an important search engine optimization for all platforms. Google simply favors fast website over slow ones, and has been doing so since 2010.
+Trage websites hebben nog een probleem: Ze komen mogelijk niet eens op die eerste pagina of positie in Google. Google [bestraft](https://yoast.com/site-speed-tools-suggestions/) trage websites. Dat doen ze al [sinds 2010](https://searchengineland.com/google-says-page-speed-ranking-factor-use-mobile-page-speed-mobile-sites-upcoming-months-250874). Vanaf [juli 2018](https://searchengineland.com/google-speed-update-page-speed-will-become-ranking-factor-mobile-search-289904) zal snelheid bovendien ook een 'ranking factor' worden bij mobiele zoekopdrachten. Daarom is het verbeteren van de snelheid van je website een goede zoekmachine optimalisatie voor alle platformen. Google prefereert snelle websites boven trage, en doet dat al sinds 2010.
 
-## More conversion
+## Verbeterde conversion
 
-Examples [show](https://blog.hubspot.com/marketing/page-load-time-conversion-rates) that speedy websites have more conversion than slow websites. Visitors will be [significantly more likely](https://blog.radware.com/applicationdelivery/wpo/2014/04/web-page-speed-affect-conversions-infographic/) to fill out an order form, enter contact details or subscribe to an email newsletter on a fast loading website. Making your website faster can easily result in a [20% conversion increase](http://www.webperformancetoday.com/2010/07/01/the-best-graphs-of-velocity/). 
+Voorbeelden [tonen aan](https://blog.hubspot.com/marketing/page-load-time-conversion-rates) dat snelle websites een betere conversie hebben dan trage websites. Op een snelle website zullen [significant meer](https://blog.radware.com/applicationdelivery/wpo/2014/04/web-page-speed-affect-conversions-infographic/) bezoekers een bestelformulier invullen, contactgegevens achterlaten of zich inschrijven voor een nieuwsbrief. Je website sneller maken kan gemakkelijk een [20% conversietoename](http://www.webperformancetoday.com/2010/07/01/the-best-graphs-of-velocity/) veroorzaken. 
 
-## Better UX
+## Verbeterde UX
 
-Slow websites makes visitors frustrated and angry. That negative feeling is [associated](https://velocitize.com/2017/03/27/how-site-speed-impacts-your-seo-and-ux/) with your brand. People will [remember](https://www.nngroup.com/articles/website-response-times/) a slow website. A quick websites, however, means a better experience, thus [more engagement](https://www.nngroup.com/articles/website-response-times/). Quicker page loads mean better UX. 
+Trage websites maken bezoekers boos en gefrustreerd. Dat negatieve gevoel wordt vervolgens [geassocieerd](https://velocitize.com/2017/03/27/how-site-speed-impacts-your-seo-and-ux/) met je merk. Mensen [onthouden](https://www.nngroup.com/articles/website-response-times/) een trage website. Een snelle website, daarentegen, betekent een betere beleving en [meer interactie](https://www.nngroup.com/articles/website-response-times/). Snellere pagina's zorgen voor een betere UX. 
 
-## Speed matters
+## Snelheid is belangrijk
 
-As you can see, speed is a big factor in the success of your website. Your website will rank better, have more visitors, more conversion and a better experience. The value of your website is directly related to its speed. [Speed really matters.](https://www.youtube.com/watch/OlbJKOWEPEM)
+Zoals je ziet is snelheid een grote factor in het succes van je website. Je website zal beter scoren in de zoekmachine, meer bezoekers en conversie hebben en zorgen voor een betere klantbeleving. De waarde van je website is direct gerelateerd aan de snelheid ervan. [Snelheid is belangrijk.](https://www.youtube.com/watch/OlbJKOWEPEM)
 
-## A real life example
+## Een real-life voorbeeld
 
-Let us look at at a responsive retina-ready one-page website, with custom fonts, a lot of imagery and javascript, that looks like this:
+Laten we eens kijken naar een responsive retina-ready one-page website, met custom lettertypes, veel afbeeldingen en javascript, die er zo uitziet:
 
 ![](/uploads/speedexample.jpg)
 
-It can be only 1 megabyte large and load in [0.6 seconds](https://gtmetrix.com/reports/pink-fjord.cloudvent.net/trXljyaE), as reported by [GT Metrix](https://gtmetrix.com/). Note that this means it still requires 5 seconds on 3G, according to the [Google mobile speed tester for 3G](https://testmysite.withgoogle.com/intl/gb-int). Luckily, most people surf on 4G today. But it shows that websites are not easily speedy enough.
+Deze pagina is slechts  1 megabyte groot en laadt in [0.6 seconds](https://gtmetrix.com/reports/pink-fjord.cloudvent.net/trXljyaE), volgens [GT Metrix](https://gtmetrix.com/). Weet dat dit betekent dat het toch nog 5 seconden duurt over een 3G verbinding, volgens [Google mobile speed tester for 3G](https://testmysite.withgoogle.com/intl/gb-int). Gelukkig hebben de meeste mensen tegenwoordig 4G, maar het toont wel aan dat een website niet snel snel genoeg is.
 
-## Doing it yourself
+## Snelheid testen en optimaliseren
 
-You can get some valuable advice from independent speed anlysis tools like [GT Metrix](https://gtmetrix.com/), [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/) and the [Google mobile speed tester for 3G](https://testmysite.withgoogle.com/intl/gb-int). They will give you the numbers and tell you exactly how to make your web page faster. Still need help? Do not hesitate to [ask](/contact).
+Je kunt waardevolle adviezen krijgen van onafhankelijke snelheidsanalysetools, zoals [GT Metrix](https://gtmetrix.com/), [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/) en [Google mobile speed tester for 3G](https://testmysite.withgoogle.com/intl/gb-int). Niet alleen laten ze zien hoe snel je site is, ze vertellen je ook precies hoe je je website sneller moet maken. Heb je meer hulp nodig? Aarzel niet en [stel je vraag](/contact).
