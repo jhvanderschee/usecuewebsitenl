@@ -2,7 +2,7 @@
 title: Need for speed on the web
 ---
 
-Dit is geen post over een webversie van de populaire racespel '[Need for Speed](https://en.wikipedia.org/wiki/Need_for_Speed)' van EA, ondanks dat dit een fantastisch spel is en ik vele uren heb verspild aan het racen door donkere steden en over eindeloze snelwegen, gevolgd door een horde politiewagens. Dit artikel gaat over iets anders: de snelheid van het internet en specifiek de snelheid waarmee websites laden.
+Dit is geen post over een webversie van de populaire racespel '[Need for Speed](https://en.wikipedia.org/wiki/Need_for_Speed)' van EA, ondanks dat ik vele uren, met een horde politiewagens achter mij aan, door donkere steden en over eindeloze snelwegen heb gescheurd. Dit artikel gaat over iets anders: de snelheid van het internet en specifiek de snelheid waarmee websites laden.
 
 Minstens zo cool, maar veel belangrijker, want de snelheid van een website is een grote factor voor het succes ervan. Meer dan 20 jaar geleden publiceerde de Neilson Norman Group al een arikel met [ongeveer dezelfde titel](https://www.nngroup.com/articles/the-need-for-speed/) en eenzelfde strekking. Hoewel de online wereld in de afgelopen 20 jaar enorm veranderd is, is het onderwerp nog steeds relevant. Ik zal uitleggen waarom.
 
@@ -32,7 +32,7 @@ Laten we eens kijken naar een responsive retina-ready one-page website, met cust
 
 ![](/uploads/speedexample.jpg)
 
-Deze pagina is slechts  1 megabyte groot en laadt in [0.6 seconds](https://gtmetrix.com/reports/pink-fjord.cloudvent.net/trXljyaE), volgens [GT Metrix](https://gtmetrix.com/). Weet dat dit betekent dat het toch nog 5 seconden duurt over een 3G verbinding, volgens [Google mobile speed tester for 3G](https://testmysite.withgoogle.com/intl/gb-int). Gelukkig hebben de meeste mensen tegenwoordig 4G, maar het toont wel aan dat een website niet snel snel genoeg is.
+Deze pagina is slechts 1 megabyte groot en laadt in [0.6 seconds](https://gtmetrix.com/reports/pink-fjord.cloudvent.net/trXljyaE), volgens [GT Metrix](https://gtmetrix.com/). Weet dat dit betekent dat het toch nog 5 seconden duurt over een 3G verbinding, volgens [Google mobile speed tester for 3G](https://testmysite.withgoogle.com/intl/gb-int). Gelukkig hebben de meeste mensen tegenwoordig 4G, maar het toont wel aan dat een website niet snel snel genoeg is.
 
 ## Snelheid testen en optimaliseren
 
