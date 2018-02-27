@@ -1,5 +1,5 @@
 ---
-title: De 'need for speed' op het web
+title: De 'Need for Speed' op het web
 ---
 
 Dit is geen post over een webversie van de populaire racespel '[Need for Speed](https://en.wikipedia.org/wiki/Need_for_Speed)' van EA, ondanks dat ik vele uren, met een horde politiewagens achter mij aan, door donkere steden en over eindeloze snelwegen heb gescheurd. Dit artikel gaat over iets anders: de snelheid van het internet en specifiek de snelheid waarmee websites laden.
