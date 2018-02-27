@@ -18,7 +18,7 @@ Onderzoek naar e-commerce websites heeft aangetoond dat [40 percent](https://blo
 Trage websites hebben nog een probleem: Ze komen mogelijk niet eens op die eerste pagina of positie in Google. Google [bestraft](https://yoast.com/site-speed-tools-suggestions/) trage websites. Dat doen ze al [sinds 2010](https://searchengineland.com/google-says-page-speed-ranking-factor-use-mobile-page-speed-mobile-sites-upcoming-months-250874). Vanaf [juli 2018](https://searchengineland.com/google-speed-update-page-speed-will-become-ranking-factor-mobile-search-289904) zal snelheid bovendien ook een 'ranking factor' worden bij mobiele zoekopdrachten. Daarom is het verbeteren van de snelheid van je website een goede zoekmachine optimalisatie voor alle platformen.
 {: .present-before-paste}
 
-## Verbeterde conversie
+## Meer conversie
 
 Voorbeelden [tonen aan](https://blog.hubspot.com/marketing/page-load-time-conversion-rates) dat snelle websites een betere conversie hebben dan trage websites. Op een snelle website zullen [significant meer](https://blog.radware.com/applicationdelivery/wpo/2014/04/web-page-speed-affect-conversions-infographic/) bezoekers een bestelformulier invullen, contactgegevens achterlaten of zich inschrijven voor een nieuwsbrief. Je website sneller maken kan gemakkelijk een [20% conversietoename](http://www.webperformancetoday.com/2010/07/01/the-best-graphs-of-velocity/) veroorzaken.
 {: .present-before-paste}
