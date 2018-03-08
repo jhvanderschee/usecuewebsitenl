@@ -56,7 +56,7 @@
 <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ "/sitemap.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
 <script src="/js/jquery-1.7.2.min.js"></script>
-{% if page.layout == 'home' %}<script src="/js/typed.min.js"></script>{% endif %}
+{% if page.layout contains 'home' %}<script src="/js/typed.min.js"></script>{% endif %}
 <link rel="stylesheet" type="text/css" href="/css/style.css">
 
 <script>
@@ -199,7 +199,7 @@ $(window).resize( function() {
 	<div id="particles-js" style="z-index:0;"></div>
     <div id="border"></div>
 	{% if page.layout == 'portfolio' %}<div id="backgroundtriangle" style="background-image: url(//images.weserv.nl/?url=www.usecue.com{{ page.image }}&w=500&h=1000&t=squaredown);"><div id="triangle-topleft" style="border-top-color: {{ page.color }};"></div></div>{% endif %}
-		<table cellpadding="0" cellspacing="0"><tr><td><div id="content">
+		<div class="table"><div class="tr"><div class="td"><div id="content">
     <div id="innercontrols" class="showmobile">
         <a href="#" onclick="menu();" id="openmenu"><img src="/img/menu2.png" alt="menu" class="black" /><img src="/img/menu.png" class="white" /></a>
         <a href="#" onclick="menu();" id="closemenu"><img src="/img/close2.png" alt="close" class="black" /><img src="/img/close.png" class="white" /></a>
