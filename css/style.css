@@ -386,7 +386,7 @@ a {color: black;}
     max-width: 300px;
     margin-left: 0px;
   }
-  table, td, #innerpage {min-height: 100vh;}
+  table, td, #innerpage {min-height: 100%;}
    #content {padding: 0 110px 0 120px;}
    .post #content > div > * {max-width: 100%;}
    #page.portfolio #innerpage table td #content {margin-right: 0px;}
@@ -450,5 +450,5 @@ body [class^='home'] #innerpage {background: white!important; color: black!impor
     font-weight: 300;
 }
 #innerpage > table tr td {text-align: left;}
-#page {height: auto; min-height: 100vh;}
+#page {height: auto; min-height: 100%;}
 }
