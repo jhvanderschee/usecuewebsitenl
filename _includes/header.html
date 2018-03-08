@@ -101,6 +101,7 @@ function menu() {
 }
 $(document).ready( function() {
     $("#page").addClass("loaded");
+    {% if page.layout == 'portfolio' %}
     setInterval(function () {
         $("#loading span").toggle();
     },500);
@@ -109,7 +110,7 @@ $(document).ready( function() {
             endloading();
         }, 300)
     });
-
+    {% endif %}
     {% if page.layout == 'home' %}
     if($(window).width()>600) $(".element").typed({
     	strings: ["Ik ben ^100Linux fan.^1000", "Ik ben ^200UX expert.^2000", "Ik ben ^200programmeur.^1000", "Ik ben ^200web developer.^500"],
