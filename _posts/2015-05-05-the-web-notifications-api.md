@@ -1,5 +1,5 @@
 ---
-title: The Web Notifica&shy;tions API
+title: The Web Notifications API
 ---
 
 
