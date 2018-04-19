@@ -7,9 +7,10 @@ berichten sturen, gratis social media... Toch werken er duizenden
 mensen aan deze software en moeten de bedrijven erachter winst maken
 van hun aandeelhouders. 
 
-Dat doen deze bedrijven door allerlei soorten privégegevens van hun gebruikers te 
-verzamelen. Die privégegevens voegen ze samen en categoriseren ze. Dat 
-samenvoegen en categoriseren noemen we profilering.
+Om toch winst te maken verzamelen deze bedrijven allerlei soorten 
+privégegevens, om deze uiteindelijk te verkopen. Die privégegevens 
+voegen ze samen en categoriseren ze. Dat samenvoegen en categoriseren 
+noemen we profilering.
 
 Dat deze bedrijven aan profilering doen is natuurlijk geen verrassing,
 maar wat wel schokkend is, is het effect daarvan; ze zijn er namelijk
