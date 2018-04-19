@@ -32,7 +32,7 @@ Laten we eens kijken naar een responsive retina-ready one-page website, met cust
 
 ![](/uploads/speedexample_small.jpg)
 
-Deze pagina is slechts 1 megabyte groot en laadt in [0.6 seconds](https://gtmetrix.com/reports/pink-fjord.cloudvent.net/trXljyaE), volgens [GT Metrix](https://gtmetrix.com/). Weet dat dit betekent dat het toch nog 4 seconden duurt over een 3G verbinding, volgens [Google mobile speed tester for 3G](https://testmysite.withgoogle.com/intl/gb-int). Gelukkig hebben de meeste mensen tegenwoordig 4G, maar het toont wel aan dat een website niet snel snel genoeg is.
+Deze pagina is slechts 1 megabyte groot en laadt in 0.6 seconden, volgens [GT Metrix](https://gtmetrix.com/). Weet dat dit betekent dat het toch nog 4 seconden duurt over een 3G verbinding, volgens [Google mobile speed tester for 3G](https://testmysite.withgoogle.com/intl/gb-int). Gelukkig hebben de meeste mensen tegenwoordig 4G, maar het toont wel aan dat een website niet snel snel genoeg is.
 
 ## Snelheid testen en optimaliseren
 
