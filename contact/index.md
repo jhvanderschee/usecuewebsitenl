@@ -13,4 +13,4 @@ Mijn kantoor zit op Soetendaal 7, 1081BL in Amsterdam. Heb je een vraag, wil je 
 
 Je kunt mij uiteraard ook online vinden op de diverse sociale media:
 
-[Github](https://github.com/jhvanderschee)&nbsp;-&nbsp;[Facebook](https://www.facebook.com/usecue)&nbsp;-&nbsp;[Google Plus](https://plus.google.com/101345401648717866709/about)&nbsp;-&nbsp;[Stack Overflow](http://stackoverflow.com/users/2397550/joosts)
+[Github](https://github.com/jhvanderschee)&nbsp;-&nbsp;[Google Plus](https://plus.google.com/101345401648717866709/about)&nbsp;-&nbsp;[Stack Overflow](http://stackoverflow.com/users/2397550/joosts)
