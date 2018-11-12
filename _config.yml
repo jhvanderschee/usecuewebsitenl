@@ -10,3 +10,8 @@ defaults:
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "post"
+
+title: Usecue web development
+description: Website ontwikkeling, development en hosting
+url: https://www.usecue.nl
+twitter: jhvanderschee

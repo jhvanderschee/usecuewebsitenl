@@ -23,58 +23,77 @@
 <!DOCTYPE html>
 <html lang="nl">
 <head>
-<title>{{ page.title }} | Usecue web development</title>
 <meta charset="utf-8" /> 
+<title>{{ page.title }} | {{ site.title }}</title>
+{% assign pagecontent_description = page.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | strip_html | strip_newlines | replace: '  ', ' ' | truncate: 160 %}
+<meta name="description" content="{% if pagecontent_description.size > 10 %}{{ pagecontent_description }}{% else %}{{ site.description }}{% endif %}">
+
 <link rel="shortcut icon" type="image/png" href="/img/icon-196x196.png" />
 <link rel="shortcut icon" sizes="196x196" href="/img/icon-196x196.png" />
 <link rel="apple-touch-icon" href="/img/icon-196x196.png" />
+
 <meta id="viewport" name="viewport" content="width=device-width">
-<script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
-<script src="/js/typed.js"></script>
+
+<!-- Facebook and Twitter integration -->
+<meta property="og:title" content="{{ page.title }}"/>
+{% if page.image %}<meta property="og:image" content="{{ page.image }}"/>{% endif %}
+<meta property="og:url" content="{{ site.url }}{{ page.url }}"/>
+<meta property="og:type" content="article">
+<meta property="og:image" content="{{ site.url }}{{ page.image }}"/>
+<meta property="og:site_name" content="{{ site.title }}"/>
+<meta property="og:description" content="{% if pagecontent_description.size > 10 %}{{ pagecontent_description }}{% else %}{{ site.description }}{% endif %}"/>
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@{{ site.twitter }}">
+<meta name="twitter:title" content="{{ page.title }}" />
+{% if page.image %}<meta name="twitter:image" content="{{ site.url }}{{ page.image }}" />{% endif %}
+<meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
+<meta name="twitter:description" content="{% if pagecontent_description.size > 10 %}{{ pagecontent_description }}{% else %}{{ site.description }}{% endif %}" />
+
+<link rel="publisher" href="https://plus.google.com/+UseCuewebdevelopmentAmsterdam">
+
+<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+<link rel="sitemap" type="application/xml" title="Sitemap" href="{{ "/sitemap.xml" | prepend: site.baseurl | prepend: site.url }}" />
+
+<script src="/js/jquery-1.7.2.min.js"></script>
+{% if page.layout contains 'home' %}<script src="/js/typed.min.js"></script>{% endif %}
 <link rel="stylesheet" type="text/css" href="/css/style.css">
-<link href='https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+
 <script>
 function next() {
-	if(document.getElementById('body').className == 'menu') {
-		document.getElementById('body').className = '';
+	if($('body').hasClass('menu')) {
+		$('body').removeClass('menu');
 		setTimeout(function(){next()}, 400);
 		return false;
 	}
-	document.getElementById('controls').style.display = 'none'; 
-	document.getElementById('innerpage').className = 'next'; 
-	setTimeout(function(){
-		document.location.href='{% if num_of_pages > next_i %}{{ sorted_pages[next_i].url }}{% else %}{{ sorted_pages[0].url }}{% endif %}';
-	}, 350);
+	document.location.href='{% if num_of_pages > next_i %}{{ sorted_pages[next_i].url }}{% else %}{{ sorted_pages[0].url }}{% endif %}';
 	return false;
 }
 function prev() {
-	if(document.getElementById('body').className == 'menu') {
-		document.getElementById('body').className = '';
+	if($('body').hasClass('menu')) {
+		$('body').removeClass('menu');
 		setTimeout(function(){prev()}, 400);
 		return false;
 	}
-	document.getElementById('controls').style.display = 'none'; 
-	document.getElementById('innerpage').className = 'prev'; 
-	setTimeout(function(){
-		document.location.href='{% if prev_i < 0 %}{{ sorted_pages[last_i].url }}{% else %}{{ sorted_pages[prev_i].url }}{% endif %}';
-	}, 350);
+	document.location.href='{% if prev_i < 0 %}{{ sorted_pages[last_i].url }}{% else %}{{ sorted_pages[prev_i].url }}{% endif %}';
 	return false;
 }
 var timeout;
 function menu() {
 	clearTimeout(timeout);
-	if(document.getElementById('body').className == 'menu') {
-		document.getElementById('body').className = '';
-		timeout = setTimeout(function(){document.getElementById('menu').style.zIndex = '-5'}, 600);
+	if($('body').hasClass('menu')) {
+		$('body').removeClass('menu'); 
+		timeout = setTimeout(function(){$('#menu').css('z-index','-5');}, 600);
 	}
 	else {
-		document.getElementById('menu').style.zIndex = '5'
-		document.getElementById('body').className = 'menu'; 
+		$('#menu').css('z-index','5')
+		$('body').addClass('menu'); 
 	}
 	return false;
 }
 $(document).ready( function() {
     $("#page").addClass("loaded");
+    {% if page.layout == 'portfolio' %}
     setInterval(function () {
         $("#loading span").toggle();
     },500);
@@ -83,7 +102,7 @@ $(document).ready( function() {
             endloading();
         }, 300)
     });
-
+    {% endif %}
     {% if page.layout == 'home' %}
     if($(window).width()>600) $(".element").typed({
     	strings: ["Ik ben ^100Linux fan.^1000", "Ik ben ^200UX expert.^2000", "Ik ben ^200programmeur.^1000", "Ik ben ^200web developer.^500"],
@@ -156,9 +175,9 @@ $(window).resize( function() {
     }
     if($(window).width()<600) {
         $('#title').css('margin-top','45px');
-        var extramargin = $('body').height() - ($('#content').height()-35);
-        if (extramargin>45) $('#title').css('margin-top',extramargin+'px');
-        else $('#title').css('margin-top','45px');
+        //var extramargin = $('body').height() - ($('#content').height()-35);
+        //if (extramargin>45) $('#title').css('margin-top',extramargin+'px');
+        //else $('#title').css('margin-top','45px');
     }
     
 });
@@ -166,18 +185,19 @@ $(window).resize( function() {
 </script>
 </head>
 
-<body id="body">
-<div id="page" class="{{ page.layout }}">
-	<div id="innerpage" style="background-color: {{ page.color }};">
-	<div id="particles-js" style="z-index:0;"></div>
-    <div id="border"></div>
+<body id="body" style="background-color: {{ page.color }};" class="{{ page.layout }}">
+	<div id="particles-js"></div>
 	{% if page.layout == 'portfolio' %}<div id="backgroundtriangle" style="background-image: url(//images.weserv.nl/?url=www.usecue.com{{ page.image }}&w=500&h=1000&t=squaredown);"><div id="triangle-topleft" style="border-top-color: {{ page.color }};"></div></div>{% endif %}
-		<table cellpadding="0" cellspacing="0"><tr><td><div id="content">
+    
+    <div class="outercontent"><div class="content">
+        
     <div id="innercontrols" class="showmobile">
-        <a href="#" onclick="menu();" id="openmenu"><img src="/img/menu2.png" class="black" /><img src="/img/menu.png" class="white" /></a>
-        <a href="#" onclick="menu();" id="closemenu"><img src="/img/close2.png" class="black" /><img src="/img/close.png" class="white" /></a>
+        <a href="#" onclick="menu();" id="openmenu"><img src="/img/menu2.png" alt="menu" class="black" /><img src="/img/menu.png" class="white" /></a>
+        <a href="#" onclick="menu();" id="closemenu"><img src="/img/close2.png" alt="close" class="black" /><img src="/img/close.png" class="white" /></a>
         {% if page.layout == 'portfolio' or page.layout == 'post' %}
-        <a href="#" onclick="prev();"><img src="/img/back2.png" class="black" /><img src="/img/back.png" class="white" /></a>
-        <a href="#" onclick="next();"><img src="/img/next2.png" class="black" /><img src="/img/next.png" class="white" /></a>
+        <a href="#" onclick="prev();"><img src="/img/back2.png" alt="previous" class="black" /><img src="/img/back.png" class="white" /></a>
+        <a href="#" onclick="next();"><img src="/img/next2.png" alt="next" class="black" /><img src="/img/next.png" class="white" /></a>
         {% endif %}
     </div>
+
+    <div class="innercontent">

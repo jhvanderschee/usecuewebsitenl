@@ -1,24 +1,24 @@
 
 
 <div id="title" class="showmobile">Usecue <span>&nbsp;web development</span></div>
-</div></td></tr></table>
-	</div>
-	
-	<div id="menu"><table cellpadding="0" cellspacing="0"><tr><td><div id="content">
+
+</div></div></div>
+
+	<div id="menu"><div class="outercontent"><div class="content">
 		    <a href="/">home.</a><br />
 		    <a href="/over-mij/">over mij.</a><br />
 		    <a href="/portfolio/">portfolio.</a><br />
 		    <a href="/blog/">blog.</a><br />
 		    <a href="/contact/">contact.</a><br />		
-	</div></td></tr></table></div>
-</div>
+	</div></div></div>
+
 <div id="controls" class="showdesktop {{ page.layout }}">
 	<div id="innercontrols">
-		<a href="#" onclick="menu();" id="openmenu"><img src="/img/menu2.png" class="black" /><img src="/img/menu.png" class="white" /></a>
-		<a href="#" onclick="menu();" id="closemenu"><img src="/img/close2.png" class="black" /><img src="/img/close.png" class="white" /></a>
+		<a href="#" onclick="menu();" id="openmenu"><img src="/img/menu2.png" class="black" alt="menu" /><img src="/img/menu.png" class="white" alt="menu" /></a>
+		<a href="#" onclick="menu();" id="closemenu"><img src="/img/close2.png" class="black" alt="close" /><img src="/img/close.png" class="white" alt="close" /></a>
 		{% if page.layout == 'portfolio' or page.layout == 'post' %}
-    <a href="#" onclick="prev();"><img src="/img/back2.png" class="black" /><img src="/img/back.png" class="white" /></a>
-		<a href="#" onclick="next();"><img src="/img/next2.png" class="black" /><img src="/img/next.png" class="white" /></a>
+    <a href="#" onclick="prev();"><img src="/img/back2.png" alt="previous" class="black" /><img src="/img/back.png" alt="previous" class="white" /></a>
+		<a href="#" onclick="next();"><img src="/img/next2.png" alt="next" class="black" /><img src="/img/next.png" alt="next" class="white" /></a>
     {% endif %}
 	</div>
 	<div id="title" class="showdesktop">Usecue <span>&nbsp;web development</span></div>
@@ -37,13 +37,14 @@
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
   ga('create', 'UA-1168883-2', 'auto');
   ga('send', 'pageview');
 
 </script>
 {% if page.layout == 'home' %}<script src="/js/particles.min.js"></script>{% endif %}
+{% include open-embed.html %}
 {% include lightbox.html lightbox_captions="false" %}
 </body>
 
