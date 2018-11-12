@@ -4,7 +4,7 @@ title: Vaarwel Google
 
 Ik kwam er vandaag achter dat Google Maps op mijn website een donkere overlay toonde, met de tekst ‘for development purposes only’. Als website ontwikkelaar en host ben ik verantwoordelijk voor honderden websites, dus je snapt dat ik enigszins in paniek raakte.
 
-Al snel kwam ik erachter dat ik (gelukkig?) niet de enige was met dit probleem. De website van het Gemeentelijk Vervoer Bedrijf (GVB) in Amsterdam, die gebruikt wordt door een half miljoen mensen per dag, had hetzelfde probleem. Je kunt dit hier zien:
+Al snel kwam ik erachter dat ik (gelukkig?) niet de enige was met dit probleem. De website van het gemeentevervoerbedrijf (GVB) in Amsterdam, die gebruikt wordt door een half miljoen mensen per dag, had hetzelfde probleem. Je kunt dit hier zien:
 
 <a href="/uploads/gvb.png" style="display: block;"><img src="/uploads/gvb.png" style="display: block;" /></a>
 
