@@ -43,8 +43,8 @@
   ga('send', 'pageview');
 
 </script>
-<script src="http://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
-
+{% if page.layout == 'home' %}<script src="/js/particles.min.js"></script>{% endif %}
+{% include lightbox.html lightbox_captions="false" %}
 </body>
 
 </html>
