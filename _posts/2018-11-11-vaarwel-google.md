@@ -18,4 +18,4 @@ Ik was boos. Ik wilde dat mijn websites het weer deden, maar vond niet dat ik mi
 
 Toen heb ik het enige gedaan wat ik kon: Ik heb mij opgeofferd en heb eigenhandig Google Maps verwijderd van alle websites die ik hostte. Ik heb Google Maps vervangen door de open-source Leaflet library die werkt met Open Street Maps of door een zelfontwikkelde SVG oplossing (zie: [beukenbuurt.amsterdam](https://beukenbuurt.amsterdam)). Er is een lichtpuntje: Leaflet heeft veel betere documentatie dan Google Maps en mijn zelfontwikkelde SVG oplossing is volledig AVG compliant.
 
-Google als technische partner in software ontwikkeling? Nee dank je, laten we dat maar niet meer doen. Ik wens Google dan ook veel succes met hun (te) dure Compute Engine en al zijn API’s! Ik pieker er niet daar ooit nog iets van te gebruiken. Vaarwel Google.
+Google als technische partner in software ontwikkeling? Nee dank je, laten we dat maar niet meer doen. Ik wens Google dan ook veel succes met hun (te) dure Compute Engine en al zijn API’s. Vaarwel Google.
