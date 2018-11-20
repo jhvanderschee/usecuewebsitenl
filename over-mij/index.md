@@ -1,13 +1,13 @@
 ---
 title: Over mij.
-subtitle:
+subtitle: 
 layout: text
-image:
-thumbnail: /uploads/thumbnails/3.jpg
-color: '#ffffff'
+image: 
+thumbnail: ''
+color: "#ffffff"
 order: 2
----
 
+---
 Mijn naam is Joost van der Schee. In 2007 heb ik Usecue BV opgericht. Samen met mijn collega's en klanten ontwikkel ik websites en webapplicaties, waarbij de focus ligt op effici&euml;ntie en kwaliteit in het ontwerp- en ontwikkelproces. Usecue is gespecialiseerd in het bouwen van maatwerkoplossingen en werkt voornamelijk voor reclamebureau's en grafisch vormgevers. 
 
 Ik heb industrieel ontwerpen gestudeerd aan de TUDelft en heb daarom een analytische kijk op het ontwerpproces en de mens-computer interactie.
