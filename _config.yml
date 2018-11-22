@@ -26,4 +26,4 @@ permalink: /blog/:title/
 collections:
   portfolio:
     output: true
-    permalink: /portfolio/:title/
+    permalink: /portfolio/:name/
