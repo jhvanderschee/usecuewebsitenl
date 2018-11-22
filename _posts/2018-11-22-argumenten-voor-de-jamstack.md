@@ -35,4 +35,4 @@ Als simpeler beter is... dan is dit waar. Wanneer je echter een fail-over moet/w
 
 ## Conclusie
 
-Het genuanceerde verhaal is dus: JAMstack is een logische keuze voor simpele websites. Het is dan goedkoper en eenvoudiger. Zodra je echter meer met je website wil wordt het minstens zo ingewikkeld als bij WordPress websites (als niet ingewikkelder). Ook wordt het dan snel een stuk duurder.
+Het genuanceerde verhaal is dus: JAMstack is een logische keuze voor simpele websites. Het is dan goedkoper en eenvoudiger. Zodra je echter veel meer met je website wilt, wordt het ingewikkelder en duurder. De JAMstack is dus niet voor ieder project de beste oplossing.
