@@ -1,9 +1,7 @@
 ---
 title: Argumenten voor de JAMstack
-date: 2018-11-22 08:47:15 +0000
-
 ---
-Ik hoor om me heen zoveel onzin-argumenten voor JAMstack websites, dat ik graag even het een en ander recht wil zetten. Aldus, ter leering ende vermaeck...
+Ik hoor zoveel onzin-argumenten voor JAMstack websites om me heen, dat ik graag even het een en ander recht wil zetten. Aldus, ter leering ende vermaeck...
 
 ## JAMstack? Wat is dat?
 
