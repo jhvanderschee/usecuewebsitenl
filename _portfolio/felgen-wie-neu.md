@@ -1,6 +1,5 @@
 ---
 title: felgen wie neu.
-layout: portfolio
 image: /uploads/fwn.jpg
 color: '#5b6669'
 address: '//swift-goldfish.cloudvent.net/'

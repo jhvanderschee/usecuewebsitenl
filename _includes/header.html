@@ -1,15 +1,8 @@
 {% if page.layout != 'post' %}
-{% assign sorted_pages2 = site.pages | sort: 'order' %}
+    {% assign sorted_pages = site.portfolio | sort: 'order' %}
 {% else %}
-{% assign sorted_pages2 = site.posts reversed %}
+    {% assign sorted_pages = site.posts reversed %}
 {% endif %}
-
-{% assign sorted_pages = "" | split: ""  %}
-{% for item in sorted_pages2 %}
-	{% if item.url != "/biggie-smalls.json" and item.url != "/404.html" %}	
-		{% assign sorted_pages = sorted_pages | push: item %}
-	{% endif %}	
-{% endfor %}
 
 {% for item in sorted_pages %}
     {% if item.url == page.url %}

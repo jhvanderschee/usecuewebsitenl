@@ -3,15 +3,27 @@ defaults:
     scope:
       path: "" # an empty string here means all files in the project
     values:
-      layout: "text"
+      layout: "page"
   -
     scope:
       path: "" # an empty string here means all files in the project
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "post"
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "portfolio" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "portfolio"
 
 title: Usecue web development
 description: Website ontwikkeling, development en hosting
 url: https://www.usecue.nl
 twitter: jhvanderschee
+permalinks: pretty
+
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:title/

@@ -1,6 +1,5 @@
 ---
 title: bibi.
-layout: portfolio
 image: /uploads/homepage_hero_image4.jpg
 color: '#746d61'
 address: 'https://bibivandervelden.com'

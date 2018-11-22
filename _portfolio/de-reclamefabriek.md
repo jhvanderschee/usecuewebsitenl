@@ -1,6 +1,5 @@
 ---
 title: reclame die werkt.
-layout: portfolio
 image: /uploads/clouds.jpg
 color: '#008fc5'
 address: '//tangerine-mushroom.cloudvent.net/#overons'
