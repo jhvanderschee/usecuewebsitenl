@@ -2,7 +2,7 @@
 title: Contact.
 
 ---
-Mijn kantoor zit op Soetendaal 7, 1081BL in Amsterdam. I werk het liefste voor reclame-/ontwerpbureau's. Ik out-source mijn werk niet en heb ook geen stagaires. Wanneer je mij inhuurt ben ik degene die het werk doet.
+Mijn kantoor zit op Soetendaal 7, 1081BL in Amsterdam. Ik werk het liefste voor reclame-/ontwerpbureau's. Ik out-source mijn werk niet en heb ook geen stagaires. Wanneer je mij inhuurt ben ik degene die het werk doet.
 
 Mijn adres is:  
 Soetendaal 7  
