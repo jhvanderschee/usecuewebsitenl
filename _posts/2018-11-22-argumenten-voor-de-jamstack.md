@@ -3,13 +3,15 @@ title: Argumenten voor de JAMstack
 date: 2018-11-22 08:47:15 +0000
 
 ---
-Argumenten om voor jamstack te kiezen zijn vaak:
+Ik hoor zoveel onzin argumenten voor JAMstack websites, dat ik graag even het een en ander recht wil zetten. Allereerst: [Wat zijn JAMstack websites eigenlijk?](https://jamstack.org/ "https://jamstack.org/"). Het is eigenlijk makkelijker te zeggen wat het NIET is. Het zijn sites die NIET real-time een database uitlezen om hun pagina's samen te stellen. JAMstack websites serveren voorgegenereerde pagina's. WordPress websites genereren hun pagina's real-time en zijn dus GEEN JAMstack websites.
 
-- betere prestaties
-- veiliger
-- makkelijker schaalbaar
-- goedkoper
-- betere developer ervaring
+Argumenten om voor JAMstack te kiezen zijn vaak:
+
+* betere prestaties
+* veiliger
+* makkelijker schaalbaar
+* goedkoper
+* betere developer ervaring
 
 ## Betere prestaties
 
