@@ -6,3 +6,5 @@ address: 'https://www.devos.nl/'
 mobile:
 order: 1
 ---
+
+Niet moeilijk doen als het makkelijk kan is de slogan van dit adocatenkantoor.
