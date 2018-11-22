@@ -23,7 +23,7 @@ Daarmee wordt de snelheid van het laden van de site bedoeld. Een WordPress websi
 
 ## Veiliger
 
-Je hoeft je 'security' niet meer zelf te regelen, maar je besteedt het uit aan derde partijen waardoor je er geen zicht/invloed meer op hebt. Dat is iets heel anders dan 'veiliger'. Een monolith lijkt eenvoudiger te beveiligen dan een handvol services van derde partijen.
+Je hoeft de beveiliging van je server niet meer zelf te regelen, maar je besteedt het uit aan meerdere(!) derde partijen waardoor je er geen zicht/invloed meer op hebt. Dat is iets heel anders dan 'veiliger'. Bij WordPress kun je je beveiliging ook uitbesteden door voor Managed WordPress Hosting te kiezen.
 
 ## Makkelijker schaalbaar
 
@@ -39,4 +39,4 @@ Als simpeler beter is... dan is dit waar. Wanneer je echter een fail-over moet/w
 
 ## Conclusie
 
-Het genuanceerde verhaal is dus: JAMstack is een logische keuze voor developers die security willen out-sourcen. Voor simpele websites is het goedkoper en eenvoudiger, maar zodra je meer met je website wil wordt het minstens zo ingewikkeld als bij WordPress websites (als niet ingewikkelder). Ook wordt het al snel een stuk duurder dan een WordPress installatie.
+Het genuanceerde verhaal is dus: JAMstack is een logische keuze voor simpele websites. Het is dan goedkoper en eenvoudiger. Zodra je echter meer met je website wil wordt het minstens zo ingewikkeld als bij WordPress websites (als niet ingewikkelder). Ook wordt het dan snel een stuk duurder.
