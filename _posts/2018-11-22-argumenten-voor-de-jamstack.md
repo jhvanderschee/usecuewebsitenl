@@ -39,4 +39,4 @@ Als simpeler beter is... dan is dit waar. Wanneer je echter een fail-over moet/w
 
 ## Conclusie
 
-Het genuanceerde verhaal is dus: JAMstack is een logische keuze voor developers die security willen out-sourcen. Voor simpele websites is het goedkoper en eenvoudiger, maar zodra je meer met je website wil wordt het minstens zo ingewikkeld als bij WordPress websites (als niet ingewikkelder). Ook wordt het al snel een stuk duurder dan een WordPress installatie (eventueel op Managed WordPress Hosting). Het kantelpunt ligt ergens tussen de 25 en 50 euro per maand. Daaronder is het slimmer om voor JAMstack te kiezen, daarboven niet meer.
+Het genuanceerde verhaal is dus: JAMstack is een logische keuze voor developers die security willen out-sourcen. Voor simpele websites is het goedkoper en eenvoudiger, maar zodra je meer met je website wil wordt het minstens zo ingewikkeld als bij WordPress websites (als niet ingewikkelder). Ook wordt het al snel een stuk duurder dan een WordPress installatie.
