@@ -27,7 +27,7 @@ Je hoeft de beveiliging van je server niet meer zelf te regelen, maar je besteed
 
 ## Makkelijker schaalbaar
 
-Voor een monolith is het niet erg moeilijk om een grotere/snellere/betere server te bestellen en je site te migreren. In het ergste geval scheid je de database van de files. Het lijkt me sterk dat je site zo succesvol is dat een dergelijke setup onvoldoende is. WordPress websites zijn dus ook makkelijk schaalbaar.
+Voor een WordPress website is het niet erg moeilijk om een grotere/snellere/betere server te bestellen en je site te migreren. In het ergste geval scheid je de database van de files. Het lijkt me sterk dat je site zo succesvol is dat een dergelijke setup onvoldoende is. WordPress websites zijn dus ook makkelijk schaalbaar.
 
 ## Goedkoper
 
