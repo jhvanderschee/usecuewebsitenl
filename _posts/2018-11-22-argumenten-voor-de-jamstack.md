@@ -7,7 +7,7 @@ Ik hoor om me heen zoveel onzin-argumenten voor JAMstack websites, dat ik graag 
 
 ## JAMstack? Wat is dat?
 
-Allereerst: [Wat zijn JAMstack websites eigenlijk?](https://jamstack.org/ "https://jamstack.org/"). Het is eigenlijk makkelijker te zeggen wat het NIET is. Het zijn sites die NIET real-time een database uitlezen om hun pagina's samen te stellen. JAMstack websites serveren voorgegenereerde pagina's. WordPress websites genereren hun pagina's real-time en zijn dus GEEN JAMstack websites. 
+Allereerst: [Wat zijn JAMstack websites eigenlijk?](https://jamstack.org/ "https://jamstack.org/") Het is eigenlijk makkelijker uit te leggen wat het NIET is. Het zijn sites die NIET real-time een database uitlezen om hun pagina's samen te stellen. JAMstack websites serveren voorgegenereerde pagina's. WordPress websites genereren hun pagina's real-time en zijn dus GEEN JAMstack websites. 
 
 Argumenten voor JAMstack die je vaak hoort zijn:
 
