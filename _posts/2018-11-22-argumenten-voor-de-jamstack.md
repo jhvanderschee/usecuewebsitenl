@@ -23,7 +23,7 @@ Daarmee wordt de snelheid van het laden van de site bedoeld. WordPress met een c
 
 ## Veiliger
 
-Je hoeft je 'security' niet meer zelf te regelen, maar je besteedt het uit aan derde partijen waardoor je er geen zicht/invloed meer op hebt. Dat is iets heel anders dan 'veiliger'. Een monolith lijkt eenvoudiger te beveiligen dan een hand vol services van derde partijen.
+Je hoeft je 'security' niet meer zelf te regelen, maar je besteedt het uit aan derde partijen waardoor je er geen zicht/invloed meer op hebt. Dat is iets heel anders dan 'veiliger'. Een monolith lijkt eenvoudiger te beveiligen dan een handvol services van derde partijen.
 
 ## Makkelijker schaalbaar
 
