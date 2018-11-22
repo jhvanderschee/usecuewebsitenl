@@ -37,4 +37,6 @@ JAMstack sites hebben minder/geen 'bewegende onderdelen', waardoor hosting goedk
 
 Als simpeler beter is... dan is dit waar. Wanneer je echter een fail-over moet/wil configureren, dan zul je al snel moeten toegeven dat dit niet waar is. Een fail-over van een WordPress site draaien is een fluitje van een cent (gewoon de server dupliceren en er een fail-over DNS op zetten). Wanneer je dit voor een JAMstack moet doen, heb je het een stuk lastiger. Je zult dan alternatieve oplossingen voor alle services moeten configureren. De complexiteit is dan als snel niet meer te overzien.
 
+## Conclusie
+
 Het genuanceerde verhaal is dus: JAMstack is een logische keuze voor developers die security willen out-sourcen. Voor simpele websites is het goedkoper en eenvoudiger, maar zodra je meer met je website wil wordt het minstens zo ingewikkeld als bij monoliths (als niet ingewikkelder).
