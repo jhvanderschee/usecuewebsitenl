@@ -27,7 +27,7 @@ Je hoeft je 'security' niet meer zelf te regelen, maar je besteedt het uit aan d
 
 ## Makkelijker schaalbaar
 
-Het is niet erg moeilijk om een grotere/snellere/betere server te bestellen en de boel te migreren. In het ergste geval scheid je de database van de files. Het lijkt me sterk dat je site zo succesvol is dat een dergelijke setup onvoldoende is.
+Voor een WordPress website is het niet erg moeilijk om een grotere/snellere/betere server te bestellen en je site te migreren. In het ergste geval scheid je de database van de files. Het lijkt me sterk dat je site zo succesvol is dat een dergelijke setup onvoldoende is.
 
 ## Goedkoper
 
