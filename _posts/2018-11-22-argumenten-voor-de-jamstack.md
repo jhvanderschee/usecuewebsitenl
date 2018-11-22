@@ -31,7 +31,7 @@ Voor een WordPress website is het niet erg moeilijk om een grotere/snellere/bete
 
 ## Goedkoper
 
-JAMstack sites hebben minder/geen 'bewegende onderdelen', waardoor hosting goedkoper is. Er zit echter een addertje onder het gras. Wanneer je je JAMstack website wilt uitbreiden met een goed CMS, het schalen van afbeeldingen of het versturen van formulieren moet je dat afnemen bij een derde partij, die daar geld voor vraagt. Deze kosten doen je eerdere voordeel teniet, waardoor je per saldo niet goedkoper uit bent.
+JAMstack sites hebben minder/geen 'bewegende onderdelen', waardoor hosting goedkoper is. Er zit echter een addertje onder het gras. Wanneer je je JAMstack website wilt uitbreiden met een goed CMS, het schalen van afbeeldingen of het versturen van formulieren moet je dat afnemen bij een derde partij, die daar geld voor vraagt. Deze kosten doen je eerdere voordeel teniet, waardoor je vaak per saldo niet goedkoper uit bent.
 
 ## Betere developer ervaring
 
