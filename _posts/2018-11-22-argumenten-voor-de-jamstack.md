@@ -15,7 +15,7 @@ Argumenten voor JAMstack die je vaak hoort zijn:
 
 ## Betere prestaties
 
-Daarmee wordt de snelheid van het laden van de site bedoeld. Een WordPress website met een caching server is echter net zo snel als een statische stite, omdat een WordPress website met cache in feite een statische website is. Dat is dus niet waar. Het genereren van een voorbeeld van je wijzigingen is overigens veel trager bij een JAMstack website.
+Daarmee wordt de snelheid van het laden van de site bedoeld. Een WordPress website met een caching server is echter net zo snel als een JAMstack webstite, omdat een WordPress website met cache in feite een statische/JAMstack website is. Dat is dus niet waar. Het genereren van een voorbeeld van je wijzigingen is overigens veel trager bij een JAMstack website.
 
 ## Veiliger
 
