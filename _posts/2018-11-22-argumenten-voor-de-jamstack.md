@@ -3,8 +3,6 @@ title: Argumenten voor de JAMstack
 ---
 Ik hoor zoveel onzin-argumenten voor JAMstack websites om me heen, dat ik graag even het een en ander recht wil zetten. Aldus, ter leering ende vermaeck...
 
-## JAMstack? Wat is dat?
-
 Allereerst: [Wat zijn JAMstack websites eigenlijk?](https://jamstack.org/ "https://jamstack.org/") Het is eigenlijk makkelijker uit te leggen wat het NIET is. Het zijn sites die NIET real-time hun eigen database uitlezen om hun pagina's samen te stellen. JAMstack websites serveren voorgegenereerde pagina's die eventueel worden verrijkt door Javascript met uit API's vekregen content. WordPress websites genereren hun pagina's real-time uit hun eigen database en zijn dus GEEN JAMstack websites. 
 
 Argumenten voor JAMstack die je vaak hoort zijn:
@@ -35,6 +33,6 @@ JAMstack sites hebben minder/geen 'bewegende onderdelen', waardoor hosting goedk
 
 Als simpeler beter is... dan is dit waar. Wanneer je echter een fail-over moet/wil configureren, dan zul je al snel moeten toegeven dat het niet simpeler meer is. Een fail-over van een WordPress website draaien is een fluitje van een cent (gewoon de server dupliceren en er een fail-over DNS op zetten). Wanneer je dit voor een JAMstack moet doen, heb je het een stuk lastiger. Je zult dan alternatieve oplossingen voor alle services moeten configureren. De complexiteit is dan al snel niet meer te overzien.
 
-## Conclusie
+&nbsp;
 
 Het genuanceerde verhaal is dus: JAMstack is een logische keuze voor simpele websites. Het is dan goedkoper en eenvoudiger. Zodra je echter meer met je website wil wordt het minstens zo ingewikkeld als bij WordPress websites (als niet ingewikkelder). Ook wordt het dan snel een stuk duurder.
