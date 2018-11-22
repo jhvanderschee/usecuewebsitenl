@@ -3,9 +3,13 @@ title: Argumenten voor de JAMstack
 date: 2018-11-22 08:47:15 +0000
 
 ---
-Ik hoor zoveel onzin argumenten voor JAMstack websites, dat ik graag even het een en ander recht wil zetten. Allereerst: [Wat zijn JAMstack websites eigenlijk?](https://jamstack.org/ "https://jamstack.org/"). Het is eigenlijk makkelijker te zeggen wat het NIET is. Het zijn sites die NIET real-time een database uitlezen om hun pagina's samen te stellen. JAMstack websites serveren voorgegenereerde pagina's. WordPress websites genereren hun pagina's real-time en zijn dus GEEN JAMstack websites.
+Ik hoor om me heen zoveel onzin-argumenten voor JAMstack websites, dat ik graag even het een en ander recht wil zetten. Aldus, ter leering ende vermaeck...
 
-Argumenten om voor JAMstack te kiezen zijn vaak:
+## JAMstack? Wat is dat?
+
+Allereerst: [Wat zijn JAMstack websites eigenlijk?](https://jamstack.org/ "https://jamstack.org/"). Het is eigenlijk makkelijker te zeggen wat het NIET is. Het zijn sites die NIET real-time een database uitlezen om hun pagina's samen te stellen. JAMstack websites serveren voorgegenereerde pagina's. WordPress websites genereren hun pagina's real-time en zijn dus GEEN JAMstack websites. 
+
+Argumenten voor JAMstack die je vaak hoort zijn:
 
 * betere prestaties
 * veiliger
@@ -15,7 +19,7 @@ Argumenten om voor JAMstack te kiezen zijn vaak:
 
 ## Betere prestaties
 
-Daarmee wordt de snelheid van de site bedoeld. WordPress met een caching server is echter net zo snel als een statische stite, omdat WordPress met cache in feite een statische website is. Dat is dus niet waar.
+Daarmee wordt de snelheid van het laden van de site bedoeld. WordPress met een caching server is echter net zo snel als een statische stite, omdat WordPress met cache in feite een statische website is. Dat is dus niet waar. Het genereren van een voorbeeld van je wijzigingen is overigens veel trager bij een JAMstack website.
 
 ## Veiliger
 
