@@ -27,11 +27,11 @@ Voor een WordPress website is het niet erg moeilijk om een grotere/snellere/bete
 
 ## Goedkoper
 
-JAMstack sites hebben minder/geen 'bewegende onderdelen', waardoor hosting goedkoper is. Er zit echter een addertje onder het gras. Wanneer je je JAMstack website wilt uitbreiden met een goed CMS, het schalen van afbeeldingen of het versturen van formulieren moet je dat afnemen bij een derde partij, die daar geld voor vraagt. Deze kosten doen je eerdere voordeel teniet, waardoor je vaak per saldo niet goedkoper uit bent.
+JAMstack sites hebben minder/geen 'bewegende onderdelen', waardoor hosting goedkoper is. Er zit echter een addertje onder het gras. Wanneer je je JAMstack website wilt uitbreiden met een goed CMS, het schalen van afbeeldingen of het versturen van formulieren moet je dat afnemen bij een derde partij, die daar geld voor vraagt. Deze kosten doen je eerdere voordeel teniet, waardoor je vaak per saldo even duur uit bent.
 
 ## Betere developer ervaring
 
-Als simpeler beter is... dan is dit waar. Wanneer je echter een fail-over moet/wil configureren, dan zul je al snel moeten toegeven dat het niet simpeler meer is. Een fail-over van een WordPress website draaien is een fluitje van een cent (gewoon de server dupliceren en er een fail-over DNS op zetten). Wanneer je dit voor een JAMstack moet doen, heb je het een stuk lastiger. Je zult dan alternatieve oplossingen voor alle services moeten configureren. De complexiteit is dan al snel niet meer te overzien.
+Als simpeler beter is... dan is dit waar. Wanneer je echter een fail-over moet/wil configureren, dan zul je al snel moeten toegeven dat het niet simpeler is. Een fail-over van een WordPress website draaien is een fluitje van een cent (gewoon de server dupliceren en er een fail-over DNS op zetten). Wanneer je dit voor een JAMstack moet doen, heb je het een stuk lastiger. Je zult dan alternatieve oplossingen voor alle services moeten configureren. De complexiteit is dan al snel niet meer te overzien.
 
 ## Conclusie
 
