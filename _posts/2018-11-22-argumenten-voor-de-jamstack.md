@@ -1,7 +1,7 @@
 ---
 title: Argumenten voor de JAMstack
 ---
-Ik heb de afgelopen paar jaar meer dan 100 JAMstack websites gebouwd en ik hoor zoveel onzin-argumenten voor de JAMstack om me heen, dat ik graag even het een en ander recht wil zetten. Voor de eenvoud vergelijk ik de JAMstack met WordPress.
+Ik heb de afgelopen paar jaar meer dan 100 JAMstack websites gebouwd. Ik hoor echter zoveel onzin-argumenten voor de JAMstack om me heen, dat ik graag even het een en ander recht wil zetten. Voor de eenvoud zal ik de JAMstack met WordPress vergelijken.
 
 Allereerst: [Wat zijn JAMstack websites eigenlijk?](https://jamstack.org/ "https://jamstack.org/") Het is eigenlijk makkelijker uit te leggen wat het NIET is. Het zijn sites die NIET real-time hun eigen database uitlezen om hun pagina's samen te stellen. JAMstack websites serveren voorgegenereerde pagina's die eventueel worden verrijkt door Javascript met uit API's vekregen content. WordPress websites genereren hun pagina's real-time uit hun eigen database en zijn dus GEEN JAMstack websites. 
 
