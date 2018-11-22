@@ -1,8 +1,8 @@
 ---
-title: "Ida"
-image: /uploads/stijn-te-strake-316914-unsplash2.jpg
-color: '#D76B2E'
-address: '//lively-chamois.cloudvent.net'
+title: "De Vos"
+image: /uploads/devosenpartners1.jpg
+color: '#ABBAB7'
+address: 'https://www.devos.nl/'
 mobile:
-order: 3
+order: 1
 ---
