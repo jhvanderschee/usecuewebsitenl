@@ -19,7 +19,7 @@ Argumenten voor JAMstack die je vaak hoort zijn:
 
 ## Betere prestaties
 
-Daarmee wordt de snelheid van het laden van de site bedoeld. WordPress met een caching server is echter net zo snel als een statische stite, omdat WordPress met cache in feite een statische website is. Dat is dus niet waar. Het genereren van een voorbeeld van je wijzigingen is overigens veel trager bij een JAMstack website.
+Daarmee wordt de snelheid van het laden van de site bedoeld. Een WordPress website met een caching server is echter net zo snel als een statische stite, omdat een WordPress website met cache in feite een statische website is. Dat is dus niet waar. Het genereren van een voorbeeld van je wijzigingen is overigens veel trager bij een JAMstack website.
 
 ## Veiliger
 
@@ -27,7 +27,7 @@ Je hoeft je 'security' niet meer zelf te regelen, maar je besteedt het uit aan d
 
 ## Makkelijker schaalbaar
 
-Voor een WordPress website is het niet erg moeilijk om een grotere/snellere/betere server te bestellen en je site te migreren. In het ergste geval scheid je de database van de files. Het lijkt me sterk dat je site zo succesvol is dat een dergelijke setup onvoldoende is.
+Voor een monolith is het niet erg moeilijk om een grotere/snellere/betere server te bestellen en je site te migreren. In het ergste geval scheid je de database van de files. Het lijkt me sterk dat je site zo succesvol is dat een dergelijke setup onvoldoende is. WordPress websites zijn dus ook makkelijk schaalbaar.
 
 ## Goedkoper
 
@@ -35,8 +35,8 @@ JAMstack sites hebben minder/geen 'bewegende onderdelen', waardoor hosting goedk
 
 ## Betere developer ervaring
 
-Als simpeler beter is... dan is dit waar. Wanneer je echter een fail-over moet/wil configureren, dan zul je al snel moeten toegeven dat het ook niet simpeler is. Een fail-over van een WordPress site draaien is een fluitje van een cent (gewoon de server dupliceren en er een fail-over DNS op zetten). Wanneer je dit voor een JAMstack moet doen, heb je het een stuk lastiger. Je zult dan alternatieve oplossingen voor alle services moeten configureren. De complexiteit is dan al snel niet meer te overzien.
+Als simpeler beter is... dan is dit waar. Wanneer je echter een fail-over moet/wil configureren, dan zul je al snel moeten toegeven dat het ook niet simpeler is. Een fail-over van een WordPress website draaien is een fluitje van een cent (gewoon de server dupliceren en er een fail-over DNS op zetten). Wanneer je dit voor een JAMstack moet doen, heb je het een stuk lastiger. Je zult dan alternatieve oplossingen voor alle services moeten configureren. De complexiteit is dan al snel niet meer te overzien.
 
 ## Conclusie
 
-Het genuanceerde verhaal is dus: JAMstack is een logische keuze voor developers die security willen out-sourcen. Voor simpele websites is het goedkoper en eenvoudiger, maar zodra je meer met je website wil wordt het minstens zo ingewikkeld als bij monoliths (als niet ingewikkelder).
+Het genuanceerde verhaal is dus: JAMstack is een logische keuze voor developers die security willen out-sourcen. Voor simpele websites is het goedkoper en eenvoudiger, maar zodra je meer met je website wil wordt het minstens zo ingewikkeld als bij WordPress websites (als niet ingewikkelder). Ook wordt het al snel een stuk duurder dan een WordPress installatie (eventueel op Managed WordPress Hosting). Het kantelpunt ligt ergens tussen de 25 en 50 euro per maand. Daaronder is het slimmer om voor JAMstack te kiezen, daarboven niet meer.
