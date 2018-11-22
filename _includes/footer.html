@@ -14,11 +14,11 @@
 
 <div id="controls" class="showdesktop {{ page.layout }}">
 	<div id="innercontrols">
-		<a href="#" onclick="menu();" id="openmenu"><img src="/img/menu2.png" class="black" alt="menu" /><img src="/img/menu.png" class="white" alt="menu" /></a>
-		<a href="#" onclick="menu();" id="closemenu"><img src="/img/close2.png" class="black" alt="close" /><img src="/img/close.png" class="white" alt="close" /></a>
+		<a onclick="menu();" id="openmenu"><img src="/img/menu2.png" class="black" alt="menu" /><img src="/img/menu.png" class="white" alt="menu" /></a>
+		<a onclick="menu();" id="closemenu"><img src="/img/close2.png" class="black" alt="close" /><img src="/img/close.png" class="white" alt="close" /></a>
 		{% if page.layout == 'portfolio' or page.layout == 'post' %}
-    <a href="#" onclick="prev();"><img src="/img/back2.png" alt="previous" class="black" /><img src="/img/back.png" alt="previous" class="white" /></a>
-		<a href="#" onclick="next();"><img src="/img/next2.png" alt="next" class="black" /><img src="/img/next.png" alt="next" class="white" /></a>
+    <a onclick="prev();"><img src="/img/back2.png" alt="previous" class="black" /><img src="/img/back.png" alt="previous" class="white" /></a>
+		<a onclick="next();"><img src="/img/next2.png" alt="next" class="black" /><img src="/img/next.png" alt="next" class="white" /></a>
     {% endif %}
 	</div>
 	<div id="title" class="showdesktop">Usecue <span>&nbsp;web development</span></div>
