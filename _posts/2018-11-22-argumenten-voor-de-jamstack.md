@@ -36,4 +36,4 @@ JAMstack sites hebben geen bewegende onderdelen, wat de belasting voor de server
 
 ## Conclusie
 
-Het genuanceerde verhaal is dus: JAMstack is een logische keuze voor simpele websites, omdat het dan vaak goedkoper en eenvoudiger is. Zodra je echter bijzondere wensen hebt, wordt het al snel ingewikkelder en duurder. De JAMstack is dus niet voor ieder project de beste oplossing. Wil je weten of de JAMstack een goede keuze is voor jouw website? Neem [contact]() met mij op. Ik geef graag advies.
+Het genuanceerde verhaal is dus: JAMstack is een logische keuze voor simpele websites, omdat het dan vaak goedkoper en eenvoudiger is. Zodra je echter bijzondere wensen hebt, wordt het al snel ingewikkelder en duurder. De JAMstack is dus niet voor ieder project de beste oplossing. Wil je weten of de JAMstack een goede keuze is voor jouw website? Neem [contact](https://www.usecue.nl/contact/) met mij op. Ik geef graag advies.
