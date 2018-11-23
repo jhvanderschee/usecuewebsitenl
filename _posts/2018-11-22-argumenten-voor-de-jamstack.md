@@ -2,7 +2,7 @@
 title: Argumenten voor de JAMstack
 
 ---
-Ik heb de afgelopen paar jaar meer dan 100 JAMstack websites gebouwd en ben dan ook een [groot](https://www.usecue.nl/blog/jekyll-tegen-de-rest-van-de-wereld/) [fan](https://www.usecue.nl/blog/from-wordpress-to-cloudcannon/). Het is uiteraard niet alleen maar hosanna. De JAMstack heeft ook nadelen. Ik hoor echter veel ongenuanceerdheid om me heen. Om dat recht te zetten zal ik proberen de JAMstack zo genuanceerd mogelijk met WordPress te vergelijken.
+Ik heb de afgelopen paar jaar meer dan 100 JAMstack websites gebouwd en ben dan ook een [groot](https://www.usecue.nl/blog/jekyll-tegen-de-rest-van-de-wereld/) [fan](https://www.usecue.nl/blog/from-wordpress-to-cloudcannon/). Het is uiteraard niet alleen maar hosanna. De JAMstack heeft ook nadelen. Ik hoor veel ongenuanceerdheid om me heen. Om dat recht te zetten zal ik proberen de JAMstack zo eerlijk mogelijk met WordPress te vergelijken.
 
 Allereerst: [Wat zijn JAMstack websites eigenlijk?](https://jamstack.org/ "https://jamstack.org/") Het is eigenlijk makkelijker uit te leggen wat het NIET is. Het zijn sites die NIET real-time hun eigen database uitlezen om hun pagina's samen te stellen. JAMstack websites serveren voorgegenereerde pagina's die eventueel worden verrijkt door Javascript met uit API's vekregen content. WordPress websites genereren hun pagina's real-time uit hun eigen database en zijn dus GEEN JAMstack websites.
 
