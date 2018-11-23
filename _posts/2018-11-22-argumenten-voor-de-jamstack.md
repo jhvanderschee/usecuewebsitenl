@@ -24,7 +24,7 @@ Een JAMstack heeft geen 'bewegende onderdelen'. Daarmee wordt bedoeld dat een JA
 
 ## Makkelijker schaalbaar
 
-Het idee is dat een JAMstack site van een CDN wordt geserveerd. CDN's kunnen enorme hoeveelheden bezoekers aan. Bij groot succes (heel veel bezoekers) zal je site dus niet snel down gaan. Zoals eerder beargumenteerd, kun je ook een CDN aan een WordPress site koppelen, waardoor het verschil vrijwel volledig teniet wordt gedaan. Bovendien kun je in het ergste geval je WordPress website altijd nog migreren naar een grotere/snellere/betere server.
+Het idee is dat een JAMstack website van een CDN wordt geserveerd. CDN's kunnen enorme hoeveelheden bezoekers aan. Bij groot succes (heel veel bezoekers) zal je site dus niet snel down gaan. Zoals eerder beargumenteerd, kun je ook een CDN aan een WordPress site koppelen, waardoor het verschil vrijwel volledig teniet wordt gedaan. Bovendien kun je in het ergste geval je WordPress website altijd nog migreren naar een grotere/snellere/betere server.
 
 ## Goedkoper
 
