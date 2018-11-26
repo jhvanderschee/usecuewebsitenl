@@ -28,7 +28,7 @@ Het idee is dat een JAMstack website van een CDN wordt geserveerd. CDN's kunnen 
 
 ## Goedkoper
 
-JAMstack sites hebben geen bewegende onderdelen, wat de belasting voor de server en veel lager maakt. Daardoor is het hosten van een JAMstack website veel goedkoper. Er zit echter een addertje onder het gras. Wanneer je je JAMstack website wilt uitbreiden met een goed CMS, het schalen van afbeeldingen of het versturen van formulieren moet je dat afnemen bij een derde partij, die daar (mogelijk) geld voor vraagt. Deze kosten doen je eerdere voordeel vaak teniet, waardoor je soms per saldo  duurder uit bent.
+JAMstack sites hebben geen bewegende onderdelen, wat de belasting voor de server veel lager maakt. Daardoor is het hosten van een JAMstack website veel goedkoper dan het hosten van een WordPress website. Er zit echter een addertje onder het gras. Wanneer je je JAMstack website wilt uitbreiden met een goed CMS, het schalen van afbeeldingen of het versturen van formulieren moet je dat afnemen bij een derde partij, die daar (mogelijk) geld voor vraagt. Deze kosten doen je eerdere voordeel vaak teniet, waardoor je per saldo soms zelfs duurder uit bent.
 
 ## Betere developer ervaring
 
