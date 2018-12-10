@@ -25,6 +25,165 @@
 	</div>
 	<div class="title showdesktop">Usecue <span>&nbsp;web development</span></div>
 </div>
+
+
+
+<script src="/js/jquery-3.3.1.min.js"></script>
+{% if page.layout contains 'home' %}<script src="/js/typed.min.js"></script>{% endif %}
+
+<script>
+function next() {
+	if($('body').hasClass('menu')) {
+		$('body').removeClass('menu');
+		setTimeout(function(){next()}, 400);
+		return false;
+	}
+	document.location.href='{% if num_of_pages > next_i %}{{ sorted_pages[next_i].url }}{% else %}{{ sorted_pages[0].url }}{% endif %}';
+	return false;
+}
+function prev() {
+	if($('body').hasClass('menu')) {
+		$('body').removeClass('menu');
+		setTimeout(function(){prev()}, 400);
+		return false;
+	}
+	document.location.href='{% if prev_i < 0 %}{{ sorted_pages[last_i].url }}{% else %}{{ sorted_pages[prev_i].url }}{% endif %}';
+	return false;
+}
+var timeout;
+function menu() {
+	clearTimeout(timeout);
+	if($('body').hasClass('menu')) {
+		$('body').removeClass('menu'); 
+		timeout = setTimeout(function(){$('#menu').css('z-index','-5');}, 600);
+	}
+	else {
+		$('#menu').css('z-index','5')
+		$('body').addClass('menu'); 
+	}
+	return false;
+}
+function choose(choices) {
+    var index = Math.floor(Math.random() * choices.length);
+    return choices[index];
+}
+$(document).ready( function() {
+    $("#page").addClass("loaded");
+    {% if page.layout == 'portfolio' %}
+    setInterval(function () {
+        $("#loading span").toggle();
+    },500);
+    $('iframe').one("load", function() {
+        setTimeout(function () {
+            endloading();
+        }, 300)
+    });
+    {% endif %}
+
+    {% if page.layout == 'home' %}
+    var choice = choose(['datacenter','linux','firefox']) ;
+    if (choice == 'datacenter') {
+        if($(window).width()>600) $(".element").typed({
+        	strings: [
+                "Ik ben een ^100computer geek.^1000", 
+                "Ik ben een ^200UX expert.^2000", 
+                "Ik ben een ^200programmeur.^1000", 
+                "Ik ben een ^200web developer.^500"
+            ],
+        	typeSpeed: 20,
+        	callback: function(){ $(".typed-cursor").css('visibility','hidden');}
+    	});
+    } else if (choice == 'linux') {
+        if($(window).width()>600) $(".element").typed({
+    	    strings: [
+                "Ik ben een ^100Linux fan.^1000", 
+                "Ik ben een ^200UX expert.^2000", 
+                "Ik ben een ^200programmeur.^1000", 
+                "Ik ben een ^200web developer.^500"
+            ],
+            typeSpeed: 20,
+            callback: function(){ $(".typed-cursor").css('visibility','hidden');}
+        });
+    } else {
+        if($(window).width()>600) $(".element").typed({
+    	    strings: [
+                "Ik ben een ^100Firefox fan.^1000", 
+                "Ik ben een ^200UX expert.^2000", 
+                "Ik ben een ^200programmeur.^1000", 
+                "Ik ben een ^200web developer.^500"
+            ],
+            typeSpeed: 20,
+            callback: function(){ $(".typed-cursor").css('visibility','hidden');}
+        });
+    }
+    {% endif %}
+
+    $(window).resize();
+
+    {% if page.layout == 'home' %}
+        if(choice == 'datacenter') {
+            $('body').addClass('datacenter');
+        } else if (choice == 'linux') {
+		    particlesJS("particles-js", {"particles":{"number":{"value":400,"density":{"enable":true,"value_area":800}},"color":{"value":"#fff"},"shape":{"type":"circle","stroke":{"width":0,"color":"#000000"},"polygon":{"nb_sides":5},"image":{"src":"img/github.svg","width":100,"height":100}},"opacity":{"value":0.5,"random":true,"anim":{"enable":false,"speed":1,"opacity_min":0.1,"sync":false}},"size":{"value":10,"random":true,"anim":{"enable":false,"speed":40,"size_min":0.1,"sync":false}},"line_linked":{"enable":false,"distance":500,"color":"#ffffff","opacity":0.4,"width":2},"move":{"enable":true,"speed":6,"direction":"bottom","random":false,"straight":false,"out_mode":"out","bounce":false,"attract":{"enable":false,"rotateX":600,"rotateY":1200}}},"interactivity":{"detect_on":"canvas","events":{"onhover":{"enable":false,"mode":"bubble"},"onclick":{"enable":false,"mode":"repulse"},"resize":true},"modes":{"grab":{"distance":400,"line_linked":{"opacity":0.5}},"bubble":{"distance":400,"size":4,"duration":0.3,"opacity":1,"speed":3},"repulse":{"distance":200,"duration":0.4},"push":{"particles_nb":4},"remove":{"particles_nb":2}}},"retina_detect":true});
+	    } else {
+            $('body').addClass('firefox');
+        }
+	{% endif %}
+
+});
+
+$(document).keydown(function(e) {
+    switch(e.which) {
+        case 37: // left
+        prev();
+        break;
+
+        /*case 38: // up
+        break;*/
+
+        case 39: // right
+        next();
+        break;
+
+        /*case 40: // down
+        break;*/
+
+        default: return; // exit this handler for other keys
+    }
+    e.preventDefault(); // prevent the default action (scroll / move caret)
+
+});
+
+function endloading() {
+	$("iframe").css('opacity','1');
+    $("#imgoverlay").css('opacity','0.7');
+    $("#textcell").css('opacity','1');
+    $("#loading").css('opacity','0');
+}
+
+$(window).resize( function() {
+    if($(window).width()>1329) {
+        var trianglewidth = ($(window).width()-1100)/2;
+    } else {
+        var trianglewidth = ($(window).width()-770)/2;
+    }
+    if(trianglewidth<0) trianglewidth = 0;
+    $('#backgroundtriangle').css('height',$(window).height()+'px');
+    $('#triangle-topleft').css('border-top-width',$(window).height()+'px');
+    $('#backgroundtriangle').css('width',trianglewidth+'px');
+    $('#triangle-topleft').css('border-right-width',trianglewidth+'px'); 
+
+    if (screen.width < 330) {
+	  document.getElementById("viewport").setAttribute("content", "width=330");
+	}
+    else { 
+      document.getElementById("viewport").setAttribute("content", "width=device-width");
+    }
+
+});
+
+</script>
+
     <script>
     //open external links in a new window
     function externalLinks() {
