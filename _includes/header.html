@@ -46,6 +46,9 @@
 
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ "/sitemap.xml" | prepend: site.baseurl | prepend: site.url }}" />
+<style>
+body * {opacity: 0;}
+</style>
 </head>
 
 <body id="body" {% if page.color %}style="background{% if page.layout == '404' %}-color{% endif %}: {{ page.color }};"{% endif %} class="{{ page.layout }}">
