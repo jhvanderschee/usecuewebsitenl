@@ -7,4 +7,4 @@ mobile:
 order: 0
 ---
 
-De nieuwe website van dit bedrijf is sterk door zijn eenvoud. De site is uiteraard responsive en heeft een simpele consequent doorgevoerde vormgeving. Voor de techniek is gekozen voor Jekyll i.c.m. het CMS van CloudCannon.
+Een 100% score op Google Lighthouse en minder dan 150 regels CSS. Een razendsnelle, eenvoudige en elegante website die doet wat hij moet doen.
