@@ -7,4 +7,4 @@ mobile:
 order: 0
 ---
 
-Een 100% score op Google Lighthouse en minder dan 150 regels CSS. Een razendsnelle, eenvoudige en elegante website die doet wat hij moet doen. Mooi, snel en goed vindbaar op iedere schermgroote.
+Een 100% score in Google Lighthouse en minder dan 150 regels CSS. Een razendsnelle, eenvoudige en elegante website die doet wat hij moet doen. Mooi, snel en goed vindbaar op iedere schermgroote.
