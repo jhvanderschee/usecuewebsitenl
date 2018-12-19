@@ -1,7 +1,7 @@
 ---
 title: "Studio inHout."
 image: /uploads/notenhouten-tafel.jpg
-color: '#9b3396'
+color: '#691f66'
 address: '//actual-harmonica.cloudvent.net/collectie/notenhouten-tafel/'
 mobile:
 order: 0
