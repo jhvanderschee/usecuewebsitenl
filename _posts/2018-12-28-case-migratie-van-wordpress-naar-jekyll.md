@@ -2,7 +2,7 @@
 title: 'Case: migratie van WordPress naar Jekyll'
 ---
 
-Brechje Vermaat is de eigenaresse van Studio inHout. Ze maakt prachtige maatwerk meubelen en heeft ook een eigen collectie. Usecue heeft haar site een face-lift gegeven en gemigreerd van WordPress naar Jekyll.
+Brechje Vermaat is de eigenaresse van Studio inHout. Ze maakt prachtige maatwerk meubelen, heeft een eigen collectie en geeft cursussen. Usecue heeft haar site een face-lift gegeven en gemigreerd van WordPress naar Jekyll.
 
 Het [nieuwe ontwerp](/uploads/studioinhout.png) lijkt behoorlijk veel op het [oude ontwerp](/uploads/studioinhout2.png). Er zijn echter wel behoorlijk wat verbeteringen doorgevoerd. Zo is de site nu [geschikt](/uploads/studioinhout2_mobiel.png) voor [mobiel](/uploads/studioinhout_mobiel.png), wat belangrijk is in het kader van '[mobile-first indexing](https://developers.google.com/search/mobile-sites/mobile-first-indexing)'. Daarnaast is de site mooi gecentreerd op grotere beeldschermen, hebben de afbeeldingen een hogere resolutie en is de URL-structuur beter (voor de zoekmachine). Tenslotte heeft haar site nu een SSL certificaat. De URL van haar site begon met http:// i.p.v. https:// en dat vond Google [niet leuk](https://developers.google.com/web/tools/lighthouse/audits/https).
 
