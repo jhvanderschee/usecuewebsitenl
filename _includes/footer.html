@@ -212,6 +212,10 @@ $(window).resize( function() {
 {% if page.layout == 'home' %}<script src="/js/particles.min.js"></script>{% endif %}
 {% include open-embed.html %}
 {% include lightbox.html lightbox_captions="false" %}
+{% if page.layout != 'home' %}
+    <script src="/js/prefixfree.min.js"></script>
+    <script src="/js/conic-gradient.js"></script>
+{% endif %}
 </body>
 
 </html>
