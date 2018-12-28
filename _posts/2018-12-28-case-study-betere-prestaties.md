@@ -10,7 +10,7 @@ Om aan te tonen hoeveel de site precies verbeterd is, zie je hieronder de statis
 
 {% include pagespeed_score.html score="81,85,69,91" %}
 
-De site had een speed-index van 5 seconden (wat gemiddeld is). Deze is teruggebracht naar minder dan 2 seconden. Dat is onder andere gerealiseerd door de site middels Jekyll statisch te maken en over een CDN te serveren. De overige scores na de migratie waren:
+De site had een speed-index van 5 seconden (wat gemiddeld is). Deze speed-index, die staat voor de laadtijd over een snelle 3G verbinding, is teruggebracht naar minder dan 2 seconden. Dat is onder andere gerealiseerd door de site middels Jekyll statisch te maken en over een CDN te serveren. De overige scores na de migratie waren:
 
 {% include pagespeed_score.html score="99,100,100,100" %}
 
