@@ -8,7 +8,7 @@ De strijd is gestreden. Dumbphones zijn verleden tijd en smartphones hebben de w
 
 ## Ongekend goedkoop
 
-Toch zie je momenteeel sterke prijsdalingen. Deze Android telefoon (de ASUS ZenFone 4 Max 16GB) met dubbele camera [kost slechts 79 euro](/uploads/Screenshot_2019-05-23 Asus Zenfone 4 Max (ZC520KL) (2GB ram) Goud - Prijzen - Tweakers.png) (bron: Tweakers)\! En dit is een consumentenprijs… vergeet dat niet, dus inclusief BTW en inclusief de marge van de verkoper. Ik vind dat ongelovelijk. Het is een sierraad om te zien en hij schijnt ook nog goed te functioneren. Hoe kan die telefoon zo goedkoop zijn? Globalisering? Slechte arbeidsomstandigheden? Subsidie van de Google? Waarom is een vergelijkbare telefoon van Apple 5 tot 10x zo duur? Vragen waarop ik geen antwoord heb.
+Toch zie je momenteeel sterke prijsdalingen. Deze Android telefoon (de ASUS ZenFone 4 Max 16GB) met dubbele camera [kost slechts 79 euro](/uploads/Screenshot_2019-05-23 Asus Zenfone 4 Max (ZC520KL) (2GB ram) Goud - Prijzen - Tweakers.png) (bron: Tweakers)\! En dit is een consumentenprijs… vergeet dat niet, dus inclusief BTW en inclusief de marge van de verkoper. Ik vind dat ongelooflijk. Het is een sierraad om te zien en hij schijnt ook nog goed te functioneren. Hoe kan die telefoon zo goedkoop zijn? Globalisering? Slechte arbeidsomstandigheden? Subsidie van de Google? Waarom is een vergelijkbare telefoon van Apple 5 tot 10x zo duur? Vragen waarop ik geen antwoord heb.
 
 ![](/uploads/asuszenhone4max.jpeg)
 
