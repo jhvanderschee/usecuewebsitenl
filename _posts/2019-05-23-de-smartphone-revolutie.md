@@ -4,7 +4,7 @@ title: De smartphone revolutie
 
 Vroeger had je allerlei verschillende type dumbphones, Blackberries, Windows Phones en natuurlijk het veelbelovende, maar geflopte FirefoxOS. Nu lijken er nog maar twee besturingssystemen over: Android en iOS.
 
-De strijd is gestreden. Dumbphones zijn verleden tijd en smartphones hebben de wereld veroverd. Er zijn nog maar twee spelers over: Google en Apple. De twee rijkste bedrijven van de wereld hebben de taart verdeeld. Hun telefoons onderscheiden zich nauwelijks nog van elkaar en aangezien iedereen inmiddels een smartphone heeft, is de markt verzadigd. Niet echt een setting waarin je een revolutie verwacht.
+De strijd is gestreden. Dumbphones zijn verleden tijd en smartphones hebben de wereld veroverd. Er zijn nog maar twee spelers over: Google en Apple. De twee rijkste bedrijven van de wereld hebben de taart verdeeld. Hun telefoons onderscheiden zich nauwelijks nog van elkaar en aangezien iedereen inmiddels een smartphone lijkt te hebben, zou je denken dat de markt verzadigd is. Het is in ieder geval niet echt een setting waarin je een revolutie verwacht.
 
 ## Ongekend goedkoop
 
