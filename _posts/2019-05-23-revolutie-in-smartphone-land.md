@@ -14,7 +14,7 @@ Toch zie je momenteeel sterke prijsdalingen. Deze Android telefoon (de ASUS ZenF
 
 ## Toch ontevreden
 
-Ondanks de ongelovelijk lage prijs van Android smartphones [zijn veel mensen toch niet blij](https://www.usecue.com/blog/the-new-nokia-3310-could-give-you-your-life-back/). De meestgehoorde klachten: ze zijn verslavend, breekbaar en de batterij gaat veel te kort mee. Klachten die je net zo goed hoort over hun duurdere broertjes en zusjes van Apple.
+Ondanks de ongelooflijk lage prijs van Android smartphones [zijn veel mensen toch niet blij](https://www.usecue.com/blog/the-new-nokia-3310-could-give-you-your-life-back/). De meestgehoorde klachten: ze zijn verslavend, breekbaar en de batterij gaat veel te kort mee. Klachten die je net zo goed hoort over hun duurdere broertjes en zusjes van Apple.
 
 ## KaiOS: een revolutie
 
