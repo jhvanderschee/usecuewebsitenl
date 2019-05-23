@@ -1,5 +1,5 @@
 ---
-title: De smartphone revolutie
+title: Een nieuwe smartphone revolutie
 ---
 
 Vroeger had je allerlei verschillende type dumbphones, Blackberries, Windows Phones en natuurlijk het veelbelovende, maar geflopte FirefoxOS. Nu lijken er nog maar twee besturingssystemen over: Android en iOS.
