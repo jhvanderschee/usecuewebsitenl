@@ -16,7 +16,7 @@ Toch zie je momenteeel sterke prijsdalingen. Deze prachtige en zeer goed functio
 
 Ondanks de ongelovelijk lage prijs van Android smartphones [zijn veel mensen toch niet blij](https://www.usecue.com/blog/the-new-nokia-3310-could-give-you-your-life-back/). De meestgehoorde klachten: ze zijn verslavend, breekbaar en de batterij gaat veel te kort mee. Klachten die net zo goed hoort over hun duurdere broertjes en zusjes van Apple.
 
-## KaiOS: de revolutie
+## KaiOS: een revolutie
 
 De strategie om Android telefoons heel goedkoop te maken komt niet uit de lucht vallen. Android heeft namelijk keiharde concurrentie van een nieuw besturingssysteem: [KaiOS](https://www.kaiostech.com/). Dit besturingssysteem komt voort uit het open-source besturingssysteem FirefoxOS van Mozilla. Het moet dumbphones 'smart' maken en daar lijkt het heel goed in te slagen. Het is binnen twee jaar het tweede besturingssysteem in India geworden (iOS voorbij) en zelfs Google kan er niet omheen (en investeerde 22 miljoen in het OS om zo zijn producten te kunnen pushen). Deze extreem snelle opmars is opmerkelijk. KaiOS lijkt met gemak de hele onderkant van de markt te gaan pakken... en wie weet waar dat toe gaat leiden. In ieder geval zien we enorme prijsdalingen in Android telefoons. Misschien veroorzaakt doordat Google probeert de schade aan de onderkant van de markt te beperken. Daarnaast zal het leiden tot een informatierevolutie in armere landen. Maar vergeet niet dat dit concept ook uitermate geschikt is voor ouderen, kinderen en smartphone-critici in landen zoals Nederland.
 
