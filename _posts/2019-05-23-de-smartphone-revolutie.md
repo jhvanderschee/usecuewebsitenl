@@ -8,7 +8,7 @@ De strijd is gestreden. Dumbphones zijn verleden tijd en smartphones hebben de w
 
 ## Ongekend goedkoop
 
-Toch zie ongekende prijsdalingen. Deze prachtige en zeer goed functionerende Android telefoon (de ASUS ZenFone 4 Max 16GB) met dubbele camera, [kost slechts 79 euro](/uploads/Screenshot_2019-05-23 Asus Zenfone 4 Max (ZC520KL) (2GB ram) Goud - Prijzen - Tweakers.png)\! En dit is een consumentenprijs… vergeet dat niet. Ik vind dat ongelovelijk. Het is een sierraad om te zien en hij schijnt ook nog goed te functioneren. Hoe kan die telefoon zo goedkoop zijn? Globalisering? Slechte arbeidsomstandigheden? Subsidie van de Google? Waarom is een vergelijkbare telefoon van Apple 5 tot 10x zo duur? De vraag voor mij is vooral: Wie betaalt er mee aan deze telefoon en waarom?
+Toch zie ongekende prijsdalingen. Deze prachtige en zeer goed functionerende Android telefoon (de ASUS ZenFone 4 Max 16GB) met dubbele camera, [kost slechts 79 euro](/uploads/Screenshot_2019-05-23 Asus Zenfone 4 Max (ZC520KL) (2GB ram) Goud - Prijzen - Tweakers.png)\! En dit is een consumentenprijs… vergeet dat niet. Ik vind dat ongelovelijk. Het is een sierraad om te zien en hij schijnt ook nog goed te functioneren. Hoe kan die telefoon zo goedkoop zijn? Globalisering? Slechte arbeidsomstandigheden? Subsidie van de Google? Waarom is een vergelijkbare telefoon van Apple 5 tot 10x zo duur? Vragen waarop ik geen antwoord heb.
 
 ![](/uploads/asuszenhone4max.jpeg)
 
@@ -22,4 +22,4 @@ De strategie om Android telefoons heel goedkoop te maken komt niet uit de lucht 
 
 Kortgezegd kun je een telefoon met KaiOS vergelijken met een Nokia telefoon van 10 jaar geleden, maar dan met een browser, 4G en WhatsApp. Hierdoor is hij minder verslavend dan een smartphone (want minder prettig in gebruik), minder breekbaar, de batterij gaat langer mee en de (kost)prijs is slechts een fractie van de Android telefoon in dit voorbeeld.
 
-"Kan ik hem al kopen?", hoor ik je vragen. De enige KaiOS telefoon die WhatsApp ondersteund en in Europa te koop is, is de [Nokia 8110](/uploads/71HvRiX++lL._SX522_.jpg) (bij Amazon.de voor 57 euro). Dat is veel te veel geld voor een telefoon die maar weinig kan, maar heeft waarschijnlijk te maken met het feit dat hij nog nieuw is. Ik zou nog even wachten, want ik verwacht dat dit soort telefoons in de toekomst rond de 10 euro gaan kosten.
+"Kan ik hem al kopen?", hoor ik je vragen. De enige KaiOS telefoon die WhatsApp ondersteund en in Europa te koop is, is de [Nokia 8110](/uploads/71HvRiX++lL._SX522_.jpg) (bij Amazon.de voor 57 euro). Dat is veel te veel geld voor een telefoon die maar weinig kan, maar heeft waarschijnlijk te maken met het feit dat hij nog nieuw is. Ik zou nog even wachten, want ik verwacht dat dit soort telefoons in de toekomst rond de 10 euro gaan kosten (uiteraard wederom gesponsord door Google).
