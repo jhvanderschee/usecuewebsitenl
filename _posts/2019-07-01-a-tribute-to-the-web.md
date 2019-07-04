@@ -12,7 +12,7 @@ In my opinion most web developers do not embrace the nature of the web, but figh
 
 This website is bold and brutal and this page weighs only 20kb. That means this fully functional web page is 10 times smaller than jQuery alone (the library most websites load to do Javascript stuff). It is also 100(!) times smaller than the average web page. The average website requires 70 requests. This page requires only 3 web requests: an HTML file for the content, a CSS file for the layout and a JS file for some additional features. It uses a font that is most likely already present on your machine and uses CSS to make it scale along with the screen size (with a minimum and a maximum). This fully responsive website has a 100% score for Speed, Accessibility, Performance and Best Practise in [Google Lighthouse](https://web.dev). Their report page even shows fireworks when you review this page... no joke!
 
-This website aims to be a demonstration of art and craft. It does not aim to please, as much as it aims to provoke and stir up a discussion about the craft of web development.
+This website aims to be a demonstration of art and craft. It does not aim to please, as much as it aims to provoke and stir up a discussion about the state of web development.
 
 ## Sources and inspiration
 
