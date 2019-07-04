@@ -8,16 +8,27 @@ function is_youtubelink(url) {
   }
   function is_vimeolink(url,el) {
       var id = false;
-      $.ajax({
-        url: 'https://vimeo.com/api/oembed.json?url='+url,
-        async: true,
-        success: function(response) {
-          if(response.video_id) {
-            id = response.video_id;
-            el.classList.add('lightbox-vimeo').setAttribute('data-id',id);
-          }
-        }
-      });
+
+      var xmlhttp = new XMLHttpRequest();
+      xmlhttp.onreadystatechange = function() {
+            if (xmlhttp.readyState == XMLHttpRequest.DONE) {   // XMLHttpRequest.DONE == 4
+            if (xmlhttp.status == 200) {
+                
+                console.log(xmlhttp.responseText);
+                id = xmlhttp.responseText.video_id;
+                el.classList.add('lightbox-vimeo');
+                el.setAttribute('data-id',id);
+            }
+            else if (xmlhttp.status == 400) {
+                alert('There was an error 400');
+            }
+            else {
+                alert('something else other than 200 was returned');
+            }
+            }
+      };
+      xmlhttp.open("GET", 'https://vimeo.com/api/oembed.json?url='+url, true);
+      xmlhttp.send();
   }
   function setGallery(el) {
       var link_elements = el.parentNode.querySelectorAll("a[class*='lightbox-']");
