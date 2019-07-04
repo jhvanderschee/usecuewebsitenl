@@ -24,7 +24,7 @@ Trage websites maken bezoekers boos en gefrustreerd. Dat negatieve gevoel wordt 
 
 ## Snelheid is belangrijk
 
-Zoals je ziet is snelheid een grote factor in het succes van je website. Je website zal beter scoren in de zoekmachine, meer bezoekers en conversie hebben en zorgen voor een betere klantbeleving. De waarde van je website is direct gerelateerd aan de snelheid ervan. [Snelheid is belangrijk.](https://www.youtube.com/watch/OlbJKOWEPEM)
+Zoals je ziet is snelheid een grote factor in het succes van je website. Je website zal beter scoren in de zoekmachine, meer bezoekers en conversie hebben en zorgen voor een betere klantbeleving. De waarde van je website is direct gerelateerd aan de snelheid ervan. [Snelheid is belangrijk.](https://www.youtube.com/watch?v=OlbJKOWEPEM)
 
 ## Een real-life voorbeeld
 
