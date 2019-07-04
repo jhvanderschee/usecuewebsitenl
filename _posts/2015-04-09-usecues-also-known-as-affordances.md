@@ -5,7 +5,7 @@ title: "About 'usecues', also known as affordan&shy;ces"
 
 Affordance is a term originally coined by a psychologist, J.J. Gibson, in the 1970s. He defined it as the relationship between an environment and an actor. Today, affordance extends beyond behavioral or cognitive psychology and into the design of digital interfaces.
 
-![](/uploads/versions/featured20---x----1956-960x---.jpg)
+![](/uploads/featured20_pattern.png)
 
 Understanding affordance will allow you to better understand product and interfaces design, in turn, making you a much better designer. Crowdcube states that: 'An affordance is a situation where an object’s sensory characteristics intuitively imply its functionality and use.'&nbsp;
 

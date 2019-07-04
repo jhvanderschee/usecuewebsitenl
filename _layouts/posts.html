@@ -1,0 +1,9 @@
+{% include header.html %}
+
+<h1>{{ page.title }}</h1>
+
+{{ content }}
+
+<p style="text-align: center;">{% for post in site.posts %}{% unless forloop.index == 1 %}<br /><br />{% endunless %}<span class="smallmedium" style="position: relative; bottom: 0.5em;">{% unless forloop.index == 1 %}~{% endunless %}</span><br /><em style="display: inline-block; transform: scale(0.85); position: relative; bottom: 0.05em;">{{ post.date | date: "%e %B %Y" | replace: "January", "januari" | replace: "February", "februari" | replace: "March", "maart" | replace: "April", "april" | replace: "May", "mei" | replace: "June", "juni" | replace: "July", "juli" | replace: "August", "augustus" | replace: "September", "september" | replace: "October", "oktober" | replace: "November", "november" | replace: "December", "december" }}</em><br /><a href="{{ post.url }}" class="smallmedium">{{ post.title }}</a>{% endfor %}</p>
+
+{% include footer.html %}

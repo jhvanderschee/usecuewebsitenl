@@ -1,9 +1,9 @@
 ---
-title: "Luca's services."
-image: /uploads/lucass.jpg
-color: '#46906b'
-address: '//whispering-wallaby.cloudvent.net'
-mobile:
+title: "Luca's services"
+image: /uploads/lucass1.png
+mobile_image: /uploads/lucass2.png
+color: '#3b7055'
+portfolio_url: '//whispering-wallaby.cloudvent.net'
 order: 3
 ---
 

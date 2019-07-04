@@ -1,9 +1,9 @@
 ---
-title: reclame die werkt.
-image: /uploads/clouds.jpg
-color: '#008fc5'
-address: '//tangerine-mushroom.cloudvent.net/#overons'
-mobile: 450
+title: reclame die werkt
+image: /uploads/reclamefabriek1.png
+mobile_image: /uploads/reclamefabriek2.png
+color: '#016faa'
+portfolio_url: '//tangerine-mushroom.cloudvent.net/#overons'
 order: 4
 ---
 

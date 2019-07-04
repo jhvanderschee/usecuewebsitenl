@@ -1,18 +1,3 @@
-{% if page.layout != 'post' %}
-    {% assign sorted_pages = site.portfolio | sort: 'order' %}
-{% else %}
-    {% assign sorted_pages = site.posts reversed %}
-{% endif %}
-
-{% for item in sorted_pages %}
-    {% if item.url == page.url %}
-    	{% assign this_i = forloop.index0 %}
-    	{% assign num_of_pages = forloop.length %}
-    	{% assign last_i = forloop.length | minus: 1 %}
-    	{% assign next_i = forloop.index0 | plus: 1 %}
-    	{% assign prev_i = forloop.index0 | minus: 1 %}
-	{% endif %}
-{% endfor %}
 <!DOCTYPE html>
 <html lang="nl">
 <head>
@@ -46,22 +31,32 @@
 
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ "/sitemap.xml" | prepend: site.baseurl | prepend: site.url }}" />
+
+<script>
+    if (screen.width < 450) {
+      document.getElementById("viewport").setAttribute("content", "width=450");
+    } else {
+      document.getElementById("viewport").setAttribute("content", "width=device-width");
+    }
+</script>
+
 <link rel="stylesheet" type="text/css" href="/css/style.css">
+
 </head>
 
-<body id="body" {% if page.color %}style="background{% if page.layout == '404' %}-color{% endif %}: {{ page.color }};"{% endif %} class="{{ page.layout }}">
-	<div id="particles-js"></div>
-	{% if page.layout == 'portfolio' %}<div id="backgroundtriangle" style="background-image: url(//images.weserv.nl/?url=www.usecue.nl{{ page.image }}&w=500&h=1000&t=squaredown);"><div id="triangle-topleft" style="border-top-color: {{ page.color }};"></div></div>{% endif %}
-    
-    <div class="outercontent"><div class="content">
-        
-    <div class="innercontrols showmobile">
-        <a onclick="menu();" class="openmenu"><img src="/img/menu2.png" alt="menu" class="black" /><img src="/img/menu.png" class="white" /></a>
-        <a onclick="menu();" class="closemenu"><img src="/img/close2.png" alt="close" class="black" /><img src="/img/close.png" class="white" /></a>
-        {% if page.layout == 'portfolio' or page.layout == 'post' %}
-        <a onclick="prev();"><img src="/img/back2.png" alt="previous" class="black" /><img src="/img/back.png" class="white" /></a>
-        <a onclick="next();"><img src="/img/next2.png" alt="next" class="black" /><img src="/img/next.png" class="white" /></a>
-        {% endif %}
+<body id="top" class="{{ page.layout }}{% if page.layout == 'error' %} home{% endif %}" style="{% if page.color %}background-color: {{ page.color }};{% endif %}">
+  {% if page.layout == 'home' %}
+    <div id="splash">
+      <div><span class="medium"><span><a href="/about/">u</a></span><span>s</span><span>e</span><span>c</span><span>u</span><span>e</span></span><span class="small">web development</span></div>
     </div>
+  {% endif %}
+    <a id="logo" href="/" class="medium underline">u</a>
 
-    <div class="innercontent">
+    <ul id="menu">
+        <li><a href="/over/">Over</a></li>
+        <li><a href="{% assign siteportfolio = site.portfolio | sort: 'order' %}{{ siteportfolio[0].url }}">Portfolio</a></li>
+        <li><a href="/blog/">Blog</a></li>
+        <li><a href="/contact/">Contact</a></li>
+    </ul>
+    <div id="innerbody">
+        <div id="content">

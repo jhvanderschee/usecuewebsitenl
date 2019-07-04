@@ -1,221 +1,31 @@
 
 
-<div class="title showmobile">Usecue <span>&nbsp;web development</span></div>
 
-</div></div></div>
 
-	<div id="menu"><div class="outercontent"><div class="content">
-		    <a href="/" style="margin-top: 33px; display: inline-block;">home.</a><br />
-		    <a href="/over-mij/">over mij.</a><br />
-		    <a href="{% assign site_portfolio = site.portfolio | sort: 'order' %}{{ site_portfolio[0].url }}">portfolio.</a><br />
-		    <a href="/blog/">blog.</a><br />
-        <a href="/contact/">contact.</a><br />		
-        
-        <span style="font-size: 35%;"><a href="https://www.usecue.com/" rel="noopener">EN</a> &bull; <a href="/">NL</a></span>
-	</div></div></div>
 
-<div id="controls" class="showdesktop {{ page.layout }}">
-	<div class="innercontrols">
-		<a onclick="menu();" class="openmenu"><img src="/img/menu2.png" class="black" alt="menu" /><img src="/img/menu.png" class="white" alt="menu" /></a>
-		<a onclick="menu();" class="closemenu"><img src="/img/close2.png" class="black" alt="close" /><img src="/img/close.png" class="white" alt="close" /></a>
-		{% if page.layout == 'portfolio' or page.layout == 'post' %}
-    <a onclick="prev();"><img src="/img/back2.png" alt="previous" class="black" /><img src="/img/back.png" alt="previous" class="white" /></a>
-		<a onclick="next();"><img src="/img/next2.png" alt="next" class="black" /><img src="/img/next.png" alt="next" class="white" /></a>
-    {% endif %}
-	</div>
-	<div class="title showdesktop">Usecue <span>&nbsp;web development</span></div>
-</div>
 
-<link rel="stylesheet" type="text/css" href="/css/fonts.css">
-<script>
-/*! modernizr 3.6.0 (Custom Build) | MIT *
- * https://modernizr.com/download/?-webp-setclasses !*/
-!function(e,n,A){function o(e,n){return typeof e===n}function t(){var e,n,A,t,a,i,l;for(var f in r)if(r.hasOwnProperty(f)){if(e=[],n=r[f],n.name&&(e.push(n.name.toLowerCase()),n.options&&n.options.aliases&&n.options.aliases.length))for(A=0;A<n.options.aliases.length;A++)e.push(n.options.aliases[A].toLowerCase());for(t=o(n.fn,"function")?n.fn():n.fn,a=0;a<e.length;a++)i=e[a],l=i.split("."),1===l.length?Modernizr[l[0]]=t:(!Modernizr[l[0]]||Modernizr[l[0]]instanceof Boolean||(Modernizr[l[0]]=new Boolean(Modernizr[l[0]])),Modernizr[l[0]][l[1]]=t),s.push((t?"":"no-")+l.join("-"))}}function a(e){var n=u.className,A=Modernizr._config.classPrefix||"";if(c&&(n=n.baseVal),Modernizr._config.enableJSClass){var o=new RegExp("(^|\\s)"+A+"no-js(\\s|$)");n=n.replace(o,"$1"+A+"js$2")}Modernizr._config.enableClasses&&(n+=" "+A+e.join(" "+A),c?u.className.baseVal=n:u.className=n)}function i(e,n){if("object"==typeof e)for(var A in e)f(e,A)&&i(A,e[A]);else{e=e.toLowerCase();var o=e.split("."),t=Modernizr[o[0]];if(2==o.length&&(t=t[o[1]]),"undefined"!=typeof t)return Modernizr;n="function"==typeof n?n():n,1==o.length?Modernizr[o[0]]=n:(!Modernizr[o[0]]||Modernizr[o[0]]instanceof Boolean||(Modernizr[o[0]]=new Boolean(Modernizr[o[0]])),Modernizr[o[0]][o[1]]=n),a([(n&&0!=n?"":"no-")+o.join("-")]),Modernizr._trigger(e,n)}return Modernizr}var s=[],r=[],l={_version:"3.6.0",_config:{classPrefix:"",enableClasses:!0,enableJSClass:!0,usePrefixes:!0},_q:[],on:function(e,n){var A=this;setTimeout(function(){n(A[e])},0)},addTest:function(e,n,A){r.push({name:e,fn:n,options:A})},addAsyncTest:function(e){r.push({name:null,fn:e})}},Modernizr=function(){};Modernizr.prototype=l,Modernizr=new Modernizr;var f,u=n.documentElement,c="svg"===u.nodeName.toLowerCase();!function(){var e={}.hasOwnProperty;f=o(e,"undefined")||o(e.call,"undefined")?function(e,n){return n in e&&o(e.constructor.prototype[n],"undefined")}:function(n,A){return e.call(n,A)}}(),l._l={},l.on=function(e,n){this._l[e]||(this._l[e]=[]),this._l[e].push(n),Modernizr.hasOwnProperty(e)&&setTimeout(function(){Modernizr._trigger(e,Modernizr[e])},0)},l._trigger=function(e,n){if(this._l[e]){var A=this._l[e];setTimeout(function(){var e,o;for(e=0;e<A.length;e++)(o=A[e])(n)},0),delete this._l[e]}},Modernizr._q.push(function(){l.addTest=i}),Modernizr.addAsyncTest(function(){function e(e,n,A){function o(n){var o=n&&"load"===n.type?1==t.width:!1,a="webp"===e;i(e,a&&o?new Boolean(o):o),A&&A(n)}var t=new Image;t.onerror=o,t.onload=o,t.src=n}var n=[{uri:"data:image/webp;base64,UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoBAAEAAwA0JaQAA3AA/vuUAAA=",name:"webp"},{uri:"data:image/webp;base64,UklGRkoAAABXRUJQVlA4WAoAAAAQAAAAAAAAAAAAQUxQSAwAAAABBxAR/Q9ERP8DAABWUDggGAAAADABAJ0BKgEAAQADADQlpAADcAD++/1QAA==",name:"webp.alpha"},{uri:"data:image/webp;base64,UklGRlIAAABXRUJQVlA4WAoAAAASAAAAAAAAAAAAQU5JTQYAAAD/////AABBTk1GJgAAAAAAAAAAAAAAAAAAAGQAAABWUDhMDQAAAC8AAAAQBxAREYiI/gcA",name:"webp.animation"},{uri:"data:image/webp;base64,UklGRh4AAABXRUJQVlA4TBEAAAAvAAAAAAfQ//73v/+BiOh/AAA=",name:"webp.lossless"}],A=n.shift();e(A.name,A.uri,function(A){if(A&&"load"===A.type)for(var o=0;o<n.length;o++)e(n[o].name,n[o].uri)})}),t(),a(s),delete l.addTest,delete l.addAsyncTest;for(var p=0;p<Modernizr._q.length;p++)Modernizr._q[p]();e.Modernizr=Modernizr}(window,document);
-</script>
+        </div>
+        {% if page.layout == 'portfolio' %}{% assign sitepages = site.portfolio | sort: 'order' %}{% endif %}
+        {% if page.layout == 'post' %}{% assign sitepages = site.posts | sort: 'order' %}{% endif %}
+        {% if page.layout == 'portfolio' or page.layout == 'post' %}
+            {% for item in sitepages %}
+                {% if item.url == page.url %}
+                    {% assign this_i = forloop.index0 %}
+                    {% assign num_of_pages = forloop.length %}
+                    {% assign last_i = forloop.length | minus: 1 %}
+                    {% assign next_i = forloop.index0 | plus: 1 %}
+                    {% assign prev_i = forloop.index0 | minus: 1 %}
+                    {% if next_i > last_i %}{% assign next_i = 0 %}{% endif %}
+                    {% if prev_i < 0 %}{% assign prev_i = last_i %}{% endif %}
+                {% endif %}
+            {% endfor %}
+            <a id="nextlink" href="{{ sitepages[next_i].url }}">next<span class="desktop">: {{ sitepages[next_i].title }}</span><span class="mobile"> {% if page.layout == 'post' %}blog bericht{% else %}portfolio item{% endif %}</span></a>
+        {% endif %}
+        <a id="scrolltotop" href="#top">Scroll naar boven</a>
+    </div>
 
-<script src="/js/jquery-3.3.1.min.js"></script>
-{% if page.layout contains 'home' %}<script src="/js/typed.min.js"></script>{% endif %}
+    <script src="/js/javascript.js"></script>
 
-<script>
-function next() {
-	if($('body').hasClass('menu')) {
-		$('body').removeClass('menu');
-		setTimeout(function(){next()}, 400);
-		return false;
-	}
-	document.location.href='{% if num_of_pages > next_i %}{{ sorted_pages[next_i].url }}{% else %}{{ sorted_pages[0].url }}{% endif %}';
-	return false;
-}
-function prev() {
-	if($('body').hasClass('menu')) {
-		$('body').removeClass('menu');
-		setTimeout(function(){prev()}, 400);
-		return false;
-	}
-	document.location.href='{% if prev_i < 0 %}{{ sorted_pages[last_i].url }}{% else %}{{ sorted_pages[prev_i].url }}{% endif %}';
-	return false;
-}
-var timeout;
-function menu() {
-	clearTimeout(timeout);
-	if($('body').hasClass('menu')) {
-		$('body').removeClass('menu'); 
-		timeout = setTimeout(function(){$('#menu').css('z-index','-5');}, 600);
-	}
-	else {
-		$('#menu').css('z-index','5')
-		$('body').addClass('menu'); 
-	}
-	return false;
-}
-function choose(choices) {
-    var index = Math.floor(Math.random() * choices.length);
-    return choices[index];
-}
-$(document).ready( function() {
-    $("#page").addClass("loaded");
-    {% if page.layout == 'portfolio' %}
-    setInterval(function () {
-        $("#loading span").toggle();
-    },500);
-    $('iframe').one("load", function() {
-        setTimeout(function () {
-            endloading();
-        }, 300)
-    });
-    {% endif %}
-
-    {% if page.layout == 'home' %}
-    var choice = choose(['datacenter','linux','firefox']) ;
-    if (choice == 'datacenter') {
-        if($(window).width()>600) $(".element").typed({
-        	strings: [
-                "Ik ben een ^100computer geek.^1000", 
-                "Ik ben een ^200UX expert.^2000", 
-                "Ik ben een ^200programmeur.^1000", 
-                "Ik ben een ^200web developer.^500"
-            ],
-        	typeSpeed: 20,
-        	callback: function(){ $(".typed-cursor").css('visibility','hidden');}
-    	});
-    } else if (choice == 'linux') {
-        if($(window).width()>600) $(".element").typed({
-    	    strings: [
-                "Ik ben een ^100Linux fan.^1000", 
-                "Ik ben een ^200UX expert.^2000", 
-                "Ik ben een ^200programmeur.^1000", 
-                "Ik ben een ^200web developer.^500"
-            ],
-            typeSpeed: 20,
-            callback: function(){ $(".typed-cursor").css('visibility','hidden');}
-        });
-    } else {
-        if($(window).width()>600) $(".element").typed({
-    	    strings: [
-                "Ik ben een ^100Firefox fan.^1000", 
-                "Ik ben een ^200UX expert.^2000", 
-                "Ik ben een ^200programmeur.^1000", 
-                "Ik ben een ^200web developer.^500"
-            ],
-            typeSpeed: 20,
-            callback: function(){ $(".typed-cursor").css('visibility','hidden');}
-        });
-    }
-    {% endif %}
-
-    $(window).resize();
-
-    {% if page.layout == 'home' %}
-        if(choice == 'datacenter') {
-            $('body').addClass('datacenter');
-        } else if (choice == 'linux') {
-		    particlesJS("particles-js", {"particles":{"number":{"value":400,"density":{"enable":true,"value_area":800}},"color":{"value":"#fff"},"shape":{"type":"circle","stroke":{"width":0,"color":"#000000"},"polygon":{"nb_sides":5},"image":{"src":"img/github.svg","width":100,"height":100}},"opacity":{"value":0.5,"random":true,"anim":{"enable":false,"speed":1,"opacity_min":0.1,"sync":false}},"size":{"value":10,"random":true,"anim":{"enable":false,"speed":40,"size_min":0.1,"sync":false}},"line_linked":{"enable":false,"distance":500,"color":"#ffffff","opacity":0.4,"width":2},"move":{"enable":true,"speed":6,"direction":"bottom","random":false,"straight":false,"out_mode":"out","bounce":false,"attract":{"enable":false,"rotateX":600,"rotateY":1200}}},"interactivity":{"detect_on":"canvas","events":{"onhover":{"enable":false,"mode":"bubble"},"onclick":{"enable":false,"mode":"repulse"},"resize":true},"modes":{"grab":{"distance":400,"line_linked":{"opacity":0.5}},"bubble":{"distance":400,"size":4,"duration":0.3,"opacity":1,"speed":3},"repulse":{"distance":200,"duration":0.4},"push":{"particles_nb":4},"remove":{"particles_nb":2}}},"retina_detect":true});
-	    } else {
-            $('body').addClass('firefox');
-        }
-	{% endif %}
-
-});
-
-$(document).keydown(function(e) {
-    switch(e.which) {
-        case 37: // left
-        prev();
-        break;
-
-        /*case 38: // up
-        break;*/
-
-        case 39: // right
-        next();
-        break;
-
-        /*case 40: // down
-        break;*/
-
-        default: return; // exit this handler for other keys
-    }
-    e.preventDefault(); // prevent the default action (scroll / move caret)
-
-});
-
-function endloading() {
-	$("iframe").css('opacity','1');
-    $("#imgoverlay").css('opacity','0.7');
-    $("#textcell").css('opacity','1');
-    $("#loading").css('opacity','0');
-}
-
-$(window).resize( function() {
-    if($(window).width()>1329) {
-        var trianglewidth = ($(window).width()-1100)/2;
-    } else {
-        var trianglewidth = ($(window).width()-770)/2;
-    }
-    if(trianglewidth<0) trianglewidth = 0;
-    $('#backgroundtriangle').css('height',$(window).height()+'px');
-    $('#triangle-topleft').css('border-top-width',$(window).height()+'px');
-    $('#backgroundtriangle').css('width',trianglewidth+'px');
-    $('#triangle-topleft').css('border-right-width',trianglewidth+'px'); 
-
-    if (screen.width < 330) {
-	  document.getElementById("viewport").setAttribute("content", "width=330");
-	}
-    else { 
-      document.getElementById("viewport").setAttribute("content", "width=device-width");
-    }
-
-});
-
-</script>
-
-    <script>
-    //open external links in a new window
-    function externalLinks() {
-      for(var c = document.getElementsByTagName("a"), a = 0;a < c.length;a++) {
-        var b = c[a];
-        b.getAttribute("href") && b.hostname !== location.hostname && (b.target = "_blank")
-      }
-    }
-    externalLinks();
-    </script>
-    <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-1168883-2', 'auto');
-  ga('send', 'pageview');
-
-</script>
-{% if page.layout == 'home' %}<script src="/js/particles.min.js"></script>{% endif %}
-{% include open-embed.html %}
-{% include lightbox.html lightbox_captions="false" %}
-{% if page.layout != 'home' %}
-    <script src="/js/prefixfree.min.js"></script>
-    <script src="/js/conic-gradient.js"></script>
-{% endif %}
 </body>
 
 </html>

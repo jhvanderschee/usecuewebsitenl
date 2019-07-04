@@ -6,7 +6,7 @@ Ik kwam er vandaag achter dat Google Maps op mijn website een donkere overlay to
 
 Al snel kwam ik erachter dat ik (gelukkig?) niet de enige was met dit probleem. De website van het gemeentevervoerbedrijf (GVB) in Amsterdam, die gebruikt wordt door een half miljoen mensen per dag, had hetzelfde probleem. Je kunt dit hier zien:
 
-<a href="/uploads/gvb.png" style="display: block;"><img src="/uploads/gvb.png" style="display: block;" /></a>
+<a href="/uploads/gvb.png" style="display: block;"><img src="/uploads/gvb_pattern.png" style="display: block;" /></a>
 
 Het developers console van mijn browser toonde rode foutmeldingen en een pop-up. Het waren berichten van Google aan de eigenaar van de site. Er stond: ‘The request is missing an API key, billing has not been enabled on your account, the provided billing method is invalid (for example an expired credit card) or a self-imposed daily limit has been exceeded’. Een snelle zoekopdracht op ‘Google Maps API billing’ leidde me naar een pagina met als titel ‘Pricing that scales to fit your needs’. Hier stond dat ik Google Maps alleen kon blijven gebruiken als ik mijn factureringsgegevens invoerde.
 
