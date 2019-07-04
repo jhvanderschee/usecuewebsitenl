@@ -72,7 +72,7 @@ function is_youtubelink(url) {
           var url = element.getAttribute('href');
           if(url) {
               if(url.indexOf('vimeo') !== -1 && !element.classList.contains('no-lightbox')) {
-                  is_vimeolink(url,$(this));
+                  is_vimeolink(url, this);
               }
               if(is_youtubelink(url) && !element.classList.contains('no-lightbox')) {
                   element.classList.add('lightbox-youtube');
