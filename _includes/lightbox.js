@@ -8,24 +8,29 @@ function is_youtubelink(url) {
   }
   function is_vimeolink(url,el) {
       var id = false;
-
       var xmlhttp = new XMLHttpRequest();
       xmlhttp.onreadystatechange = function() {
-            if (xmlhttp.readyState == XMLHttpRequest.DONE) {   // XMLHttpRequest.DONE == 4
-            if (xmlhttp.status == 200) {
-                
-                console.log(xmlhttp.responseText);
-                id = xmlhttp.responseText.video_id;
-                el.classList.add('lightbox-vimeo');
-                el.setAttribute('data-id',id);
-            }
-            else if (xmlhttp.status == 400) {
-                alert('There was an error 400');
-            }
-            else {
-                alert('something else other than 200 was returned');
-            }
-            }
+          if (xmlhttp.readyState == XMLHttpRequest.DONE) {   // XMLHttpRequest.DONE == 4
+              if (xmlhttp.status == 200) {
+                  var response = JSON.parse(xmlhttp.responseText);
+                  id = response.video_id;
+                  console.log(id);
+                  el.classList.add('lightbox-vimeo');
+                  el.setAttribute('data-id',id);
+
+                  el.addEventListener("click", function(event) {
+                      event.preventDefault();
+                      document.getElementById('lightbox').innerHTML = '<a id="close"></a><a id="next">&rsaquo;</a><a id="prev">&lsaquo;</a><div class="videoWrapperContainer"><div class="videoWrapper"><iframe src="https://player.vimeo.com/video/'+el.getAttribute('data-id')+'/?autoplay=1&byline=0&title=0&portrait=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div></div>';
+                      document.getElementById('lightbox').style.display = 'block';
+                  });
+              }
+              else if (xmlhttp.status == 400) {
+                  alert('There was an error 400');
+              }
+              else {
+                  alert('something else other than 200 was returned');
+              }
+          }
       };
       xmlhttp.open("GET", 'https://vimeo.com/api/oembed.json?url='+url, true);
       xmlhttp.send();
@@ -72,7 +77,7 @@ function is_youtubelink(url) {
           var url = element.getAttribute('href');
           if(url) {
               if(url.indexOf('vimeo') !== -1 && !element.classList.contains('no-lightbox')) {
-                  is_vimeolink(url, this);
+                  is_vimeolink(url,element);
               }
               if(is_youtubelink(url) && !element.classList.contains('no-lightbox')) {
                   element.classList.add('lightbox-youtube');
@@ -122,15 +127,6 @@ function is_youtubelink(url) {
           });
       });
 
-      //add the vimeo lightbox on click
-      var elements = document.querySelectorAll('a.lightbox-vimeo');
-      elements.forEach(element => {
-          element.addEventListener("click", function(event) {
-              event.preventDefault();
-              document.getElementById('lightbox').innerHTML = '<a id="close"></a><a id="next">&rsaquo;</a><a id="prev">&lsaquo;</a><div class="videoWrapperContainer"><div class="videoWrapper"><iframe src="https://player.vimeo.com/video/'+this.getAttribute('data-id')+'/?autoplay=1&byline=0&title=0&portrait=0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div></div>';
-              document.getElementById('lightbox').style.display = 'block';
-          });
-      });
       
 
   });
