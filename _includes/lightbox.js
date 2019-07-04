@@ -79,6 +79,7 @@ function is_youtubelink(url) {
       });
 
 
+
       //remove the clicked lightbox
       document.getElementById('lightbox').addEventListener("click", function(event) {
           if(event.target.id != 'next' && event.target.id != 'prev'){
