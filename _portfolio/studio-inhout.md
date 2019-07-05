@@ -1,7 +1,7 @@
 ---
 title: studio inHout
-image: /uploads/studioinhout1.png
-mobile_image: /uploads/studioinhout2.png
+image: /uploads/studioinhout1.jpg
+mobile_image: /uploads/studioinhout2.jpg
 color: '#691f66'
 portfolio_url: '//actual-harmonica.cloudvent.net/collectie/notenhouten-tafel/'
 order: 0

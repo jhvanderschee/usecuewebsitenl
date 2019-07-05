@@ -1,7 +1,7 @@
 ---
 title: jeugd bij ZonMW
-image: /uploads/zonmw1.png
-mobile_image: /uploads/zonmw2.png
+image: /uploads/zonmw1.jpg
+mobile_image: /uploads/zonmw2.jpg
 color: '#77716d'
 portfolio_url: '//polite-coal.cloudvent.net/'
 order: 0

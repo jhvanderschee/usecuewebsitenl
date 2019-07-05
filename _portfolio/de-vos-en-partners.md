@@ -1,7 +1,7 @@
 ---
 title: de Vos
-image: /uploads/devos1.png
-mobile_image: /uploads/devos2.png
+image: /uploads/devos1.jpg
+mobile_image: /uploads/devos2.jpg
 color: '#7a8c87'
 portfolio_url: 'https://www.devos.nl/'
 order: 1

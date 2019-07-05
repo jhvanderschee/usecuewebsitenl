@@ -1,7 +1,7 @@
 ---
 title: felgen wie neu.
-image: /uploads/fwn1.png
-mobile_image: /uploads/fwn2.png
+image: /uploads/fwn1.jpg
+mobile_image: /uploads/fwn2.jpg
 color: '#5b6669'
 portfolio_url: '//swift-goldfish.cloudvent.net/'
 order: 4

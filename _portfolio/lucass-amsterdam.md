@@ -1,7 +1,7 @@
 ---
 title: "Luca's services"
-image: /uploads/lucass1.png
-mobile_image: /uploads/lucass2.png
+image: /uploads/lucass1.jpg
+mobile_image: /uploads/lucass2.jpg
 color: '#3b7055'
 portfolio_url: '//whispering-wallaby.cloudvent.net'
 order: 3
