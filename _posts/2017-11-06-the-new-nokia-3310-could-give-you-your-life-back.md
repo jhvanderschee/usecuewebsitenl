@@ -4,7 +4,7 @@ title: The new Nokia 3310 could give you your life back
 
 Let's face it: Modern smartphones make you dumb, anti-social and they steel your time. You know it is true, no need for figures. If you disagree it is only because you are addicted.
 
-<a href="/uploads/3310_updated.jpg" style="display: block;"><img src="/uploads/3310_updated_pattern.png" style="display: block;" /></a>*The old Nokia 3310 accompanied by a 2017 model.*
+<a href="/uploads/3310_updated.jpg" style="display: block;"><img src="/uploads/3310_updated_pattern.png" style="display: block;" alt="Nokia 3310 old and new" /></a>*The old Nokia 3310 accompanied by a 2017 model.*
 
 But you need your smartphone, you say. But what is it that you actually need? You want to take an occasional picture, look up something on the internet, find a location or route, look up something in your email and communicate with your friends. That is it. Well the Nokia 3310 comes really close, providing a camera, a basic internet browser, Google Maps, Gmail, Twitter and Facebook.
 
