@@ -44,7 +44,7 @@
 
 </head>
 
-<body id="top" class="{{ page.layout }}{% if page.layout == 'error' %} home{% endif %}" style="{% if page.color %}background-color: {{ page.color }};{% endif %}">
+<body id="top" class="{{ page.layout }}{% if page.layout == 'error' %} home{% endif %}{% if page.color %} bgcolor{% endif %}" style="{% if page.color %}background-color: {{ page.color }};{% endif %}">
   <div class="line line1"></div>
   <div class="line line2"></div>
   <div class="line line3"></div>
