@@ -16,7 +16,7 @@ The new Nokia 3310 is very good at calling and texting and does a medium job (at
 
 Whatsapp can not be accessed on the Nokia 3310. If you can convince your friends to use Facebook Groups to communicate, instead of Whatsapp, you are done. However, I am afraid most people can not. The reason that there is no solution for Whatsapp is because Whatsapp does not cooperate. Converting Whatsapp messages to e-mail, using an automation service, like Zapier or IFTT, can solve this problem for many social networks, but not for Whatsapp. Whatsapp has chosen not to provide an API, making this route impossible. If your friends all use Telegram, IFTT works. True friends use Telegram ;-), but yours might not.
 
-## The solution for Whatsapp
+## The solution to Whatsapp
 
 Because you do not want to be bothered too often by Whatsapp anyway, you can choose to view Whatsapp solely at home on your PC. A better experience, because of the keyboard, chair, coffee and the larger screen. Know that installing Whatsapp on your PC is very simple process. Just go to [Bluestacks](https://www.bluestacks.com) and install a virtual Android tablet. Oh… and do not forget to tell your friends to send urgent messages through SMS.
 
