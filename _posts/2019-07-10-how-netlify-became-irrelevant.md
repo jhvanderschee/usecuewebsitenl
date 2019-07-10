@@ -18,4 +18,4 @@ CloudCannon
 - analytics are included
 - unlimited forms
 
-Sure... if you want a single website with limited form submissions you should choose Netlify, but as soon as you want more the choice is clear. Comparing these two options became very easy.
+Sure... if you want a single website with limited form submissions you should choose Netlify, but as soon as you want more the choice is clear. Comparing these two options suddenly became very easy. Not a very smart move from Netlify.
