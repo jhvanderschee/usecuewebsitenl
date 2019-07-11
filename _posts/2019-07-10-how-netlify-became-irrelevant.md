@@ -2,7 +2,7 @@
 title: How Netlify became irrelevant
 ---
 
-Launching a new product or feature is a good thing... except when it is not, like it is the case with the new analytics product from Netlify. 
+Launching a new product or feature is a good thing... except when it is not, like it is the case with the [new analytics product](https://www.netlify.com/blog/2019/07/10/netlify-analytics---accurate-insights-without-performance-impacts/) from Netlify. 
 
 First of all, the new product launch of Netlify makes it easier to compare them to their biggest competitor: CloudCannon. Netlify and CloudCannon both offer static website hosting on a CDN with analytics (through log analysis). Both will process your forms with an optional captcha and both offer a CMS for your static website. The main difference is their pricing.
 
