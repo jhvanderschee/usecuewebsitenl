@@ -4,7 +4,7 @@ title: How Netlify became irrelevant
 
 Launching a product is a good thing... except when it is not, like it is the case with the new analytics product from Netlify. 
 
-Their new product launch makes it easier to compare Netlify to their biggest competitor: CloudCannon. Netlify and CloudCannon both offer static website hosting on a CDN with analytics (through log analysis). Both will process your forms with optional captcha and both offer a CMS for your static website. The main difference is their pricing.
+First of all, the new product launch of Netlify makes it easier to compare them to their biggest competitor: CloudCannon. Netlify and CloudCannon both offer static website hosting on a CDN with analytics (through log analysis). Both will process your forms with optional captcha and both offer a CMS for your static website. The main difference is their pricing.
 
 Netlify
 
@@ -18,6 +18,8 @@ CloudCannon
 - analytics are included
 - unlimited forms
 
-Sure... if you want a single website with limited form submissions you should choose Netlify, but as soon as you want more the choice is clear. Comparing these two options suddenly became very easy. 
+Comparing these two options suddenly became very easy. Only if you want a single website with limited form submissions you should choose Netlify. 
 
-CloudCannon has a more mature product than Netlify. Until today we could have thought that the lack of analytics in Netlify was due to its immaturaty. We could have hoped that Netlify would add this missing feature sooner or later. Now we know they want you to pay premium for it. Making a big fuss about a feature that your competitor introduced long ago is not a very smart move. With this move Netlify loses (a lot of) its credibility.
+Secondly, CloudCannon has a more mature product than Netlify. Until today we could have thought that the lack of analytics in Netlify was due to its immaturaty. We could have hoped that Netlify would add this missing feature sooner or later. Now we know it wants you to pay a premium for it. Making a big fuss about a paid feature yout competitor introduced long ago (for free), is not very smart. With this move Netlify loses (a lot of) its credibility. By trying to cash on such a basic functionality, Netlify damages the trust of its clients. 
+
+Netlify made their product comparable and showed its true colors. A dumb move from an otherwise popular company.
