@@ -7,4 +7,4 @@ portfolio_url: 'https://www.debabywegwijzer.nl/'
 order: 0
 ---
 
-Voor Maike bouwde ik deze schattige kleine website, die ik ook heb ontworpen, gebaseerd op haar logo. De site heeft een bijna perfecte Google Lighthouse score en kan worden geupdate via CloudCannon (CMS) door Maike zelf. De pagina's wegen slechts 125kb, hebben minder dan 10 requests nodig en hebben een speed index van onder de 2 seconden. Ik ben behoorlijk trots op deze website en dat is zij ook.
+Voor Maike bouwde ik deze schattige kleine website, die ik ook heb ontworpen, gebaseerd op haar logo. De site heeft een bijna perfecte Google Lighthouse score en kan worden geupdate via CloudCannon (CMS) door Maike zelf. De pagina's wegen slechts 125kb, hebben minder dan 10 requests nodig en hebben een speed index van onder de 2 seconden. Ik ben behoorlijk trots op deze website en het mooiste is: zij ook.
