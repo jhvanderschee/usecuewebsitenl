@@ -4,6 +4,9 @@ image: /uploads/debabywegwijzer1.jpg
 mobile_image: /uploads/debabywegwijzer2.jpg
 color: '#6a918c'
 portfolio_url: 'https://www.debabywegwijzer.nl/'
+google_score: 99%
+speed_index: 1.8s
+page_weight: 125kb
 order: 0
 ---
 

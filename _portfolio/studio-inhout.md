@@ -4,6 +4,9 @@ image: /uploads/studioinhout1.jpg
 mobile_image: /uploads/studioinhout2.jpg
 color: '#691f66'
 portfolio_url: 'https://www.studioinhout.nl/collectie/notenhouten-tafel/'
+google_score: 100%
+speed_index: 1.9s
+page_weight: 135kb
 order: 0
 ---
 

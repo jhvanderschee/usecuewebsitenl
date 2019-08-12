@@ -4,6 +4,9 @@ image: /uploads/zonmw1.jpg
 mobile_image: /uploads/zonmw2.jpg
 color: '#77716d'
 portfolio_url: '//polite-coal.cloudvent.net/'
+google_score: 96%
+speed_index: 3.5s
+page_weight: 1.5Mb
 order: 0
 ---
 

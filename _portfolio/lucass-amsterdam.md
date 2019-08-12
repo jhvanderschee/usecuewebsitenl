@@ -4,6 +4,9 @@ image: /uploads/lucass1.jpg
 mobile_image: /uploads/lucass2.jpg
 color: '#3b7055'
 portfolio_url: '//whispering-wallaby.cloudvent.net'
+google_score: 85%
+speed_index: 3.2s
+page_weight: 470kb
 order: 3
 ---
 

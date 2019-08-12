@@ -4,6 +4,9 @@ image: /uploads/reclamefabriek1.jpg
 mobile_image: /uploads/reclamefabriek2.jpg
 color: '#016faa'
 portfolio_url: '//tangerine-mushroom.cloudvent.net/#overons'
+google_score: 72%
+speed_index: 5.3s
+page_weight: 3.0Mb
 order: 4
 ---
 

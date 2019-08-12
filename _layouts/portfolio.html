@@ -64,6 +64,21 @@
 
 {{ content }}
 
-<p style="text-align: center;"><br /><a href="{{ page.portfolio_url }}" rel="noopener" target="_blank">bekijk website &rarr;</a></p>
+<div class="threecols" style="padding-top: 1.1em;">
+    <div>
+        <h3 class="small">Google score</h3>
+        <div class="medium">{{ page.google_score }}</div>
+    </div>
+    <div>
+        <h3 class="small">Speed index</h3>
+        <div class="medium">{{ page.speed_index }}</div>
+    </div>
+    <div>
+        <h3 class="small">Page weight</h3>
+        <div class="medium">{{ page.page_weight }}</div>
+    </div>
+</div>
+
+<p style="text-align: center; padding-top: 1.4em;"><br /><a href="{{ page.portfolio_url }}" rel="noopener" target="_blank" class="btn">bekijk website &rarr;</a></p>
 
 {% include footer.html %}

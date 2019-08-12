@@ -4,6 +4,9 @@ image: /uploads/fwn1.jpg
 mobile_image: /uploads/fwn2.jpg
 color: '#5b6669'
 portfolio_url: '//swift-goldfish.cloudvent.net/'
+google_score: 75%
+speed_index: 4.1s
+page_weight: 990kb
 order: 4
 ---
 
