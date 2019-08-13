@@ -2,10 +2,10 @@
 title: over
 ---
 
-Mijn naam is Joost van der Schee. In 2007 heb ik Usecue BV opgericht. Samen met mijn collega's en klanten ontwikkel ik websites en webapplicaties, waarbij de focus ligt op effici&euml;ntie en kwaliteit in het ontwerp- en ontwikkelproces. Usecue is gespecialiseerd in het bouwen van maatwerkoplossingen en werkt voornamelijk voor reclamebureau's en grafisch vormgevers. 
+Mijn naam is Joost van der Schee. In 2007 heb ik Usecue BV opgericht. Samen met mijn collega's en klanten ontwikkel ik websites en webapplicaties, waarbij de focus ligt op kwaliteit en effici&euml;ntie in het ontwerp- en ontwikkelproces. Ik heb industrieel ontwerpen gestudeerd aan de TUDelft.
 
-Ik heb industrieel ontwerpen gestudeerd aan de TUDelft en heb daarom een analytische kijk op het ontwerpproces en de mens-computer interactie.
+Alle websites die ik bouw hebben goede code en een goede SEO. Dit is terug te zien in hun goede [Google score](https://www.usecue.com/blog/google-lighthouse-score/), een objectieve kwaliteitsmaat voor websites. Kwaliteit is erg belangrijk voor mij. Als iets waard is om gedaan te worden, is het het ook waard om het goed te doen.
 
-Ik ben Linux fan, maar ben ik ook groot fan van [CloudCannon](https://cloudcannon.com/), een online CMS systeem. CloudCannon heeft mij opgenomen op zijn '[experts page](https://cloudcannon.com/experts/)'. Ik heb [jekyllcodex.org](https://jekyllcodex.org) ontwikkeld en ik heb een kleine 500 duizend mensen bereikt met antwoorden op Jekyll-gerelateerde vragen op Stack Overflow. Naast Jekyll/CloudCannon websites ontwikkel ik o.a. WordPress-, Issuu-, MailChimp- en Shopify oplossingen. Tenslotte heb ik ook een [open source online facturatiepakket](https://www.invoicelion.org/nl/) ontwikkeld, genaamd 'Invoice Lion' en een [platform voor het produceren van online magazines](https://withoutcoding.com), genaamd 'Without Coding'. 
+Ik ben fan van Jekyll (een website generator). Om mede Jekyll enthousiastelingen te helpen, heb ik [jekyllcodex.org](https://jekyllcodex.org) opgezet en beantwoord ik Jekyll-gerelateerde vragen op [Stack Overflow](http://stackoverflow.com/users/2397550/joosts). [CloudCannon](https://cloudcannon.com/) (een online CMS systeem voor Jekyll) heeft mij opgenomen als 'Jekyll expert' op zijn '[experts page](https://cloudcannon.com/experts/)'.
 
-Ben je nieuwsgierig geworden? Neem dan [contact](/contact) op! Ik vertel je graag wat ik voor je kan betekenen.
+Naast Jekyll/CloudCannon websites ontwikkel ik o.a. WordPress-, Issuu-, MailChimp-, Shopify- en maatwerkoplossingen. Een paar van mijn laatste projecten zijn een [open source online facturatiepakket](https://www.invoicelion.org/nl/) ontwikkeld, genaamd 'Invoice Lion', een progressieve web app (PWA) en een [platform voor het produceren van online magazines](https://withoutcoding.com), genaamd 'Without Coding'.
