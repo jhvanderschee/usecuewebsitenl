@@ -2,7 +2,7 @@
 title: over
 ---
 
-Mijn naam is Joost van der Schee. In 2007 heb ik Usecue BV opgericht. Samen met mijn collega's en klanten ontwikkel ik websites en webapplicaties, waarbij de focus ligt op kwaliteit en effici&euml;ntie in het ontwerp- en ontwikkelproces. Ik heb industrieel ontwerpen gestudeerd aan de TUDelft.
+Mijn naam is Joost van der Schee. In 2007 heb ik Usecue BV opgericht. Samen met mijn klanten ontwikkel ik websites en webapplicaties, waarbij de focus ligt op kwaliteit en effici&euml;ntie in het ontwerp- en ontwikkelproces. Ik heb Industrieel Ontwerpen gestudeerd aan de TUDelft.
 
 Alle websites die ik bouw hebben goede code en een goede SEO. Dit is terug te zien in hun [Google score](https://www.usecue.com/blog/google-lighthouse-score/), een objectieve kwaliteitsmaat voor websites. Kwaliteit is erg belangrijk voor mij. Als iets waard is om gedaan te worden, is het het ook waard om het goed te doen.
 
