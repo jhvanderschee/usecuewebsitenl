@@ -1,5 +1,5 @@
 ---
-title: this very website
+title: deze website zelf
 image: /uploads/usecue1.jpg
 mobile_image: /uploads/usecue2.jpg
 color: '#0000ee'
@@ -10,4 +10,4 @@ page_weight: 41kb
 order: 0
 ---
 
-This website itsself should *absolutely* be in my portfolio. It is [a tribute to the web](/blog/a-tribute-to-the-web/) and is designed and coded by myself. This website is hosted on special infrastructure to get [the best performance possible](/blog/websites-that-load-instantly/). Most pages will load in under 0.2 seconds (from within Europe). The pages are only 41kb large and have a perfect Google score.
+Deze website zelf moet ook *absoluut* in mijn portfolio. Het is een [tribute to the web](/blog/a-tribute-to-the-web/) en is ontworpen en geprogrammeerd door mijzelf. Deze website wordt gehost op speciale infrastructuur om zo [de best mogelijke performance](/blog/websites-that-load-instantly/) te krijgen. De meeste pagina's laden in minder dan 0.2 seconden (vanuit Europa). De pagina's zijn slechts 41kb groot en hebben een perfecte Google score.
