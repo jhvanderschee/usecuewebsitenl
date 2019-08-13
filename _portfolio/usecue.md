@@ -2,7 +2,7 @@
 title: deze website zelf
 image: /uploads/usecue1.jpg
 mobile_image: /uploads/usecue2.jpg
-color: '#0000ee'
+color: '#0000aa'
 portfolio_url: 'https://www.usecue.com/'
 google_score: 100%
 speed_index: 1.7s
