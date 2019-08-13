@@ -37,15 +37,9 @@
 </head>
 
 <body id="top" class="{{ page.layout }}{% if page.layout == 'error' %} home{% endif %}{% if page.color %} bgcolor{% endif %}" style="{% if page.color %}background-color: {{ page.color }};{% endif %}">
-  <div class="line line1"></div>
-  <div class="line line2"></div>
-  <div class="line line3"></div>
   {% if page.layout == 'home' %}
     <div id="splash">
       <div><span class="medium"><span><a href="/about/">u</a></span><span>s</span><span>e</span><span>c</span><span>u</span><span>e</span></span><span class="small">web development</span></div>
-      <div class="line line1"></div>
-      <div class="line line2"></div>
-      <div class="line line3"></div>
     </div>
   {% endif %}
     <a id="logo" href="/" class=""><img src="/img/icon-196x196.png" alt="Usecue logo" /></a>
