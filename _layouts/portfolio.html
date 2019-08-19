@@ -79,6 +79,6 @@
     </div>
 </div>
 
-<p style="padding-top: 1.4em;"><br /><a href="{{ page.portfolio_url }}" rel="noopener" target="_blank" class="btn">bekijk project</a></p>
+<p style="padding-top: 1.4em;"><br /><a href="{{ page.portfolio_url }}" rel="noopener" target="_blank" class="btn" style="{% if page.color %}background-color: {{ page.color }};{% endif %}">bekijk project</a></p>
 
 {% include footer.html %}
