@@ -19,5 +19,5 @@ Daarnaast gaat het natuurlijk om de herkomst van de energie voor deze servers. K
 
 Deze superlichte (en daardoor snelle en groene) site draait niet op een CDN, maar op een server in Amsterdam in een datacenter dat volledig draait op groene stroom.
 
-Is een groene website iets voor jou? Ik denk graag met je mee.
+Is een groene website ook iets voor jou? Ik denk graag met je mee.
 
