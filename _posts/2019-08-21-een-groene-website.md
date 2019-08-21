@@ -11,13 +11,8 @@ Laten we ons voor het gemak beperken tot de server, ofwel de computer die jouw w
 
 De kans dat voor jouw website niet één maar twee of misschien wel meerdere servers dag en nacht aanstaan is dus aanzienlijk. Het terugbrengen van het aantal servers dat jouw website host is een eenvoudige manier om je website groener te maken. Uiteraard gaat dat wel ten koste van de betrouwbaarheid en de laadtijd, maar je kunt je afvragen wat die ene dag in het jaar dat je website niet beschikbaar is, of die halve seconde extra laadtijd precies uit gaat maken voor je bedrijfsvoering.
 
-Naast het aantal servers is ook de grootte van je website van belang. Het is immers niet zo dat een server maar één website kan hosten. Hoe lichter je website, hoe meer sites er op de server passen, des te minder servers je nodig hebt. Hierbij gaat het zowel om opslagruimte als om rekenkracht.
+Naast het aantal servers is ook de grootte van je website van belang. Het is immers niet zo dat een server maar één website kan hosten. Hoe lichter je website, hoe meer sites er op de server passen, des te minder servers je nodig hebt. Hierbij gaat het zowel om opslagruimte als om rekenkracht. Groener is dus vooral lichter. Dit kun je bereiken door het gebruik van minder servers, minder code en minder extreme eisen aan de beschikbaarheid.
 
-Groener is dus vooral lichter. Dit kun je bereiken door het gebruik van minder servers, minder code en minder extreme eisen aan de beschikbaarheid.
+Daarnaast gaat het natuurlijk ook om de herkomst van de energie voor deze servers. Komt deze uit hernieuwbare bronnen? En is dit echte groene stroom? Of is het groene stroom op basis van certificaten? Want [groene hosting is niet altijd zo groen als het lijkt](https://www.zaailingen.com/webhost-niet-zo-groen-als-lijkt/).
 
-Daarnaast gaat het natuurlijk ook om de herkomst van de energie voor deze servers. Komt deze uit hernieuwbare bronnen? En is dit echte groene stroom? Of is het groene stroom met certificaten? 
-
-Deze superlichte (en daardoor snelle en groene) site draait niet op een CDN, maar op een server in Amsterdam in een datacenter dat volledig draait op groene stroom.
-
-Is een groene website ook iets voor jou? Ik denk graag met je mee.
-
+Deze superlichte (en daardoor snelle en groene) site draait niet op een CDN, maar op een server in Amsterdam in een datacenter dat volledig draait op groene stroom. Is zo'n groene website ook iets voor jou? Ik denk graag met je mee.
