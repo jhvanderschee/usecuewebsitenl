@@ -1,5 +1,5 @@
 ---
-title: De groenste website
+title: Een groene website
 ---
 
 Groen is niet alleen hip maar ook belangrijker dan ooit. En het lijkt zo simpel: Een groene website verbruikt minder energie en de energie die het verbruikt komt uit duurzame bronnen. Maar hoe zit dat precies in de praktijk?
@@ -16,6 +16,6 @@ Groener is dus vooral lichter. Dit kun je bereiken door het gebruik van minder s
 
 Daarnaast gaat het natuurlijk om de herkomst van de energie voor deze servers. Komt deze uit hernieuwbare bronnen? En is dit echte groene stroom? Of is het groene stroom met certificaten? 
 
-Deze superlichte (en daardoor snelle en groene) site draait niet op een CDN, maar op een server in Amsterdam in het datacenter van Leaseweb, dat volledig draait op groene stroom uit certificaten. Daarmee is het best een groene site, maar zeker niet de allergroenste.
+Deze superlichte (en daardoor snelle en groene) site draait niet op een CDN, maar op een server in Amsterdam in het datacenter van Leaseweb, dat volledig draait op groene stroom uit certificaten. Daarmee is het best een groene site, maar er is nog ruimte voor verbetering..
 
-Is een groene website iets voor jou? Wil jij de allergroenste website? Ik denk graag met je mee...
+Is een groene website iets voor jou? Ik denk graag met je mee.
