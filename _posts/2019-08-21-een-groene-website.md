@@ -3,7 +3,7 @@ title: Een groene website
 color: green
 ---
 
-Groen is niet alleen hip maar ook belangrijker dan ooit. En het lijkt zo simpel: Zorg dat je website minder energie verbruikt en zorg dat de energie die het verbruikt uit duurzame bronnen komt. Maar hoe realiseer je dat precies in de praktijk?
+Groen is niet alleen hip maar ook belangrijker dan ooit. ICT is goed voor 4,5% van het energyverbruik wereldwijd. Daar moeten we iets aan doen... maar hoe? Het lijkt simpel: Zorg dat je website minder energie verbruikt en zorg dat de energie die je verbruikt uit duurzame bronnen komt. Maar hoe realiseer je dat precies in de praktijk?
 
 Laten we eerst kijken naar het energieverbruik. Hoe verbruikt een website precies stroom? Allereerst natuurlijk door het energieverbruik van de server, maar daarnaast ook door het energieverbruik van het apparaat van de bezoeker.
 
