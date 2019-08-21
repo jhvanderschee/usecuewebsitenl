@@ -15,7 +15,7 @@ Naast het aantal servers is ook de grootte van je website van belang. Het is imm
 
 Groener is dus vooral lichter. Dit kun je bereiken door het gebruik van minder servers, minder code en minder extreme eisen aan de beschikbaarheid.
 
-Daarnaast gaat het natuurlijk om de herkomst van de energie voor deze servers. Komt deze uit hernieuwbare bronnen? En is dit echte groene stroom? Of is het groene stroom met certificaten? 
+Daarnaast gaat het natuurlijk ook om de herkomst van de energie voor deze servers. Komt deze uit hernieuwbare bronnen? En is dit echte groene stroom? Of is het groene stroom met certificaten? 
 
 Deze superlichte (en daardoor snelle en groene) site draait niet op een CDN, maar op een server in Amsterdam in een datacenter dat volledig draait op groene stroom.
 
