@@ -19,3 +19,4 @@ Daarnaast gaat het natuurlijk om de herkomst van de energie voor deze servers. K
 Deze superlichte (en daardoor snelle en groene) site draait niet op een CDN, maar op een server in Amsterdam in het datacenter van Leaseweb, dat volledig draait op groene stroom uit certificaten. Daarmee is het best een groene site, maar er is nog ruimte voor verbetering..
 
 Is een groene website iets voor jou? Ik denk graag met je mee.
+
