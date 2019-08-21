@@ -17,7 +17,7 @@ Groener is dus vooral lichter. Dit kun je bereiken door het gebruik van minder s
 
 Daarnaast gaat het natuurlijk om de herkomst van de energie voor deze servers. Komt deze uit hernieuwbare bronnen? En is dit echte groene stroom? Of is het groene stroom met certificaten? 
 
-Deze superlichte (en daardoor snelle en groene) site draait niet op een CDN, maar op een server in Amsterdam in het datacenter van Leaseweb, dat volledig draait op groene stroom uit certificaten. Daarmee is het best een groene site, maar er is ook nog ruimte voor verbetering.
+Deze superlichte (en daardoor snelle en groene) site draait niet op een CDN, maar op een server in Amsterdam in een datacenter dat volledig draait op groene stroom.
 
 Is een groene website iets voor jou? Ik denk graag met je mee.
 
