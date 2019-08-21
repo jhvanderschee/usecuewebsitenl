@@ -1,6 +1,6 @@
 ---
 title: Een groene website
-bgcolor: green
+color: green
 ---
 
 Groen is niet alleen hip maar ook belangrijker dan ooit. En het lijkt zo simpel: Zorg dat je website minder energie verbruikt en zorg dat de energie die het verbruikt uit duurzame bronnen komt. Maar hoe realiseer je dat precies in de praktijk?
