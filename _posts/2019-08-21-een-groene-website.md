@@ -3,7 +3,7 @@ title: Een groene website
 bgcolor: green
 ---
 
-Groen is niet alleen hip maar ook belangrijker dan ooit. En het lijkt zo simpel: zorg dat je website minder energie verbruikt en zorg dat de energie die het verbruikt uit duurzame bronnen komt. Maar hoe realiseer je dat precies in de praktijk?
+Groen is niet alleen hip maar ook belangrijker dan ooit. En het lijkt zo simpel: Zorg dat je website minder energie verbruikt en zorg dat de energie die het verbruikt uit duurzame bronnen komt. Maar hoe realiseer je dat precies in de praktijk?
 
 Laten we eerst kijken naar het energieverbruik. Hoe verbruikt een website precies stroom? Allereerst natuurlijk door het energieverbruik van de server, maar daarnaast ook door het energieverbruik van het apparaat van de bezoeker.
 
