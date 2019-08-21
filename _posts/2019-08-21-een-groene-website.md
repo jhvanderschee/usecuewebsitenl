@@ -15,4 +15,4 @@ Naast het aantal servers is ook de grootte van je website van belang. Het is imm
 
 Daarnaast gaat het natuurlijk ook om de herkomst van de energie voor deze servers. Komt deze uit hernieuwbare bronnen? En is dit echte groene stroom? Of is het groene stroom op basis van certificaten? Want [groene hosting is niet altijd zo groen als het lijkt](https://www.zaailingen.com/webhost-niet-zo-groen-als-lijkt/).
 
-Deze superlichte (en daardoor snelle en groene) site draait niet op een CDN, maar op een server in Amsterdam in een datacenter dat volledig draait op groene stroom. Is zo'n groene website ook iets voor jou? Ik denk graag met je mee.
+Deze superlichte (en daardoor snelle en groene) site draait niet op een CDN, maar op een server in Amsterdam in een datacenter dat volledig draait op groene stroom. Is zo'n groene website ook iets voor jou? Ik help je graag dit te realiseren.
