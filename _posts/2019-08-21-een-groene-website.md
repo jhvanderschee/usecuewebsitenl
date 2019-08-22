@@ -13,8 +13,8 @@ Website-eigenaren willen vaak dat hun website snel laadt vanuit elke plek op de 
 
 Om [extreem hoge snelheden]() te krijgen zie je dat sommige website-eigenaren rekenkracht reserveren. Waar dit feitelijk op neerkomt is dat servers de hele dag niets staat te doen, zodat ze direct kunnen reageren wanneer er een verzoek binnenkomt. Dit is natuurlijk alles behalve groen. We zien dit terug in VPS en dedicated servers. Wanneer jouw website op een VPS of dedicated server draait, is hij dus absoluut niet groen.
 
-Tenslotte gaat het natuurlijk ook om de herkomst van de energie voor al deze servers. Komt deze uit hernieuwbare bronnen? En is dit echte groene stroom? Of is het groene stroom op basis van certificaten? Want [groene hosting is niet altijd zo groen als het lijkt](https://www.zaailingen.com/webhost-niet-zo-groen-als-lijkt/).
+Tenslotte gaat het natuurlijk ook om de herkomst van de energie voor deze server(s). Komt deze uit hernieuwbare bronnen? En is dit echte groene stroom? Of is het groene stroom op basis van certificaten? Want [groene hosting is niet altijd zo groen als het lijkt](https://www.zaailingen.com/webhost-niet-zo-groen-als-lijkt/).
 
-Ik bouw altijd lichte (en dus groene) websites, omdat ik wil dat mijn websites een hoge [Google score]() hebben. Een leuke bijkomstigheid is dat een lichte website ook minder batterij van de telefoon of laptop van je bezoeker gebruikt. Wanneer je kiest voor shared hosting (dus geen VPS of dedicated server) in een groen datacenter en je kiest ervoor om geen CDN te gebruiken, dan heb je in mijn optiek een supergroene website. 
+Ik bouw altijd lichte (en dus groene) websites, omdat ik wil dat mijn websites een hoge [Google score](/blog/google-score) hebben. Een leuke bijkomstigheid is dat een lichte website ook minder batterij van de telefoon of laptop van je bezoeker gebruikt. Wanneer je kiest voor shared hosting (dus geen VPS of dedicated server) in een groen datacenter en je kiest ervoor om geen CDN te gebruiken, dan heb je in mijn optiek een supergroene website. 
 
 Is zo een supergroene website ook iets voor jou? Ik help je graag!
