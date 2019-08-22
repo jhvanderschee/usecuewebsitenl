@@ -19,4 +19,4 @@ Ik bouw altijd lichte (en dus groene) websites, omdat ik wil dat mijn websites e
 
 Wanneer je kiest voor een lichte website, gehost op shared hosting (dus geen VPS of dedicated server), zonder CDN, in een groen datacenter, dan heb je in mijn optiek een supergroene website. Met een CDN hangt het vooral af van de groenheid van de datacenters van het CDN.
 
-Is zo een (super)groene website ook iets voor jou? Ik help je graag!
+Is zo een (super)groene website ook iets voor jou? Ik help je graag met het realiseren ervan!
