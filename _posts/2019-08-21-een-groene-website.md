@@ -17,6 +17,6 @@ Tenslotte gaat het natuurlijk ook om de herkomst van de energie voor deze server
 
 Ik bouw altijd lichte (en dus groene) websites, omdat ik wil dat mijn websites een hoge [Google score](https://www.usecue.com/blog/google-score/) hebben. Een leuke bijkomstigheid is dat een lichte website ook minder batterij van de telefoon of laptop van je bezoeker gebruikt en dus ook op dat front groener is.
 
-Wanneer je kiest voor een lichte website, gehost op shared hosting (dus geen VPS of dedicated server) in een groen datacenter zonder CDN, dan heb je in mijn optiek een supergroene website. Met een CDN hangt het vooral af van de groenheid van de datacenters van het CDN.
+Wanneer je kiest voor een lichte website, gehost op shared hosting (dus geen VPS of dedicated server), zonder CDN, in een groen datacenter, dan heb je in mijn optiek een supergroene website. Met een CDN hangt het vooral af van de groenheid van de datacenters van het CDN.
 
 Is zo een (super)groene website ook iets voor jou? Ik help je graag!
