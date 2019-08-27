@@ -1,5 +1,5 @@
 ---
-title: Ik ben een web developer uit Amsterdam
+title: Ik ben een web developer uit Amsterdam.
 layout: home
 ---
 
