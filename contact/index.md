@@ -1,5 +1,5 @@
 ---
-title: contact
+title: Contact
 ---
 
 Mijn kantoor zit in Amsterdam. Ik werk het liefste voor reclame-/ontwerpbureau's. Ik out-source mijn werk niet en heb ook geen stagaires. Wanneer je mij inhuurt ben ik degene die het werk doet.

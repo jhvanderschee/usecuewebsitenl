@@ -1,5 +1,5 @@
 ---
-title: over
+title: Over mij
 ---
 
 Mijn naam is Joost van der Schee en ik ben een web developer uit Amsterdam. Ik heb Industrieel Ontwerpen gestudeerd aan de TUDelft. In 2007 heb ik Usecue BV opgericht. Mijn eerste prioriteit is mijn gezin, maar mijn werk komt absoluut op nummer twee. Ik houd van wat ik doe: het bouwen van mooie websites en web applicaties.
