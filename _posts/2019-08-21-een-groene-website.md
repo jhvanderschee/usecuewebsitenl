@@ -15,7 +15,7 @@ Om [extreem hoge snelheden](https://www.usecue.com/blog/websites-that-load-insta
 
 Tenslotte gaat het natuurlijk ook om de herkomst van de energie voor deze server(s). Komt deze uit hernieuwbare bronnen? En is dit echte groene stroom? Of is het groene stroom op basis van certificaten? Want [groene hosting is niet altijd zo groen als het lijkt](https://www.zaailingen.com/webhost-niet-zo-groen-als-lijkt/).
 
-Ik bouw altijd lichte (en dus groene) websites, omdat ik wil dat mijn websites een hoge [Google score](https://www.usecue.com/blog/google-score/) hebben. Een leuke bijkomstigheid is dat een lichte website ook minder batterij van de telefoon of laptop van je bezoeker gebruikt en dus ook op dat front groener is.
+Ik bouw altijd lichte (en dus groene) websites, omdat ik wil dat mijn websites een hoge [Google score](https://www.usecue.com/blog/google-lighthouse-score/) hebben. Een leuke bijkomstigheid is dat een lichte website ook minder batterij van de telefoon of laptop van je bezoeker gebruikt en dus ook op dat front groener is.
 
 Wanneer je kiest voor een lichte website, gehost op shared hosting (dus geen VPS of dedicated server), zonder CDN, in een groen datacenter, dan heb je in mijn optiek een supergroene website. Met een CDN hangt het vooral af van de groenheid van de datacenters van het CDN.
 
