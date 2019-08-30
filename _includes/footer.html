@@ -20,6 +20,8 @@
                 {% endif %}
             {% endfor %}
             <a id="nextlink" href="{{ sitepages[next_i].url }}">next<span class="desktop">: {{ sitepages[next_i].title }}</span><span class="mobile"> {% if page.layout == 'post' %}blog bericht{% else %}portfolio item{% endif %}</span></a>
+            <a id="nextlinktop" href="{{ sitepages[next_i].url }}">next {% if page.layout == 'post' %}post{% else %}item{% endif %}</a>
+            <a id="prevlinktop" href="{{ sitepages[prev_i].url }}">previous {% if page.layout == 'post' %}post{% else %}item{% endif %}</a>
         {% endif %}
         <a id="scrolltotop" href="#top">Naar boven</a>
     </div>
