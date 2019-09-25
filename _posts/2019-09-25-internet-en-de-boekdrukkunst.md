@@ -12,4 +12,4 @@ Het is echter aan ons om te bepalen hoe we hier mee omgaan. We zouden selectieve
 
 De oplossing is simpel: we moeten platformen met dit soort algoritmes mijden, we moeten mensen tegen zichzelf in bescherming nemen wanneer het gaat om privacy en we moeten ons realiseren dat de prijs die we nu betalen voor het internet en social media veel te hoog is. Kortom: we moeten selectief zijn en kiezen voor diensten met betere algoritmes, fatsoenlijke privacy en een gezond verdienmodel.
 
-Tijd voor een revolutie. Lang leve het internet\!
+Tijd voor een revolutie. Lang leve het internet!
