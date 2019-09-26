@@ -4,7 +4,7 @@ title: Internet en de boekdrukkunst
 
 Ik had het met mijn moeder over de duistere kanten van het internet: het gebrek aan privacy en de overdaad aan informatie (waar en onwaar). Zij maakte de vergelijking met de boekdrukkunst en zei: "Misschien duurde het daar ook even voordat mensen begrepen hoe je daarmee om moest gaan."
 
-Dat vond ik wel aannemelijk... dat dat met alle grote technologische veranderingen gewoon een flink aantal jaar duurt. Bovendien vond ik het een geruststellende gedachte.
+Dat vind ik wel aannemelijk... dat dat met alle grote technologische veranderingen gewoon een flink aantal jaar duurt. Bovendien vind ik het een geruststellende gedachte.
 
 Dat er negatieve kanten aan het internet zitten is inmiddels wel duidelijk. Social media is daarin de hoofdschuldige. Het wordt gebruikt om mensen op te sluiten (Turkije), om mensen te manipuleren tijdens de verkiezingen (Verenigde Staten), om op massale schaal mensen hun privegegevens te verkopen (Facebook) of simpelweg om ruzie te maken (Twitter).
 
