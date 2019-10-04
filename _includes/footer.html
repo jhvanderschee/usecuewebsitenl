@@ -19,7 +19,7 @@
                     {% if prev_i < 0 %}{% assign prev_i = last_i %}{% endif %}
                 {% endif %}
             {% endfor %}
-            <a id="nextlink" href="{{ sitepages[next_i].url }}">next<span class="desktop">: {{ sitepages[next_i].title }}</span><span class="mobile"> {% if page.layout == 'post' %}blog bericht{% else %}portfolio item{% endif %}</span></a>
+            <a id="nextlink" href="{{ sitepages[next_i].url }}">volgende<span class="desktop">: {{ sitepages[next_i].title }}</span><span class="mobile"> {% if page.layout == 'post' %}blog bericht{% else %}portfolio item{% endif %}</span></a>
             <a id="nextlinktop" href="{{ sitepages[next_i].url }}">volgende {% if page.layout == 'post' %}artikel{% else %}item{% endif %}</a>
             <a id="prevlinktop" href="{{ sitepages[prev_i].url }}">vorige {% if page.layout == 'post' %}artikel{% else %}item{% endif %}</a>
         {% endif %}
