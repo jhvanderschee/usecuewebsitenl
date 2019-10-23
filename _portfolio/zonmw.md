@@ -1,5 +1,5 @@
 ---
-title: jeugd bij ZonMW
+title: Jeugd bij ZonMW
 image: /uploads/zonmw1.jpg
 mobile_image: /uploads/zonmw2.jpg
 color: '#77716d'
