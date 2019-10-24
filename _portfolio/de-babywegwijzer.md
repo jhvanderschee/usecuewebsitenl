@@ -1,5 +1,5 @@
 ---
-title: de Baby Wegwijzer
+title: de baby wegwijzer
 image: /uploads/debabywegwijzer1.jpg
 mobile_image: /uploads/debabywegwijzer2.jpg
 color: '#6a918c'
