@@ -1,5 +1,5 @@
 ---
-title: Reclame die werkt
+title: reclame die werkt
 image: /uploads/reclamefabriek1.jpg
 mobile_image: /uploads/reclamefabriek2.jpg
 color: '#016faa'

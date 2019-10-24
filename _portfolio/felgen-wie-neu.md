@@ -1,5 +1,5 @@
 ---
-title: Felgen wie neu
+title: felgen wie neu
 image: /uploads/fwn1.jpg
 mobile_image: /uploads/fwn2.jpg
 color: '#5b6669'

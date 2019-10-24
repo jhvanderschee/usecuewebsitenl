@@ -1,5 +1,5 @@
 ---
-title: "la Manzanilla"
+title: "la manzanilla"
 image: /uploads/lamanzanilla1.jpg
 mobile_image: /uploads/lamanzanilla2.jpg
 color: '#738a34'

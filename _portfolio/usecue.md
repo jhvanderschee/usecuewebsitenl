@@ -1,5 +1,5 @@
 ---
-title: de Usecue website
+title: de usecue website
 image: /uploads/usecue1.jpg
 mobile_image: /uploads/usecue2.jpg
 color: '#555'

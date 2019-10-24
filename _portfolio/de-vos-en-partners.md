@@ -1,5 +1,5 @@
 ---
-title: de Vos
+title: de vos
 image: /uploads/devos1.jpg
 mobile_image: /uploads/devos2.jpg
 color: '#7a8c87'
