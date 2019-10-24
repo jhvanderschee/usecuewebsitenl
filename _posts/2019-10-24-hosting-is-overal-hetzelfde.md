@@ -14,7 +14,7 @@ Door te zeggen dat hosting overal hetzelfde is, lijkt Hostnet te beweren dat pro
 
 ## Onduidelijk product
 
-Hostnet heeft onderzoek gedaan naar MKB-ers en ZZP-ers, en wat blijkt: zij willen eigenlijk helemaal geen hosting, maar een SAAS oplossing! Een voorbeeld van een SAAS oplossing is een werkende website. Een voorbeeld van hosting is een server waar je op kunt inloggen waar je een website op kunt installeren. Het grootste verschil tussen een SAAS oplossing en hosting is dat een SAAS oplossing volledig ontzorgt, terwijl bij hosting een gedeelde verantwoordelijkheid ontstaat voor het functioneren. Een SAAS oplossing is vaak duurder. De MKB-er en ZZP-er snapt het verschil echter niet en gaat voor het goedkoopste product: hosting.
+Hostnet heeft onderzoek gedaan naar MKB-ers en ZZP-ers, en wat blijkt: zij willen eigenlijk helemaal geen hosting, maar een SAAS oplossing. Een voorbeeld van een SAAS oplossing is een werkende website. Een voorbeeld van hosting is een server waar je op kunt inloggen waar je een website op kunt installeren. Het grootste verschil tussen een SAAS oplossing en hosting is dat een SAAS oplossing volledig ontzorgt, terwijl bij hosting een gedeelde verantwoordelijkheid ontstaat voor het functioneren. Een SAAS oplossing is vaak duurder. De MKB-er en ZZP-er snapt het verschil echter niet en gaat voor het goedkoopste product: hosting.
 
 ## De oplossing
 
