@@ -8,7 +8,7 @@ Uit onderzoek onder 500 mkb’ers en zzp’ers, blijkt dat ondernemers niet veel
 
 Ik las bovenstaand bericht op Emerce en was gefascineerd door deze campagne. Ik geloof wel dat dat onderzoek klopt, maar de stelling van Hostnet is natuurlijk niet waar. Wat wil Hostnet nou eigenlijk met deze boodschap zeggen?
 
-## Problemen voorkomen
+## Problemen door lage marge
 
 Door te zeggen dat hosting overal hetzelfde is, lijkt Hostnet te beweren dat problemen niet te voorkomen zijn en dat iedere aanbieder hier evenveel last van heeft. Ik loop dagelijks tegen deze problemen aan, zoals ontbrekende SPF records, verkeerd geconfigureerde AAA records, verkeerde redirects na een SSL omzetting, gehackte systemen, overbelaste servers met hoge responsetijden of trage databaseverbindingen... en inderdaad niet alleen bij Hostnet. Problemen die voorkomen hadden kunnen worden, maar vaak pas opgelost worden zodra de klant erover klaagt. Dat voor preventie geen geld is in deze [zeer competitieve markt](https://www.usecue.com/blog/the-race-to-zero-in-webhosting/) kan ik begrijpen, maar zeggen dat alle hosting hetzelfde is, is niet waar. Daarnaast is de ene hosting sneller en/of [groener](/blog/een-groene-website/) dan de andere. Kortom: onderscheidende factoren genoeg, maar daar zet Hostnet niet op in. Sterker nog: het ontkent alle verschillen.
 
