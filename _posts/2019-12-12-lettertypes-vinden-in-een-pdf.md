@@ -1,5 +1,5 @@
 ---
-title: Lettertypes in een PDF
+title: Lettertypes vinden in een PDF
 ---
 
 Wanneer een ontwerper artwork moet aanleveren, zeg ik altijd: 'Doe maar een high resolution PDF, dus alsof je voor print aanlevert, maar dan in safe RGB (sRGB).' 
