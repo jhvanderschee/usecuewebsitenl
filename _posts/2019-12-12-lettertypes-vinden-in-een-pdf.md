@@ -8,6 +8,6 @@ Ik zal uitleggen waarom ik dat vraag en wat mijn bijbehorende work-flow is. Bij 
 
 Bij een recent project werkte dat echter niet. Adobe Illustrator vond dat de file corrupt was en Inkscape wilde hem ook niet goed openen. Vreemd genoeg opende de file prima in een PDF reader en in GIMP. Gelukkig vond ik [online](http://www.documentsnap.com/find-fonts-pdf/) een goede tip. Type in de terminal:
 
-> {% raw %}strings /path/to/your/filename.pdf | grep FontName{% endraw %}
+> strings /path/to/your/filename.pdf \| grep FontName
 
 Dat gaf me precies de informatie over de lettertypes die ik zocht. Een superfijne oplossing, waardoor ik voor de analyse van de lettertypes niet meer afhankelijk ben van de grillen van eerdergenoemde vectorprogramma's.

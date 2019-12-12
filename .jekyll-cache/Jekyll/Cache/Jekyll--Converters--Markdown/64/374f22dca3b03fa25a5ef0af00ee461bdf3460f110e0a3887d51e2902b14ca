@@ -1,0 +1,12 @@
+I"r<p>You probably load 100k jQuery in your page, because it makes programming soooo easy. But what if you want your page to be as small as 100k? Or usable by people who disable Javascript for security reasons?</p>
+
+<p>Let us look at what the 100k jQuery in your website actually does. I bet it toggles your hamburger menu, it might toggle some tabs… and, of course, it powers that enormous homepage slider. So… without further ado, let me present you the replacements:</p>
+
+<ol>
+  <li>Off-screen navigation - Hiding and showing stuff is no problem with CSS. Alle you need is the <a href="http://www.sitepoint.com/pure-css-off-screen-navigation-menu/">radio button hack</a>, et voila… there you go.</li>
+  <li>Tabs - They are useful for hiding and showing content. You can use the <a href="http://stanhub.com/create-responsive-tabs-using-css-only-no-jquery/">same recipe</a> for them. </li>
+  <li>Sliders - A little more complicated but also possible… Even with autoplay! Here are <a href="http://codepen.io/hw/pen/biEBz">some</a> <a href="http://xdesigns.net/2013/08/css-slider/">examples</a>.</li>
+</ol>
+
+<p>If you really MUST support IE8 or you want a more polished experience, you can use some conditional (vanilla) Javascript. In general, you should prefer to use Javascript only when necessary and only to enhance the experience. You do not want your site to be broken without.</p>
+:ET
