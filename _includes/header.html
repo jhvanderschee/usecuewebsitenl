@@ -38,7 +38,8 @@
 
 <body id="top" class="{{ page.layout }}{% if page.layout == 'error' %} home{% endif %}{% if page.color %} bgcolor{% endif %}" style="{% if page.color %}background: {{ page.color }};{% endif %}">
   <script>
-  if (localStorage.getItem('mode') == 'dark') document.getElementById('top').classList.add('darkmode'); 
+    if (localStorage.getItem('mode') == 'dark') document.getElementById('top').classList.add('darkmode'); 
+    if (localStorage.getItem('mode') == 'light') document.getElementById('top').classList.add('lightmode'); 
   </script>
 
   
