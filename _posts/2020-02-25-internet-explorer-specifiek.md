@@ -14,12 +14,12 @@ Toch loop je nog wel eens een heel enkele keer aan tegen de noodzaak om Internet
 
 Online vond ik echter een trucje om toch IE specifieke code (CSS) te schrijven. De code die ik vond voegt de 'user agent' toe aan de body in een data attribuut. Dat ziet er zo uit: 
 
-var doc = document.documentElement;  
+> var doc = document.documentElement;  
 doc.setAttribute('data-useragent', navigator.userAgent);
 
 Vervolgens kun je zoiets zeggens als: als de user agent het woord 'Windows' bevat, voer deze code uit. Windows is echter niet het goede woord, omdat meerdere browsers op Windows (kunnen) draaien. Ik kwam erachter dat deze CSS statement vrij goed onderscheid kan maken tussen Internet Explorer, Edge, Chrome en Firefox:
 
-html[data-useragent*='Trident']
+> html[data-useragent*='Trident']
 
 Trident is de 'layout engine' van Internet Explorer en wordt in alle IE user agents genoemd. Edge gebruikt 'EdgeHTML' als layout engine. Hierdoor pik je met deze zoekterm dus precies de Internet Explorer browsers er tussenuit, zonder dat je gebruik hoeft te maken van IE conditional comments. 
 
