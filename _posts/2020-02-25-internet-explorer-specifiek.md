@@ -17,7 +17,7 @@ Online vond ik echter een trucje om toch IE specifieke code (CSS) te schrijven. 
 var doc = document.documentElement;  
 doc.setAttribute('data-useragent', navigator.userAgent);
 
-Vervolgens kun je zoiets zeggens als: als de user agent het woord 'Windows' bevat, voer deze code uit. Windows is echter niet het goede woord, omdat meerdere browsers op Windows (kunnen) draaien. Ik kwam erachter dat deze CSS statement vrij goed onderscheid kan maken tussen Internet Explorer, Edge, Chrome en Firefox:
+Vervolgens kun je zoiets zeggens als: als de user agent het woord 'Windows' bevat, voer deze code uit. Windows is echter niet het goede woord, omdat meerdere browsers op Windows (kunnen) draaien. Ik kwam erachter dat deze CSS regel vrij goed onderscheid kan maken tussen Internet Explorer, Edge, Chrome en Firefox:
 
 html[data-useragent*='Trident']
 
