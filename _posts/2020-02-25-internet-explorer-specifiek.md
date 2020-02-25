@@ -21,8 +21,8 @@ Vervolgens kun je zoiets zeggens als: als de user agent het woord 'Windows' beva
 
 > html[data-useragent*='Trident']
 
-Trident is de 'layout engine' van Internet Explorer en wordt in alle IE user agents genoemd. Edge gebruikt 'EdgeHTML' als layout engine. Hierdoor pik je met deze zoekterm dus precies de Internet Explorer browsers er tussenuit, zonder dat je gebruik hoeft te maken van IE conditional comments. 
+Trident is de 'layout engine' van Internet Explorer en wordt in alle IE user agents genoemd. Edge gebruikt 'EdgeHTML' als layout engine en nieuwere versies gebruiken 'Blink'. Hierdoor pik je met deze zoekterm dus precies de Internet Explorer browsers er tussenuit, zonder dat je gebruik hoeft te maken van IE conditional comments. 
 
 ## Overwegingen
 
-Een grote kritiek op 'user agent sniffing' zoals deze techniek heet, is dat de techniek inaccurate resultaten geeft. Daar kan ik weinig anders tegenin brengen dan [de lijst van Trident browsers](https://en.wikipedia.org/wiki/Trident_(software)) tonen en beweren dat de schade wel mee zal vallen. Daarnaast is het onwaarschijnlijk dat er een nieuwe browser uitkomt met de Trident layout engine (waarop de code mogelijk een averechts effect zou kunnen hebben), aangezien Internet Explorer niet meer verder wordt onwikkeld en Microsoft zijn kaarten op Chromium heeft gezet, dat niet Trident, noch EdgeHTML, maar de Blink engine gebruikt.
+Een grote kritiek op 'user agent sniffing' zoals deze techniek heet, is dat de techniek inaccurate resultaten geeft. Daar kan ik weinig anders tegenin brengen dan [de lijst van Trident browsers](https://en.wikipedia.org/wiki/Trident_(software)) tonen en beweren dat de schade wel mee zal vallen. Daarnaast is het onwaarschijnlijk dat er een nieuwe browser uitkomt met de Trident layout engine (waarop de code mogelijk een averechts effect zou kunnen hebben), aangezien Internet Explorer niet meer verder wordt onwikkeld en Microsoft zijn kaarten op het op Chromium gebaseerde Edge heeft gezet.
