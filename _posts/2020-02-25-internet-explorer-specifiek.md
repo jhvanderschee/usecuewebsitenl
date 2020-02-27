@@ -17,12 +17,12 @@ Online vond ik echter een trucje om toch IE specifieke code (CSS) te schrijven. 
 var doc = document.documentElement;  
 doc.setAttribute('data-useragent', navigator.userAgent);
 
-Vervolgens kun je zoiets zeggens als: als de user agent het woord 'Windows' bevat, voer deze code uit. Windows is echter niet het goede woord, omdat meerdere browsers op Windows (kunnen) draaien. Ik kwam erachter dat deze CSS regel vrij goed onderscheid kan maken tussen Internet Explorer, Edge, Chrome en Firefox:
+Vervolgens kun je zoiets zeggens als: als de user agent het woord 'Windows' bevat, voer deze code uit. Windows is echter niet het goede woord, omdat meerdere browsers op Windows (kunnen) draaien. Ik kwam erachter dat deze CSS regel vrij goed onderscheid kan maken tussen de browsers Internet Explorer, Edge, Chrome en Firefox:
 
 html[data-useragent*='Trident']
 
-Trident is de 'layout engine' van Internet Explorer en wordt in alle IE user agents genoemd. Edge gebruikt 'EdgeHTML' als layout engine en nieuwere versies gebruiken 'Blink'. Hierdoor pik je met deze zoekterm dus precies de Internet Explorer browsers er tussenuit, zonder dat je gebruik hoeft te maken van IE conditional comments. 
+Trident is de 'layout engine' van Internet Explorer en wordt in alle IE user agents genoemd. Trident is eigendom van Microsoft, net als Internet Explorer en Edge. Edge gebruikt echter 'EdgeHTML' en tegenwoordig 'Blink' als layout engine. Hierdoor pik je met deze Microsoft georiënteerde zoekterm dus precies de Internet Explorer browsers er tussenuit, zonder dat je gebruik hoeft te maken van IE conditional comments. 
 
 ## Overwegingen
 
-Een grote kritiek op 'user agent sniffing' zoals deze techniek heet, is dat de techniek inaccurate resultaten geeft. Daar kan ik weinig anders tegenin brengen dan [de lijst van Trident browsers](https://en.wikipedia.org/wiki/Trident_(software)) tonen en beweren dat de schade wel mee zal vallen. Daarnaast is het onwaarschijnlijk dat er een nieuwe browser uitkomt met de Trident layout engine (waarop de code mogelijk een averechts effect zou kunnen hebben), aangezien Internet Explorer niet meer verder wordt onwikkeld en Microsoft zijn kaarten op het op Chromium gebaseerde Edge heeft gezet.
+Een grote kritiek op 'user agent sniffing' zoals deze techniek heet, is dat de techniek inaccurate resultaten geeft. Daar kan ik weinig anders tegenin brengen dan [de lijst van Trident browsers](https://en.wikipedia.org/wiki/Trident_(software)) tonen en beweren dat de schade wel mee zal vallen. Daarnaast is het onwaarschijnlijk dat er een nieuwe browser uitkomt met de Trident layout engine (waarop de code mogelijk een averechts effect zou kunnen hebben), aangezien Internet Explorer niet meer verder wordt onwikkeld en Microsoft zijn kaarten op het op Chromium gebaseerde Edge heeft gezet (dat dus tegenwoordig Blink gebruikt).
