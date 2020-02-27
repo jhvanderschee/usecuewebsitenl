@@ -21,7 +21,7 @@ Vervolgens kun je zoiets zeggens als: als de user agent het woord 'Windows' beva
 
 html[data-useragent*='Trident']
 
-Trident is de 'layout engine' van Internet Explorer en wordt in alle IE user agents genoemd. Trident is eigendom van Microsoft, net als Internet Explorer en Edge. Edge gebruikt echter 'EdgeHTML' en tegenwoordig 'Blink' als layout engine. Hierdoor pik je met deze Microsoft georiënteerde zoekterm dus precies de Internet Explorer browsers er tussenuit, zonder dat je gebruik hoeft te maken van IE conditional comments. 
+Trident is de 'layout engine' van Internet Explorer en wordt in alle IE user agents genoemd. Trident is eigendom van Microsoft, net als Internet Explorer en Edge. Edge gebruikte vroeger echter 'EdgeHTML' en tegenwoordig 'Blink' als layout engine. Hierdoor pik je met deze Microsoft georiënteerde zoekterm dus precies de Internet Explorer browsers er tussenuit, zonder dat je gebruik hoeft te maken van IE conditional comments. 
 
 ## Overwegingen
 
