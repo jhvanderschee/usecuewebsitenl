@@ -6,11 +6,11 @@ Al jaren schrijf ik cross-browser code: code die hetzelfde werkt in alle (gangba
 
 Iedereen gebruikte allang 'flexbox', terwijl ik nog steeds 'float' gebruikte. Dat scheelde me enorm veel cross-browser testing en browser-specifieke oplossingen. Recent heb ik float eindelijk ingeruild voor flexbox, omdat ik de browser support voldoende vond. Zo gaat dat met meer dingen, waaronder ook 'jQuery'. Toen jQuery uitkwam werkte float nog niet consistent, werden CSS standaarden met voeten werden getreden en zat iedere website vol met Internet Explorer specifieke code. jQuery was toen een uitkomst. Nu is het overbodige ballast geworden. 
 
-## IE conditional no more
+## IE conditional is niet meer
 
 Toch loop je nog wel eens een heel enkele keer aan tegen de noodzaak om Internet Explorer specifieke code te schrijven. Daarvoor gebruikte ik altijd 'IE conditional comments'. Je kon er precies mee aangeven op welke versie je code van toepassing was. Deze comments (die alleen door Internet Explorer werden gelezen) worden echter niet meer ondersteund.
 
-## Of toch wel?
+## User Agent als oplossing?
 
 Online vond ik echter een trucje om toch IE specifieke code (CSS) te schrijven. De code die ik vond voegt de 'user agent' toe aan de body in een data attribuut. Dat ziet er zo uit: 
 
