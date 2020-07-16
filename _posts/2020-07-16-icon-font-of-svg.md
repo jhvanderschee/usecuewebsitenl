@@ -10,7 +10,7 @@ Om deze reden is het gebruik van SVG iconen in opkomst. SVG iconen zijn eigenlij
 
 Met de bredere ondersteuning van 'filter' in CSS is daar verandering in gekomen. Via deze filters kun je zwarte afbeeldingen met CSS veranderen in elke kleur die je wil. dit doe je door slim gebruik te maken van het sepia filter in combinatie met brightness en hue rotate. Eerst maak je de afbeelding grijs in plaats van zwart met het brightness filter, daarna maak je de afbeelding geel met het sepia filter en vervolgens verander je de gele afbeelding in elke kleur die je wil via hue rotate. Je kunt deze transformaties opslaan in een CSS class. Hieronder zie je hoe je dat kan doen:
 
-    .icon.purple {brightness(0.75) sepia(1) hue-rotate(-155deg) saturate(3.5);}
-    <img src='blackicon.svg' class='icon purple' />
+> .icon.purple {brightness(0.75) sepia(1) hue-rotate(-155deg) saturate(3.5);}  
+<img src='blackicon.svg' class='icon purple' />
 
 Mijn nieuwe proces is dat ik een hele verzameling SVG iconen download en deze in hun eigen map zet in mijn project. Wanneer ik dan een icoon nodig heb kies ik het meest geschikte icoon uit deze map en geef hem de juiste kleur door een kleur-class toe te voegen. Dat werkt als een trein, zolang die trein niet op Internet Explorer draait ;-). Heb jij een betere techniek? Ik hoor het graag!
