@@ -12,7 +12,7 @@ Met de [bredere ondersteuning](https://caniuse.com/#feat=css-filters) van 'filte
 
 .icon.purple {  
 &nbsp;&nbsp;&nbsp;&nbsp;filter: invert(1)  
-&nbsp;&nbsp;&nbsp;&nbsp;brightness(0.75)  
+&nbsp;&nbsp;&nbsp;&nbsp;brightness(0.25)  
 &nbsp;&nbsp;&nbsp;&nbsp;sepia(1)  
 &nbsp;&nbsp;&nbsp;&nbsp;hue-rotate(-155deg)  
 &nbsp;&nbsp;&nbsp;&nbsp;saturate(3.5);  
