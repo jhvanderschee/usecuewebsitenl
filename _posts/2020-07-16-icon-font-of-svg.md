@@ -11,7 +11,8 @@ Om deze reden is het gebruik van SVG iconen in opkomst. SVG iconen zijn eigenlij
 Met de [bredere ondersteuning](https://caniuse.com/#feat=css-filters) van 'filter' in CSS is daar verandering in gekomen. Via deze filters kun je zwarte afbeeldingen met CSS veranderen in elke kleur die je wil. dit doe je door slim gebruik te maken van het sepia filter in combinatie met brightness en hue rotate. Eerst maak je de afbeelding grijs in plaats van zwart met het brightness filter, daarna maak je de afbeelding geel met het sepia filter en vervolgens verander je de gele afbeelding in elke kleur die je wil via hue rotate. Je kunt deze transformaties opslaan in een CSS class. Hieronder zie je hoe je dat kan doen:
 
 .icon.purple {  
-&nbsp;&nbsp;&nbsp;&nbsp;filter: brightness(0.75)  
+&nbsp;&nbsp;&nbsp;&nbsp;filter: invert(1)  
+&nbsp;&nbsp;&nbsp;&nbsp;brightness(0.75)  
 &nbsp;&nbsp;&nbsp;&nbsp;sepia(1)  
 &nbsp;&nbsp;&nbsp;&nbsp;hue-rotate(-155deg)  
 &nbsp;&nbsp;&nbsp;&nbsp;saturate(3.5);  
